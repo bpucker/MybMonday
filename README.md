@@ -21,11 +21,15 @@ In addition to the R2R3 MYBs, there are also MYB3R (cell cycle control), [MYB4R 
 
 ## Tweets with additional background ##
 
-### MYBs control diverse functions in plants ###
+### (1) MYBs control diverse functions in plants ###
 
 [LINK_TO_TWEET]
 
 This tweet serves as an introduction. Please read the introduction section on top for additional information.
+
+
+### (2) MYBs interact with bHLH and WD40 (MBW complex) ###
+
 
 
 
