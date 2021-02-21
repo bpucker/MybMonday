@@ -30,6 +30,9 @@ This tweet serves as an introduction. Please read the introduction section on to
 
 
 
+## Contact ##
+Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]MYB_Monday)
+
 
 ## References ##
 
