@@ -30,8 +30,9 @@ This tweet serves as an introduction. Please read the introduction section on to
 
 ### (2) MYBs interact with bHLH and WD40 (MBW complex) ###
 
+[LINK_TO_TWEET]
 
-
+Different MYBs and bHLHs can be involved in the MBW complex. This complex is not only required for the regulation of the proanthocyanidin biosynthesis, but also plays a role in the development of trichomes and root hairs.
 
 
 ## Contact ##
@@ -45,6 +46,8 @@ Pucker B., Pandey A., Weisshaar B. and Stracke R. (2020). The R2R3-MYB gene fami
 Thiedig K, Weisshaar B, Stracke R (2021). Functional and evolutionary analysis of the Arabidopsis 4R-MYB protein SNAPc4 as part of the SNAP complex. Plant Physiology. doi:[10.1093/plphys/kiaa067](https://pub.uni-bielefeld.de/record/2949074).
 
 Dubos C, Stracke R, Grotewold E, Weisshaar B, Martin C, Lepiniec L (2010). MYB transcription factors in Arabidopsis. Trends in Plant Science 15(10): 573-581. doi:[10.1016/j.tplants.2010.06.005 ](https://pubmed.ncbi.nlm.nih.gov/20674465/).
+
+Baudry A, Heim MA, Dubreucq B, Caboche M, Weisshaar B, Lepiniec L (2004). TT2, TT8, and TTG1 synergistically specify the expression of BANYULS and proanthocyanidin biosynthesis in Arabidopsis thaliana. doi:[10.1111/j.1365-313X.2004.02138.x](https://pubmed.ncbi.nlm.nih.gov/15255866/).
 
 
 
