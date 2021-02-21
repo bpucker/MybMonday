@@ -3,7 +3,7 @@ This repository provides additional background to the #MYB_Monday tweets
 
 ## Introduction ##
 
-MYB transcription factors are among the largest transcription factor families in plants. Especially the R2R3 clades expanded in plants. Members of this family are phylogenetically assigned to groups. It is expected that members of a group control a specific function or process. Due to the large number of MYBs, numerous processes are controlled by them.
+MYB transcription factors are among the largest transcription factor families in plants. The characteristic feature of MYBs are repeat units which contain conserved tryptophan (W) residues with a defined number of interleaved amino acid residues (Dubos et al., 2010)[https://doi.org/10.1016/j.tplants.2010.06.005]. These repeat units determine the names of MYBs. Especially the R2R3 clade of the MYB family is expanded in plants. Members of this family are phylogenetically assigned to groups. It is expected that members of a group control a specific function or process. Due to the large number of MYBs, they are involved in numerous processes.
 
 Here is a list of the expected functions of [MYBs in banana (_Musa acuminata_)](https://doi.org/10.1371/journal.pone.0239275): (1) defense/stress response, (2) trichome branching and petal morphogenesis, (3) defense/stress response, (4) glucosinolates/camalexin, (5) suberin, (6) root development, (7) phenylpropanoid/lignin, (8) flower meristem identity, (10) abiotic stress response, flower morphogenesis, and stilbene biosynthesis, (11) photomorphogenesis, (12) anther and tapetum development, (14) axillary meristem and root growth, (15) SCW and lignin, (16) stemen/anther development, phenylpropanoid, SCW, (17) anther and trichome development, (18) SCW and lignin, (20) mucillage, lignin, and stomatal closure, (22) repressors of phenylpropanoid, sinapata, lignin, (23) general flavonoid biosynthesis and trichome development, (24) anthocyanins (monocots), (25) proanthocyanins, (27) flavonoid repressors, (28) trichome development, roothair development, floral organ development, (29) anthocyanins and betalains (dicots), (30) flavonols and phlobaphene, (31) cell cycle regulation, (33) phenylpropanoid and lignin, (34) stamen development, (35) defense and stress response, (36) leaf, shoot, germ morphogenesis, (37) anther development and stress response, (38) embryogenesis and seed maturation, (39) guard cell division and root gravitropism, (40) stress response and hormone signaling, (41) stress tolerance, and (42) cell wall, lignin, seed oil,axillary meristem. The phylogenetic relationship of these MYBs is displayed in Fig. 1.
 
@@ -44,7 +44,7 @@ Pucker B., Pandey A., Weisshaar B. and Stracke R. (2020). The R2R3-MYB gene fami
 
 Thiedig K, Weisshaar B, Stracke R (2021). Functional and evolutionary analysis of the Arabidopsis 4R-MYB protein SNAPc4 as part of the SNAP complex. Plant Physiology. doi:[10.1093/plphys/kiaa067](https://pub.uni-bielefeld.de/record/2949074).
 
-
+Dubos C, Stracke R, Grotewold E, Weisshaar B, Martin C, Lepiniec L (2010). MYB transcription factors in Arabidopsis. Trends in Plant Science 15(10): 573-581. doi:[10.1016/j.tplants.2010.06.005 ](https://pubmed.ncbi.nlm.nih.gov/20674465/).
 
 
 
