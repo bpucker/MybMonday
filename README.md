@@ -23,14 +23,14 @@ In addition to the R2R3 MYBs, there are also [MYB3R (cell cycle control)](https:
 
 ### (1) MYBs control diverse functions in plants ###
 
-[LINK_TO_TWEET]
+**MYBs are among the largest transcription factor families in plants. Members of the R2R3-MYB clade control various processes including ontogenesis, cell wall biosynthesis, stress response, and specialized metabolism. #MybMonday (src:https://bit.ly/2NkoaYZ)**
 
 This tweet serves as an introduction. Please read the introduction section on top for additional information.
 
 
-### (2) MYBs interact with bHLH and WD40 (MBW complex) ###
+### (3) MYBs interact with bHLH and WD40 (MBW complex) ###
 
-**MYBs are among the largest transcription factor families in plants. Members of the R2R3-MYB clade control various processes including ontogenesis, cell wall biosynthesis, stress response, and specialized metabolism. #MybMonday (src:https://bit.ly/2NkoaYZ)**
+[LINK_TO_TWEET]
 
 Different MYBs and bHLHs can be involved in the MBW complex. This complex is not only required for the regulation of the proanthocyanidin biosynthesis, but also plays a role in the development of trichomes and root hairs.
 
