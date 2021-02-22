@@ -23,17 +23,23 @@ In addition to the R2R3 MYBs, there are also [MYB3R (cell cycle control)](https:
 
 ### (1) MYBs control diverse functions in plants ###
 
-> **_TWEET:_** MYBs are among the largest transcription factor families in plants. Members of the R2R3-MYB clade control various processes including ontogenesis, cell wall biosynthesis, stress response, and specialized metabolism. #MybMonday (src:https://bit.ly/2NkoaYZ)
+> **_TWEET:_** MYBs are among the largest transcription factor families in plants. Members of the R2R3-MYB clade control various processes including ontogenesis, cell wall biosynthesis, stress response, and specialized metabolism. #MybMonday (src: https://bit.ly/2NkoaYZ)
 
 
-This tweet serves as an introduction. Please read the introduction section on top for additional information.
+This tweet serves as an introduction. Please read the introduction section on top of this page for additional information.
+
+### (2) MYB repeat structure ###
+
+> **_TWEET:_** Characteristic feature of MYBs are conserved tryptophan residues at defined positions in MYB repeat units. Names of MYBs are based on these MYB repeats e.g. 'R2R3-MYBs' harbour one R2 and one R3 repeat. #MybMonday (src: https://bit.ly/2ZBfWOD)
+
+These characteristic repeat features can be harnessed for the identification of MYBs in transcriptome or genome assemblies. Regular expressions can be used to search for this amino acid pattern in a given set of peptide sequences.
 
 
 ### (3) MYBs interact with bHLH and WD40 (MBW complex) ###
 
-[LINK_TO_TWEET]
+> **_TWEET:_** Some MYBs form complexes with bHLH and WD40 proteins. These complexes are named MBW after the 3 involved TFs. MBW controls the seed coat colour in Arabidopsis thaliana and other developmental processes (src: https://bit.ly/2ZCoswD)
 
-Different MYBs and bHLHs can be involved in the MBW complex. This complex is not only required for the regulation of the proanthocyanidin biosynthesis, but also plays a role in the development of trichomes and root hairs.
+Different MYBs and bHLHs can be involved in the MBW complex formation. The integration of different TFs allows specificity for different target genes. This complex is not only required for the regulation of the proanthocyanidin biosynthesis, but also plays a role in the development of trichomes and root hairs.
 
 
 ## Contact ##
