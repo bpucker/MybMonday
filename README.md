@@ -37,7 +37,7 @@ These characteristic repeat features can be harnessed for the identification of 
 
 ### (3) MYBs interact with bHLH and WD40 (MBW complex) ###
 
-> **_TWEET:_** Some MYBs form complexes with bHLH and WD40 proteins. These complexes are named MBW after the 3 involved TFs. MBW controls the seed coat colour in Arabidopsis thaliana and other developmental processes (src: https://bit.ly/2ZCoswD)
+> **_TWEET:_** Some MYBs form complexes with bHLH and WD40 proteins. These complexes are named MBW after the 3 involved TFs. MBW controls the seed coat colour in Arabidopsis thaliana and other developmental processes. #MybMonday (src: https://bit.ly/2ZCoswD)
 
 Different MYBs and bHLHs can be involved in the MBW complex formation. The integration of different TFs allows specificity for different target genes. This complex is not only required for the regulation of the proanthocyanidin biosynthesis, but also plays a role in the development of trichomes and root hairs.
 
