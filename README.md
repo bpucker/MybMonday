@@ -30,7 +30,7 @@ This tweet serves as an introduction. Please read the introduction section on to
 
 ### (2) MYBs interact with bHLH and WD40 (MBW complex) ###
 
-[LINK_TO_TWEET]
+**MYBs are among the largest transcription factor families in plants. Members of the R2R3-MYB clade control various processes including ontogenesis, cell wall biosynthesis, stress response, and specialized metabolism. #MybMonday (src:https://bit.ly/2NkoaYZ)**
 
 Different MYBs and bHLHs can be involved in the MBW complex. This complex is not only required for the regulation of the proanthocyanidin biosynthesis, but also plays a role in the development of trichomes and root hairs.
 
