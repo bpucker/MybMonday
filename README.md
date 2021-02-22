@@ -10,7 +10,7 @@ Here is a list of the expected functions of [MYBs in banana (_Musa acuminata_)](
 
 <a href="https://doi.org/10.1371/journal.pone.0239275">
 <img alt="Phylogenetic tree of banana MYBs" src="https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0239275/1/pone.0239275.g002.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210221%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210221T162111Z&X-Goog-Expires=3600&X-Goog-SignedHeaders=host&X-Goog-Signature=442406ac60efb274bf1560b745200c365cff905bca8abc19b45a4e69eb6e5a609d9dbc1ad627336594fd9bd1aa278d798dec33a0ea612e2eef81b5b85cfc2fdcd22811528e85031c45037a0a309df595173a7283c8c72161934becf956f639d92fc8fcf911c2b373ec727b64bf1d780caca17b6d91d99d77be89d4d3800015893e3f58272587d3d3145686bc25fe25b9ceb3b1f6977af6e8b2f84389322de91b6c0a58febd2e8310d2c9b382988d373be3c634412f182ac8e4a54ef6352e0bc32b132ce3fdcb81772b3160f41355636e5ecd75383921d04cf2f2ad4f91860c5ba730ffb703a73ea0524e3c0a88ead9b8055a14b0ecde2e363801604d32404bf1" width="75%" height="75%">
-</a>  
+</a>
 
 Fig. 1: Phylotenetic tree of the banana (_Musa acuminata_) MYBs ([Pucker et al., 2020](https://doi.org/10.1371/journal.pone.0239275)).
 
