@@ -23,27 +23,27 @@ In addition to the R2R3 MYBs, there are also [MYB3R (cell cycle control)](https:
 
 ### (1) MYBs control diverse functions in plants ###
 
-> **_TWEET:_** MYBs are among the largest transcription factor families in plants. Members of the R2R3-MYB clade control various processes including ontogenesis, cell wall biosynthesis, stress response, and specialized metabolism. #MybMonday (src: https://bit.ly/2NkoaYZ)
+> **_<a href="https://twitter.com/boas_pucker/status/1363737787782995970">TWEET</a>:_** MYBs are among the largest transcription factor families in plants. Members of the R2R3-MYB clade control various processes including ontogenesis, cell wall biosynthesis, stress response, and specialized metabolism. #MybMonday (src: https://bit.ly/2NkoaYZ)
 
 
 This tweet serves as an introduction. Please read the introduction section on top of this page for additional information.
 
 ### (2) MYB repeat structure ###
 
-> **_TWEET:_** Characteristic feature of MYBs are conserved tryptophan residues at defined positions in MYB repeat units. Names of MYBs are based on these MYB repeats e.g. 'R2R3-MYBs' harbour one R2 and one R3 repeat. #MybMonday (src: https://bit.ly/2ZBfWOD)
+> **_<a href="https://twitter.com/boas_pucker/status/1363858585768263686">TWEET</a>:_** Characteristic feature of MYBs are conserved tryptophan residues at defined positions in MYB repeat units. Names of MYBs are based on these MYB repeats e.g. 'R2R3-MYBs' harbour one R2 and one R3 repeat. #MybMonday (src: https://bit.ly/2ZBfWOD)
 
 These characteristic repeat features can be harnessed for the identification of MYBs in transcriptome or genome assemblies. Regular expressions can be used to search for this amino acid pattern in a given set of peptide sequences.
 
 
 ### (3) MYBs interact with bHLH and WD40 (MBW complex) ###
 
-> **_TWEET:_** Some MYBs form complexes with bHLH and WD40 proteins. These complexes are named MBW after the 3 involved TFs. MBW controls the seed coat colour in Arabidopsis thaliana and other developmental processes. #MybMonday (src: https://bit.ly/2ZCoswD)
+> **_<a href="https://twitter.com/boas_pucker/status/1366274503207227392">TWEET</a>:_** Some MYBs form complexes with bHLH and WD40 proteins. These complexes are named MBW after the 3 involved TFs. MBW controls the seed coat colour in Arabidopsis thaliana and other developmental processes. #MybMonday (src: https://bit.ly/2ZCoswD)
 
 Different MYBs and bHLHs can be involved in the MBW complex formation. The integration of different TFs allows specificity for different target genes. This complex is not only required for the regulation of the proanthocyanidin biosynthesis, but also plays a role in the development of trichomes and root hairs.
 
 ### (4) MYBs are breeding targets ###
 
-> **_TWEET:_** MYBs are the target of breeding projects to improve fruits, vegetables, and ornamental plants. MYB1/10/110a are responsible for the red coloration of apple skin, foliage & fruit-flesh, respectively, by activating a pigment biosynthesis  #MybMonday (src: https://bit.ly/37OrRgb)
+> **_<a href="">TWEET</a>:_** MYBs are the target of breeding projects to improve fruits, vegetables, and ornamental plants. MYB1/10/110a are responsible for the red coloration of apple skin, foliage & fruit-flesh, respectively, by activating a pigment biosynthesis  #MybMonday (src: https://bit.ly/37OrRgb)
 
 As transcriptional regulators of entire biosnythesis pathways, MYBs are promising targets of breeding projects. The deactivation of a specific MYB and be used to shut down a pathway leading to undesired products. Additionally, the contruction of genetically modified plants, e.g. overexpressing certains MYBs, is an option to improve the crop quality by up-regulating desired pathways.
 
