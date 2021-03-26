@@ -43,9 +43,23 @@ Different MYBs and bHLHs can be involved in the MBW complex formation. The integ
 
 ### (4) MYBs are breeding targets ###
 
-> **_<a href="">TWEET</a>:_** MYBs are the target of breeding projects to improve fruits, vegetables, and ornamental plants. MYB1/10/110a are responsible for the red coloration of apple skin, foliage & fruit-flesh, respectively, by activating a pigment biosynthesis  #MybMonday (src: https://bit.ly/37OrRgb)
+> **_<a href="https://twitter.com/boas_pucker/status/1368811218014629888">TWEET</a>:_** MYBs are the target of breeding projects to improve fruits, vegetables, and ornamental plants. MYB1/10/110a are responsible for the red coloration of apple skin, foliage & fruit-flesh, respectively, by activating a pigment biosynthesis  #MybMonday (src: https://bit.ly/37OrRgb)
 
 As transcriptional regulators of entire biosnythesis pathways, MYBs are promising targets of breeding projects. The deactivation of a specific MYB and be used to shut down a pathway leading to undesired products. Additionally, the contruction of genetically modified plants, e.g. overexpressing certains MYBs, is an option to improve the crop quality by up-regulating desired pathways.
+
+
+### (5) MYB associated with sweet cherry colour ###
+
+> **_<a href="https://twitter.com/boas_pucker/status/1371347932851634177">TWEET</a>:_** PavMYB10.1 is associated with the fruit skin colour of sweet cherry. Three different alleles lead to yellow to red colouration in the varieties 'Big Dragon', 'Rainier', and 'Lapins'. #MybMonday (src: https://bit.ly/3swLEsx)
+
+
+### (6) Red and white strawberries ###
+
+> **_<a href="https://twitter.com/boas_pucker/status/1373884648485445633">TWEET</a>:_** The red colour of octoploid strawberry (Fragaria × ananassa) is controlled by a MYB. A 8bp insertion in the CDS of FaMYB10 can change the colour from red to white through a single loss-of-function allele. #MybMonday (src: https://bit.ly/2ZUIGBV)
+
+This loss-of-function allele of MYB10-2 needs to be present in a homozygous state to cause the white phenotype as it is not dominant negative. Interesting about the MYB10-2 is the lack of introns wich suggest that it originates from a reverse transcription event. It will be exciting to completely resolve the story about the anthocyanins regulating MYBs in various strawberry strains. It is also a remarkable example of pathway inactivation through loss of a regulator. This is frequently observed in the flavonoid biosynthesis. One reason could be the involvement of structural genes in multiple branches of the pathway. The loss of the anthocyanin specific regulator only inactivaites one function, while loss of the structural gene would break multiple branches.
+
+
 
 
 
