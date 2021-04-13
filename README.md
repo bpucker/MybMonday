@@ -60,6 +60,21 @@ As transcriptional regulators of entire biosnythesis pathways, MYBs are promisin
 This loss-of-function allele of MYB10-2 needs to be present in a homozygous state to cause the white phenotype as it is not dominant negative. Interesting about the MYB10-2 is the lack of introns wich suggest that it originates from a reverse transcription event. It will be exciting to completely resolve the story about the anthocyanins regulating MYBs in various strawberry strains. It is also a remarkable example of pathway inactivation through loss of a regulator. This is frequently observed in the flavonoid biosynthesis. One reason could be the involvement of structural genes in multiple branches of the pathway. The loss of the anthocyanin specific regulator only inactivaites one function, while loss of the structural gene would break multiple branches.
 
 
+### (7) Colouration of kiwi fruit tissues ###
+
+> **_<a href="https://twitter.com/boas_pucker/status/1376406263693783042">TWEET</a>:_** The red colour of kiwifruit petals is determined by MYB110a, but there might be more MYBs involved in the anthocyanin biosynthesis regulation in other tissues. A microsatellite marker linked to MYB110a revealed the location on chr10. #MybMonday (src: https://bit.ly/3aVRWvZ)
+
+
+### (8) Red blushed skin of apricots ###
+
+> **_<a href="https://twitter.com/boas_pucker/status/1378942978253807616">TWEET</a>:_** Consumers prefer apricots with red blushed skin. Expression of PaMYB10 correlates with expression of anthocyanin biosynthesis genes which are responsible for production of red pigments. PaMYB10 seems to be an important activator. #MybMonday (src: https://bit.ly/2ZXbWbo)
+
+
+### (9) Betalain biosynthesis in sugar beet is controlled by BvMYB1 ###
+
+> **_<a href="https://twitter.com/boas_pucker/status/1381479694483156992">TWEET</a>:_** BvMYB1 is responsible for the red colouration of sugar beets and beetroots. This MYB activates the betalain biosynthesis which produces red pigments. #MybMonday (src: https://bit.ly/3q0w2fa)
+
+
 
 
 
