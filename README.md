@@ -74,6 +74,9 @@ This loss-of-function allele of MYB10-2 needs to be present in a homozygous stat
 
 > **_<a href="https://twitter.com/boas_pucker/status/1381479694483156992">TWEET</a>:_** BvMYB1 is responsible for the red colouration of sugar beets and beetroots. This MYB activates the betalain biosynthesis which produces red pigments. #MybMonday (src: https://bit.ly/3q0w2fa)
 
+### (10) Flavonol regulator BvMYB12 ###
+
+> **_<a href="https://twitter.com/boas_pucker/status/1384016409202679808">TWEET</a>:_** MYB functions are not restricted to fruit colours. BvMYB12 activates flavonol biosynthesis genes in sugar beet independent of bHLH/WD40. Flavonols protect plants against UV light and ROS, but also regulate developmental processes. #MybMonday (src: https://bit.ly/3dSMgVo)
 
 
 
