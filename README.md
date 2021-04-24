@@ -37,7 +37,7 @@ This tweet serves as an introduction. Please read the introduction section on to
 > **_<a href="https://twitter.com/boas_pucker/status/1363858585768263686">TWEET</a>:_** Characteristic feature of MYBs are conserved tryptophan residues at defined positions in MYB repeat units. Names of MYBs are based on these MYB repeats e.g. 'R2R3-MYBs' harbour one R2 and one R3 repeat. #MybMonday (src: https://bit.ly/2ZBfWOD)
 
 <a href="https://twitter.com/boas_pucker/status/1363858585768263686">
-<img alt="MYB repeat structure (Tweet #2)" src="https://pbs.twimg.com/media/EuzuOVBWQAAfvEM?format=png&name=medium" width="30%" height="30%">
+<img alt="MYB repeat structure (Tweet #2)" src="https://pbs.twimg.com/media/EuzuOVBWQAAfvEM?format=png&name=medium" width="50%" height="50%">
 </a>
 
 
@@ -93,7 +93,7 @@ This loss-of-function allele of MYB10-2 needs to be present in a homozygous stat
 > **_<a href="https://twitter.com/boas_pucker/status/1376406263693783042">TWEET</a>:_** The red colour of kiwifruit petals is determined by MYB110a, but there might be more MYBs involved in the anthocyanin biosynthesis regulation in other tissues. A microsatellite marker linked to MYB110a revealed the location on chr10. #MybMonday (src: https://bit.ly/3aVRWvZ)
 
 <a href="https://twitter.com/boas_pucker/status/1376406263693783042">
-<img alt="Colouration of kiwi fruit tissues (Tweet #7)" src="https://pbs.twimg.com/media/EvNXel3XcAAW_75?format=jpg&name=large" width="30%" height="30%">
+<img alt="Colouration of kiwi fruit tissues (Tweet #7)" src="https://pbs.twimg.com/media/EvNXel3XcAAW_75?format=jpg&name=large" width="50%" height="50%">
 </a>
 
 
@@ -121,7 +121,7 @@ This loss-of-function allele of MYB10-2 needs to be present in a homozygous stat
 
 
 <a href="https://twitter.com/boas_pucker/status/1384016409202679808">
-<img alt="Flavonol regulator BvMYB12 (Tweet #10)" src="https://pbs.twimg.com/media/EvNku2gWYAEWAeN?format=jpg&name=medium" width="30%" height="30%">
+<img alt="Flavonol regulator BvMYB12 (Tweet #10)" src="https://pbs.twimg.com/media/EvNku2gWYAEWAeN?format=jpg&name=medium" width="40%" height="40%">
 </a>
 
 
