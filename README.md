@@ -25,6 +25,10 @@ In addition to the R2R3 MYBs, there are also [MYB3R (cell cycle control)](https:
 
 > **_<a href="https://twitter.com/boas_pucker/status/1363737787782995970">TWEET</a>:_** MYBs are among the largest transcription factor families in plants. Members of the R2R3-MYB clade control various processes including ontogenesis, cell wall biosynthesis, stress response, and specialized metabolism. #MybMonday (src: https://bit.ly/2NkoaYZ)
 
+<a href="https://twitter.com/boas_pucker/status/1363737787782995970">
+<img alt="Phylogenetic tree of banana MYBs (Tweet #1)" src="https://pbs.twimg.com/media/EuzsUIJXcAEPIpy?format=jpg&name=4096x4096" width="30%" height="30%">
+</a>
+
 
 This tweet serves as an introduction. Please read the introduction section on top of this page for additional information.
 
