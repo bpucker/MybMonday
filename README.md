@@ -36,6 +36,11 @@ This tweet serves as an introduction. Please read the introduction section on to
 
 > **_<a href="https://twitter.com/boas_pucker/status/1363858585768263686">TWEET</a>:_** Characteristic feature of MYBs are conserved tryptophan residues at defined positions in MYB repeat units. Names of MYBs are based on these MYB repeats e.g. 'R2R3-MYBs' harbour one R2 and one R3 repeat. #MybMonday (src: https://bit.ly/2ZBfWOD)
 
+<a href="https://twitter.com/boas_pucker/status/1363858585768263686">
+<img alt="MYB repeat structure (Tweet #2)" src="https://pbs.twimg.com/media/EuzuOVBWQAAfvEM?format=png&name=medium" width="30%" height="30%">
+</a>
+
+
 These characteristic repeat features can be harnessed for the identification of MYBs in transcriptome or genome assemblies. Regular expressions can be used to search for this amino acid pattern in a given set of peptide sequences.
 
 
@@ -43,11 +48,21 @@ These characteristic repeat features can be harnessed for the identification of 
 
 > **_<a href="https://twitter.com/boas_pucker/status/1366274503207227392">TWEET</a>:_** Some MYBs form complexes with bHLH and WD40 proteins. These complexes are named MBW after the 3 involved TFs. MBW controls the seed coat colour in Arabidopsis thaliana and other developmental processes. #MybMonday (src: https://bit.ly/2ZCoswD)
 
+<a href="https://twitter.com/boas_pucker/status/1366274503207227392">
+<img alt="MYBs interact with bHLH and WD40 (Tweet #3)" src="https://pbs.twimg.com/media/EvNNzvcXIAEq1tv?format=jpg&name=medium" width="30%" height="30%">
+</a>
+
+
 Different MYBs and bHLHs can be involved in the MBW complex formation. The integration of different TFs allows specificity for different target genes. This complex is not only required for the regulation of the proanthocyanidin biosynthesis, but also plays a role in the development of trichomes and root hairs.
 
 ### (4) MYBs are breeding targets ###
 
 > **_<a href="https://twitter.com/boas_pucker/status/1368811218014629888">TWEET</a>:_** MYBs are the target of breeding projects to improve fruits, vegetables, and ornamental plants. MYB1/10/110a are responsible for the red coloration of apple skin, foliage & fruit-flesh, respectively, by activating a pigment biosynthesis  #MybMonday (src: https://bit.ly/37OrRgb)
+
+<a href="https://twitter.com/boas_pucker/status/1368811218014629888">
+<img alt="MYBs are breeding targets (Tweet #4)" src="https://pbs.twimg.com/media/EvNPR_CXMAEvIFp?format=jpg&name=medium" width="30%" height="30%">
+</a>
+
 
 As transcriptional regulators of entire biosnythesis pathways, MYBs are promising targets of breeding projects. The deactivation of a specific MYB and be used to shut down a pathway leading to undesired products. Additionally, the contruction of genetically modified plants, e.g. overexpressing certains MYBs, is an option to improve the crop quality by up-regulating desired pathways.
 
@@ -56,10 +71,19 @@ As transcriptional regulators of entire biosnythesis pathways, MYBs are promisin
 
 > **_<a href="https://twitter.com/boas_pucker/status/1371347932851634177">TWEET</a>:_** PavMYB10.1 is associated with the fruit skin colour of sweet cherry. Three different alleles lead to yellow to red colouration in the varieties 'Big Dragon', 'Rainier', and 'Lapins'. #MybMonday (src: https://bit.ly/3swLEsx)
 
+<a href="https://twitter.com/boas_pucker/status/1371347932851634177">
+<img alt="MYB associated with sweet cherry colour (Tweet #5)" src="https://pbs.twimg.com/media/EvNSbz7XMAAZqcG?format=jpg&name=medium" width="30%" height="30%">
+</a>
+
 
 ### (6) Red and white strawberries ###
 
 > **_<a href="https://twitter.com/boas_pucker/status/1373884648485445633">TWEET</a>:_** The red colour of octoploid strawberry (Fragaria × ananassa) is controlled by a MYB. A 8bp insertion in the CDS of FaMYB10 can change the colour from red to white through a single loss-of-function allele. #MybMonday (src: https://bit.ly/2ZUIGBV)
+
+<a href="https://twitter.com/boas_pucker/status/1373884648485445633">
+<img alt="Red and white strawberries (Tweet #6)" src="https://pbs.twimg.com/media/EvNUujRWgAIgh6r?format=jpg&name=medium" width="30%" height="30%">
+</a>
+
 
 This loss-of-function allele of MYB10-2 needs to be present in a homozygous state to cause the white phenotype as it is not dominant negative. Interesting about the MYB10-2 is the lack of introns wich suggest that it originates from a reverse transcription event. It will be exciting to completely resolve the story about the anthocyanins regulating MYBs in various strawberry strains. It is also a remarkable example of pathway inactivation through loss of a regulator. This is frequently observed in the flavonoid biosynthesis. One reason could be the involvement of structural genes in multiple branches of the pathway. The loss of the anthocyanin specific regulator only inactivaites one function, while loss of the structural gene would break multiple branches.
 
@@ -68,20 +92,37 @@ This loss-of-function allele of MYB10-2 needs to be present in a homozygous stat
 
 > **_<a href="https://twitter.com/boas_pucker/status/1376406263693783042">TWEET</a>:_** The red colour of kiwifruit petals is determined by MYB110a, but there might be more MYBs involved in the anthocyanin biosynthesis regulation in other tissues. A microsatellite marker linked to MYB110a revealed the location on chr10. #MybMonday (src: https://bit.ly/3aVRWvZ)
 
+<a href="https://twitter.com/boas_pucker/status/1376406263693783042">
+<img alt="Colouration of kiwi fruit tissues (Tweet #7)" src="https://pbs.twimg.com/media/EvNXel3XcAAW_75?format=jpg&name=large" width="30%" height="30%">
+</a>
+
 
 ### (8) Red blushed skin of apricots ###
 
 > **_<a href="https://twitter.com/boas_pucker/status/1378942978253807616">TWEET</a>:_** Consumers prefer apricots with red blushed skin. Expression of PaMYB10 correlates with expression of anthocyanin biosynthesis genes which are responsible for production of red pigments. PaMYB10 seems to be an important activator. #MybMonday (src: https://bit.ly/2ZXbWbo)
+
+<a href="https://twitter.com/boas_pucker/status/1378942978253807616">
+<img alt="Red blushed skin of apricots (Tweet #8)" src="https://pbs.twimg.com/media/EvNbhhvXYAE5-2R?format=png&name=900x900" width="30%" height="30%">
+</a>
 
 
 ### (9) Betalain biosynthesis in sugar beet is controlled by BvMYB1 ###
 
 > **_<a href="https://twitter.com/boas_pucker/status/1381479694483156992">TWEET</a>:_** BvMYB1 is responsible for the red colouration of sugar beets and beetroots. This MYB activates the betalain biosynthesis which produces red pigments. #MybMonday (src: https://bit.ly/3q0w2fa)
 
+<a href="https://twitter.com/boas_pucker/status/1381479694483156992">
+<img alt="Betalain biosynthesis in sugar beet is controlled by BvMYB1 (Tweet #9)" src="https://pbs.twimg.com/media/EvNeVhRXAAUsYb0?format=png&name=900x900" width="30%" height="30%">
+</a>
+
+
 ### (10) Flavonol regulator BvMYB12 ###
 
 > **_<a href="https://twitter.com/boas_pucker/status/1384016409202679808">TWEET</a>:_** MYB functions are not restricted to fruit colours. BvMYB12 activates flavonol biosynthesis genes in sugar beet independent of bHLH/WD40. Flavonols protect plants against UV light and ROS, but also regulate developmental processes. #MybMonday (src: https://bit.ly/3dSMgVo)
 
+
+<a href="https://twitter.com/boas_pucker/status/1384016409202679808">
+<img alt="Flavonol regulator BvMYB12 (Tweet #10)" src="https://pbs.twimg.com/media/EvNku2gWYAEWAeN?format=jpg&name=medium" width="30%" height="30%">
+</a>
 
 
 
