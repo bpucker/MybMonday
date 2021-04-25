@@ -127,6 +127,11 @@ This loss-of-function allele of MYB10-2 needs to be present in a homozygous stat
 
 ### (11) Structure of WEREWOLF ###
 
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Third a-helices of R2 and R3 repeats of WEREWOLF fit in the major groove of the DNA and recognize AACNGC. L59 of WER is probably sensing the methylation status of the binding site. #MybMonday (details: https://bit.ly/3nmpR5n)
+
+
+WEREWOLF (WER) is an important regulator in the plant ontogenesis [Lee & Schiefelbein, 1999](https://doi.org/10.1016/S0092-8674(00)81536-6). Generally, cis-elements of R2R3-MYBs can be assigned to the (C/T)AACNG or the ACC(A/T)A(A/C) group. A recent study by [Wang et al., 2019](https://academic.oup.com/nar/article/48/1/460/5626523) investigated the structure of WER and the interaction with cis-elements: The third alpha-helices of R2 and R3 repeats of WEREWOLF fit in the major groove of the DNA and recognize AACNGC. K55, N106, N109, and N110 are required for WER function. The L59 of WER is probably involved in sensig DNA methylation at 5mC. This 5mC methylation or a 6mA methylation in the AAC element might be able to prevent the interaction of WER and the DNA. L59 is a substitution in WER compared to MsMyb, TvMyb1, and TvMyb3. The L59A mutant shows almost the same affinity to methylated and unmethylated binding sites.
+
 
 
 
