@@ -130,7 +130,7 @@ This loss-of-function allele of MYB10-2 needs to be present in a homozygous stat
 > **_<a href="https://twitter.com/boas_pucker/status/1386553123402043392">TWEET</a>:_** Third alpha-helices of R2 and R3 repeats of WEREWOLF fit in the major groove of the DNA and recognize AACNGC. L59 of WER is probably sensing the methylation status of the binding site. #MybMonday (details: https://bit.ly/3nmpR5n)
 
 
-<a href="https://twitter.com/boas_pucker/status/1384016409202679808">
+<a href="https://twitter.com/boas_pucker/status/1386553123402043392">
 <img alt="Structure of WEREWOLF (Tweet #11)" src="https://pbs.twimg.com/media/Ez2Ah4qXsAQKyCW?format=jpg&name=medium" width="40%" height="40%">
 </a>
 
@@ -139,7 +139,11 @@ WEREWOLF (WER) is an important regulator in the plant ontogenesis [Lee & Schiefe
 
 ### (12) MYB2 of Boehmeria nivea ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** The R1-MYB family member MYB2 of Boehmeria nivea (Ramie) appears to be a positive regulator of Cd tolerance and accumulation. #MybMonday (details: https://bit.ly/3evEiQH)
+> **_<a href="https://twitter.com/boas_pucker/status/1389089839534968835">TWEET</a>:_** The R1-MYB family member MYB2 of Boehmeria nivea (Ramie) appears to be a positive regulator of Cd tolerance and accumulation. #MybMonday (details: https://bit.ly/3evEiQH)
+
+<a href="https://twitter.com/boas_pucker/status/1389089839534968835">
+<img alt="MYB2 of <i>Boehmeria nivea</i> (Tweet #12)" src="https://pbs.twimg.com/media/Ez2HyD-XEAApfcv?format=png&name=900x900" width="40%" height="40%">
+</a>
 
 
 A recent publication by [Zhu et al., 2020](https://doi.org/10.1371/journal.pone.0233375) describes MYB2 of Boehmeria nivea (Ramie) as regulator of Cadmium (Cd) tolerance and accumulation. BnMYB2 is an ortholog of GmMYB176, StMYB1R-1, AtMYBS3, OsMYBS1, and OsMYBS2. This clade is characterized by a conserved SHAQKYF motif. Heterologous expression of BnMYB2 in A. thaliana seem to increase the Cd tolerance and accumulation significantly. Would the expression of other MYBs e.g. AtMYBS3 result in a similar effect?
