@@ -151,7 +151,12 @@ A recent publication by [Zhu et al., 2020](https://doi.org/10.1371/journal.pone.
 
 ### (13) Subgroup 6 R2R3-MYBs control floral color in Aristolochiaceae ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Subgroup 6 of the R2R3-MYBs controls the flavonoid biosynthesis which is responsible for the colouration of flowers. These MYBs contribute to the diversity of floral colour in Aristolochiaceae. #MybMonday (details:https://bit.ly/3y2PhdA)
+> **_<a href="https://twitter.com/boas_pucker/status/1391634107545829376">TWEET</a>:_** Subgroup 6 of the R2R3-MYBs controls the flavonoid biosynthesis which is responsible for the colouration of flowers. These MYBs contribute to the diversity of floral colour in Aristolochiaceae. #MybMonday (details:https://bit.ly/3y2PhdA)
+
+
+<a href="https://twitter.com/boas_pucker/status/1391634107545829376">
+<img alt="Subgroup 6 R2R3-MYBs control floral color in Aristolochiaceae (Tweet #13)" src="https://pbs.twimg.com/media/E1APsxnX0AQc5Af?format=jpg&name=medium" width="40%" height="40%">
+</a>
 
 
 Subgroup 6 R2R3-MYBs control floral color in Aristolochiaceae
