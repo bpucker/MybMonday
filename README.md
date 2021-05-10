@@ -149,6 +149,12 @@ WEREWOLF (WER) is an important regulator in the plant ontogenesis [Lee & Schiefe
 A recent publication by [Zhu et al., 2020](https://doi.org/10.1371/journal.pone.0233375) describes MYB2 of Boehmeria nivea (Ramie) as regulator of Cadmium (Cd) tolerance and accumulation. BnMYB2 is an ortholog of GmMYB176, StMYB1R-1, AtMYBS3, OsMYBS1, and OsMYBS2. This clade is characterized by a conserved SHAQKYF motif. Heterologous expression of BnMYB2 in A. thaliana seem to increase the Cd tolerance and accumulation significantly. Would the expression of other MYBs e.g. AtMYBS3 result in a similar effect?
 
 
+### (13) Subgroup 6 R2R3-MYBs control floral color in Aristolochiaceae ###
+
+
+
+
+
 
 
 ## Contact ##
