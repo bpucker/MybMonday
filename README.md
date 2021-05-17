@@ -163,6 +163,11 @@ Subgroup 6 R2R3-MYBs control floral color in Aristolochiaceae
 [Munoz-Gomez et al.](https://doi.org/10.3389/fpls.2021.633227) report that the Aristolochiaceae are characterized by a huge diversity of flower coloration and forms. While the subgroup 6 of the R2R3-MYBs is generally responsible for regulation of the flavonoid biosynthesis (which includes colourful anthocyanins), there are several lineage-specific MYB gene duplications which cause alterations in the activity of regulated biosynthesis pathways. These TF differences result ultimately in the diversity of flower colors through different activation of pigment pathways. The authors investigated the expression of flavonoid biosynthesis genes in multiple species. No F3'5'H was detected in the transcriptome analyses which is in line with the absence of blue pigmented flowers. DFR and ANS were not detected in some of the datasets which would indicate that no anthocyanins are produced in the investigated tissues.
 
 
+### (14) Conserved motifs in the C-terminal part of anthocyanin activators ###
+
+
+
+
 
 
 ## Contact ##
