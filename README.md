@@ -182,9 +182,11 @@ Subgroup 6 R2R3-MYBs control floral color in Aristolochiaceae
 
 ### (15) MYB involved in sex determination ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** The R2R3-MYB gene DEFECTIVE IN TAPETAL DEVELOPMENT AND FUNCTION (TDF1) is one of two sex determination genes in Asparagus officinalis. #MybMonday (details: https://bit.ly/3yHB6Ll)
+> **_<a href="https://twitter.com/boas_pucker/status/1396707538373156864">TWEET</a>:_** The R2R3-MYB gene DEFECTIVE IN TAPETAL DEVELOPMENT AND FUNCTION (TDF1) is one of two sex determination genes in Asparagus officinalis. #MybMonday (details: https://bit.ly/3yHB6Ll)
 
-
+<a href="https://twitter.com/boas_pucker/status/1396707538373156864">
+<img alt="MYB involved in sex determination (Tweet #15)" src="https://pbs.twimg.com/media/E2H9ewXWYAAH912?format=jpg&name=medium" width="40%" height="40%">
+</a>
 
 
 Dioecy has evolved hundreds of times independently from hermaphrody in plants. [Harkess et al., 2020](http://www.plantcell.org/content/32/6/1790) present a MYB that is involved in sex determination in _Asparagus officinalis_. The X and Y chromosomes of A. officinalis evolved from an ancestral autosome pair during the shift from hermaphroditism to dioecy. A loss of recombination in a Y chromosomal region with genes supressing the female organogenesis (_SOFF_) and promoting male function (_TDF1_) can be caused by hemizygosity. Two Y-speficific genes appear sufficient for sex determination. The analysis of different mutant lines revealed a 1Mbp region on the Y-chromosome that is responsible for the sex determination. One of the genes in this region is the R2R3-MYB transcription factor _DEFECTIVE IN TAPETAL DEVELOPMENT AND FUNCTION_ (_TDF1_). Interestingly, this gene is not sex linked in all dioceious Asparagus species which indicates that this sex determination mechanism evolved within the genus. Sex chromosome evolution often leads to the accumulation of male genes on the Y chromosome and female genes on the X chromsome. One example of an X-linked gene is _WIP2/NTT_ which is specificly expressed in ovules.
