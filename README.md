@@ -175,6 +175,13 @@ Subgroup 6 R2R3-MYBs control floral color in Aristolochiaceae
 [Rodrigues et al., 2021](https://www.nature.com/articles/s41438-021-00514-1) identified functional variation in the C-terminal region of anthocyanin-activating MYBs. Molecular recognition features (MoRFs) are located in regions of intrinsic disorder of transcription factors. They are often short linear motifs (SLiMs) of 3-11 amino acid residues with evolutionary variability, but some consereved residues which determine specificity in interactions [Stracke et al., 2001](https://pubmed.ncbi.nlm.nih.gov/11597504/). Flexibility in these regions is considered an important factor in the evolution of signalling pathways by interacting co-factors. Multiple subgroups of the MYBs interact with bHLH transcription factors, but the involved motifs evolved convergently in the C-terminal region (subgroup 4 and subgroup 12) or in the N-terminal region (subgroups 5, 6, 15, 16). Anthocyanin regulating MYBs are located in subgroup 6. The C-terminal motif in this subgroup overlaps with the TAS4-siRNA81(-) target sequence. The PA and anthocyanin regulation subgroups 5 und 6 appear to be derived from the flavonoid regulator subgroup 7. However, early branching members in the subgroup 6 are not able to activate anthocyanins or lead only to a weak activation. Functionally characterized subgroup 6 members show conservation of three short motifs in their C-terminal region.
 
 
+### (15) MYB involved in sex determination ###
+
+
+
+Dioecy has evolved hundreds of times independently from hermaphrody in plants. [Harkess et al., 2020](http://www.plantcell.org/content/32/6/1790) present a MYB that is involved in sex determination in _Asparagus officinalis_. The X and Y chromosomes of A. officinalis evolved from an ancestral autosome pair during the shift from hermaphroditism to dioecy. A loss of recombination in a Y chromosomal region with genes supressing the female organogenesis (_SOFF_) and promoting male function (_TDF1_) can be caused by hemizygosity. Two Y-speficific genes appear sufficient for sex determination. The analysis of different mutant lines revealed a 1Mbp region on the Y-chromosome that is responsible for the sex determination. One of the genes in this region is the R2R3-MYB transcription factor _DEFECTIVE IN TAPETAL DEVELOPMENT AND FUNCTION_ (_TDF1_). Interestingly, this gene is not sex linked in all dioceious Asparagus species which indicates that this sex determination mechanism evolved within the genus. Sex chromosome evolution often leads to the accumulation of male genes on the Y chromosome and female genes on the X chromsome. One example of an X-linked gene is _WIP2/NTT_ which is specificly expressed in ovules.
+
+
 
 
 ## Contact ##
