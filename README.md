@@ -30,7 +30,8 @@ In addition to the R2R3 MYBs, there are also [MYB3R (cell cycle control)](https:
 </a>
 
 
-This tweet serves as an introduction. Please read the introduction section on top of this page for additional information.
+This tweet serves as an introduction. Please read the introduction section on top of this page for additional information. The phylogenetic tree shows the diversity of different functions that are regulated by MYB transcription factors. It appears that there are cases of convergent evolution i.e. different clades of MYBs regulating the same process.
+
 
 ### (2) MYB repeat structure ###
 
@@ -41,7 +42,7 @@ This tweet serves as an introduction. Please read the introduction section on to
 </a>
 
 
-These characteristic repeat features can be harnessed for the identification of MYBs in transcriptome or genome assemblies. Regular expressions can be used to search for this amino acid pattern in a given set of peptide sequences.
+These characteristic repeat features can be harnessed for the identification of MYBs in transcriptome or genome assemblies. Regular expressions can be used to search for this amino acid pattern in a given set of peptide sequences. Many genome-wide studies of R2R3-MYBs use the presence of this conserved domain to select their candidates.
 
 
 ### (3) MYBs interact with bHLH and WD40 (MBW complex) ###
@@ -113,6 +114,8 @@ This loss-of-function allele of MYB10-2 needs to be present in a homozygous stat
 <a href="https://twitter.com/boas_pucker/status/1381479694483156992">
 <img alt="Betalain biosynthesis in sugar beet is controlled by BvMYB1 (Tweet #9)" src="https://pbs.twimg.com/media/EvNeVhRXAAUsYb0?format=png&name=900x900" width="30%" height="30%">
 </a>
+
+Anthocyanin and betalains are (to some extent) functionally redundant. Not a single plant species was detected to show pigmentation by anthocyanins and betalains which lead to the mutual exclusion theory ([Timoneda et al., 2019](https://doi.org/10.1111/nph.15980)). BvMYB1 is an ortholog of the anthocyanin regulator PAP1. The co-option of this anthocyanin regulator by the betalain biosynthesis makes the complex pigment evolution in the Caryophyllales even more exciting. In contrast to PAP1, BvMYB1 does not require a bHLH and TTG1 cofactor to activate the betalain biosynthesis. The loss of an anthocyanin regulator to the betalain biosynthesis could be one explanation why anthocyanins have been replaced by betalains in sugar beet.
 
 
 ### (10) Flavonol regulator BvMYB12 ###
