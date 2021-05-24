@@ -127,6 +127,8 @@ Anthocyanin and betalains are (to some extent) functionally redundant. Not a sin
 <img alt="Flavonol regulator BvMYB12 (Tweet #10)" src="https://pbs.twimg.com/media/EvNku2gWYAEWAeN?format=jpg&name=medium" width="40%" height="40%">
 </a>
 
+While betalains replace anthocyanins in many Caryophyllales families ([Timoneda et al., 2019](https://doi.org/10.1111/nph.15980)), flavonols are still present in all Caryophyllales lineages. The flavonol biosynthesis is an evolutionary old pathway which appears to be conserved across all land plant lineages. The identificaiton of the AtMYB ortholog BvMYB12, which is also a flavonol biosynthesis regulator, indicates that the regulation of this pathway is also conserved over long phylogenetic distances.
+
 
 ### (11) Structure of WEREWOLF ###
 
