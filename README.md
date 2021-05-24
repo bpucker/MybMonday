@@ -165,7 +165,7 @@ Subgroup 6 R2R3-MYBs control floral color in Aristolochiaceae
 
 ### (14) Conserved motifs in the C-terminal part of anthocyanin activators ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Activators of the anthocyanin biosynthesis belong to subgroup 6 of the R2R3-MYB family. In addition to the R2R3 domain, there are three short motifs conserved among anthocyanin regulators #MybMonday (details: https://bit.ly/3eTQH28)
+> **_<a href="https://twitter.com/boas_pucker/status/1394178368149458946">TWEET</a>:_** Activators of the anthocyanin biosynthesis belong to subgroup 6 of the R2R3-MYB family. In addition to the R2R3 domain, there are three short motifs conserved among anthocyanin regulators #MybMonday (details: https://bit.ly/3eTQH28)
 
 <a href="https://twitter.com/boas_pucker/status/1394178368149458946">
 <img alt="Conserved motifs in the C-terminal part of anthocyanin activators (Tweet #14)" src="https://pbs.twimg.com/media/E1karEGWEAE1Cu-?format=jpg&name=large" width="40%" height="40%">
@@ -176,6 +176,9 @@ Subgroup 6 R2R3-MYBs control floral color in Aristolochiaceae
 
 
 ### (15) MYB involved in sex determination ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** The R2R3-MYB gene DEFECTIVE IN TAPETAL DEVELOPMENT AND FUNCTION (TDF1) is one of two sex determination genes in Asparagus officinalis. #MybMonday (details: https://bit.ly/3yHB6Ll)
+
 
 
 
