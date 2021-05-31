@@ -194,7 +194,13 @@ Dioecy has evolved hundreds of times independently from hermaphrody in plants. [
 
 ### (16) MYBC1 in kiwifruit ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Kiwifruit MYBC1 is an activator of the flavonoid biosynthesis genes F3'H and F3'5'H. Up-regulation F3'5'H is discussed in context of increased proanthocyanin content #MybMonday (details: https://bit.ly/3vBUJlH)
+> **_<a href="https://twitter.com/boas_pucker/status/1399261076877885443">TWEET</a>:_** Kiwifruit MYBC1 is an activator of the flavonoid biosynthesis genes F3'H and F3'5'H. Up-regulation F3'H/F3'5'H is discussed in context of increased proanthocyanidin content #MybMonday (details: https://bit.ly/3vBUJlH)
+
+
+<a href="https://twitter.com/boas_pucker/status/1399261076877885443">
+<img alt="MYBC1 in kiwifruit (Tweet #16)" src="https://pbs.twimg.com/media/E2ssKpOXoAIEqiW?format=jpg&name=large" width="30%" height="30%">
+</a>
+
 
 
 [Peng et al., 2020](https://www.nature.com/articles/s41598-020-70977-0) present MYBC1 and WRKY44 as activators of anthocyanin and proanthocyanidin biosynthesis. Both transcription factors appear to activate F3'H and F3'5'H as well as the proanthocyanidin biosnythesis genes. The authors present that an increased hydroxylation (via F3'H and F3'5'H) increases the flux into the proanthocyanidin biosynthesis which competes with the anthocyanin biosynthesis for substrate. Member of the MYB subgroup 6 are usually activating the anthocyanin biosynthesis. However, MYBC1 belongs to the subgroup 5. Peng et al. used RNA-Seq of differently pigmented kiwifruit cultivars to identify the underlying genes. Transient overexpression of two candidate genes, MYBC1 and WRKY44, in tobacco caused accumulation of the anthocyanin in patches. MYBC1 overexpression leads to cyanidin-based and delphinidin-based anthocyanin, while WRKY44 overexpression only caused the accumulation of cyanidin-based anthocyanins.
