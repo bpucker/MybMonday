@@ -208,6 +208,19 @@ Overexpression in calli revealed differences between MYB110 (anthocyanin actiato
 
 
 
+### (17) Evolution of the R2R3-MYBs in plants ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Ancestral land plants already exhibited 10 subfamilies of R2R3-MYBs. Orthologs of 7 subfamilies were detected in chlorophytes and charophycean algae. #MybMonday (details: )
+
+
+A phylogenetic anaylysis by [Jiang & Rao, 2020](https://doi.org/10.1104/pp.19.01082) revealed 10 subfamilies of R2R3-MYBs in the ancestral land plants. Seven of these subfamilies have orthologs in the chlorophytes and charophycean algae. Different subfamilies of the MYB expanded in different plant lineages. Whole genome duplication alone cannot explain this pattern. Chlorophyta (<13) and streptophyte alga _Klebsormidium nitens_ (22) have small numbers of MYBs, while land plants have generally a larger number. About half of the land plant R2R3-MYBs fall into subfamily VIII, which is the main contributor to the expansion of R2R3-MYBs in land plants. This study supports the hypothesis that the R1R2R3-MYBs are not the result of R2R3-MYBs gaining an additional repeat.
+The authors point out some issues when investigating the evolution of MYBs:
+(1) R2R3-MYBs have been classified into 23-90 subgroups thus there is little consensus regarding their classification schemes. Therefore, Jiang & Rao propose a new classification scheme which better reflects the asymmetric evolution of R2R3-MYBs in land plants and is restricted to monophyletic groups.
+(2) Phylogenetic anlysis are impacted by the quality of the annotations of studied species. The numbers of R2R3-MYBs might be underestimated in some species.
+
+
+
+
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]MYB_Monday)
 
