@@ -226,7 +226,7 @@ The authors point out some issues when investigating the evolution of MYBs:
 
 ### (18) R2R3-MYBs regulate gucosinolate biosynthesis ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MYB28, MYB29, MYB34, MYB51, MYB76, and MYB122 control the glucosinolate biosynthesis. Sulfur deficiency reduces the gene expression of MYB29 and MYB76 through negative regulation by SLIM1. #MybMonday (details: )
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MYB28, MYB29, MYB34, MYB51, MYB76, and MYB122 control the glucosinolate biosynthesis. Sulfur deficiency reduces the gene expression of MYB29 and MYB76 through negative regulation by SLIM1. #MybMonday (details: https://bit.ly/2RWQNh6)
 
 
 Plants need a sophisticated regulatory system to balance the flux of sulfur into glucosinolate (GSL) biosynthesis and central metabolism. MYB34, MYB51, and MYB122 control the indolic GSL (IG) biosynthesis, while MYB28, MYB29, and MYB76 control the aliphatic GSL (AG) biosynthesis. These MYBs also enhance sulfur assimilation through activation of the respective genes. IG molecule contain 2 and AG molecules contain 3 sulfur atoms in their backbone, respectively. [Frerigmann & Gigolashvili, 2014](https://doi.org/10.3389/fpls.2014.00626) studied the role of R2R3-MYBs under sulfur deficiency. Previous studies had identified that sulfur assimilation pathway genes are up-regulated under sulfur deficiency and that GSL biosynthesis is reduced. Catabolism of GSL is one way how sulfur can be made available in the cell again.
