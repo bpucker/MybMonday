@@ -224,6 +224,16 @@ The authors point out some issues when investigating the evolution of MYBs:
 (2) Phylogenetic anlysis are impacted by the quality of the annotations of studied species. The numbers of R2R3-MYBs might be underestimated in some species.
 
 
+### (18) R2R3-MYBs regulate gucosinolate biosynthesis ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MYB28, MYB29, MYB34, MYB51, MYB76, and MYB122 control the glucosinolate biosynthesis. Sulfur deficiency reduces the gene expression of MYB29 and MYB76 through negative regulation by SLIM1. #MybMonday (details: )
+
+
+Plants need a sophisticated regulatory system to balance the flux of sulfur into glucosinolate (GSL) biosynthesis and central metabolism. MYB34, MYB51, and MYB122 control the indolic GSL (IG) biosynthesis, while MYB28, MYB29, and MYB76 control the aliphatic GSL (AG) biosynthesis. These MYBs also enhance sulfur assimilation through activation of the respective genes. IG molecule contain 2 and AG molecules contain 3 sulfur atoms in their backbone, respectively. [Frerigmann & Gigolashvili, 2014](https://doi.org/10.3389/fpls.2014.00626) studied the role of R2R3-MYBs under sulfur deficiency. Previous studies had identified that sulfur assimilation pathway genes are up-regulated under sulfur deficiency and that GSL biosynthesis is reduced. Catabolism of GSL is one way how sulfur can be made available in the cell again.
+
+Sulfur Limitation 1 (SLIM1) was identified as a negative regulator of MYB29 and MYB76. SLIM1 reduces the activities of both promoters in a trans-activation assay. Sulfur deficiency caused a reducing in the AG content. The biosynthesis of AGs might require a tighter regulation, because the molecules contain one additional sulfur atom compared to IGs. However, a 'low GSL signal' seems to prevent the SLIM1-based repression of the MYB29 and MYB76 expression. This was investigated in mutant plants with a block in the GSL biosynthesis. The authors discus that the six MYBs are not just activating the GLS biosnythesis, but also the sulfur assimilation. There are multiple scenarios which could explain the observed results and further research on the topic is required.
+
+
 
 
 ## Contact ##
