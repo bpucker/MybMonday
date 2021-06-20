@@ -237,7 +237,7 @@ Sulfur Limitation 1 (SLIM1) was identified as a negative transcriptional regulat
 
 ### (19) VvMYB86 - activator of PA and repressor of anthocyanin biosynthesis ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Vitis vinifera MYB86 is a positive regulator of proanthocyanidin biosynthesis (LAR), but a negative regulator of anthocyanin biosynthesis (ANS,UFGT) #MybMonday (details: )
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Vitis vinifera MYB86 is a positive regulator of the proanthocyanidin biosynthesis (LAR), but a negative regulator of the anthocyanin biosynthesis (ANS & UFGT) #MybMonday (details: https://bit.ly/3xuWods)
 
 
 [Cheng et al., 2021](https://www.frontiersin.org/articles/10.3389/fpls.2020.613677/full) characterized the Vitis vinifera MYB86 through in vivo and in vitro experiments. It turns out that this MYB is a positive regulator of LAR, which is involved in the anthocyanin biosynthesis. LAR and ANR are the two enzymes of the PA biosynthesis. While ANR determines the total amount of proanthocyanidins, LAR determines the degree of PA polymerisation. While upregulating LAR, this VvMYB86 represses ANS and UFGT, which are involved in anthocyanin formation. Most previously characterized V. vinifera MYBs are dedicated regulators of one of the pathways. However, MYB5 in V. vinifera and additional MYBs in other species have been identified as regulators of both pathways, but these are positive regulators of both pathways. Nevertheless, MYBs with opposite effects on both pathways have been described in other species before.
