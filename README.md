@@ -250,10 +250,10 @@ Sequence analysis of VvMYB86 revealed the presence of a bHLH interaction motif s
 
 ### (20) Anthocyanin activating AtMYBs ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** The three anthocyanin regulators PAP1 (MYB75), PAP2 (MYB90), and MYB113 are expressed in different developmental stages of Arabidopsis thaliana leaves #MybMonday (details: )
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** The three anthocyanin regulators PAP1 (MYB75), PAP2 (MYB90), and MYB113 are expressed in different developmental stages of Arabidopsis thaliana leaves #MybMonday (details: https://bit.ly/3jxuQRd)
 
 
-There are three anthocyanin activating MYBs in Arabidopsis thaliana: MYB75, MYB90, and MYB113. Trans-acting siRNA 4 (TAS4) and microRNA828 (miR828) are repressing the gene expression of these MYBs. [Koo & Poethig, 2021](https://doi.org/10.1186/s13765-020-00584-0) show that the expression of PAP1 (MYB75), PAP2 (MYB90), and MYB113 change over developmental stages of A. thaliana leaves. TAS4 seems to be most active in young leaves. The anthocyanin content is equal in all leaves during the first 3-4 weeks, but there is a substantially higher anthocyanin concentration in apical leaves in older plants. An additional finding is that PAP2 might be responsible for the anthocyanin increase under nutrient-deficient conditions, because its gene expression was increased 1000-fold. Different transcript abundances of PAP1 and PAP2 could be determined by different affinities of TAS4 for both MYBs.
+There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MYB90, and MYB113. Trans-acting siRNA 4 (TAS4) and microRNA828 (miR828) are repressing the gene expression of these MYBs. [Koo & Poethig, 2021](https://doi.org/10.1186/s13765-020-00584-0) show that the expression of _PAP1_ (_MYB75_), _PAP2_ (_MYB90_), and _MYB113_ change over developmental stages of _A. thaliana_ leaves. TAS4 seems to be most active in young leaves. The anthocyanin content is equal in all leaves during the first 3-4 weeks, but there is a substantially higher anthocyanin concentration in apical leaves in older plants. An additional finding is that _PAP2_ might be responsible for the anthocyanin increase under nutrient-deficient conditions, because its gene expression was increased 1000-fold. Different transcript abundances of _PAP1_ and _PAP2_ could be determined by different affinities of TAS4 for both MYBs.
 
 
 
