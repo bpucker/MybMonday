@@ -253,7 +253,7 @@ Sequence analysis of VvMYB86 revealed the presence of a bHLH interaction motif s
 > **_<a href="https://twitter.com/boas_pucker/status/1409383560037892101">TWEET</a>:_** The three anthocyanin biosynthesis regulators PAP1 (MYB75), PAP2 (MYB90), and MYB113 are expressed in different developmental stages of Arabidopsis thaliana leaves #MybMonday (details: https://bit.ly/3jxuQRd)
 
 <a href="https://twitter.com/boas_pucker/status/1409383560037892101">
-<img alt="Anthocyanin activating AtMYBs (Tweet #20)" src="https://pbs.twimg.com/media/E47LvU_WEAcx8W8?format=jpg&name=large" width="50%" height="50%">
+<img alt="Anthocyanin activating AtMYBs (Tweet #20)" src="https://pbs.twimg.com/media/E47LvU_WEAcx8W8?format=jpg&name=large" width="30%" height="30%">
 </a>
 
 
