@@ -274,7 +274,7 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 
 ### (22) Pepper MYBs ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1411935374494998533">TWEET</a>:_** A genome-wide analysis of R2R3-MYBs in Capsicum annuum revealed six candidates that might regulate the capsaicin and dihydrocapsaicin biosynthesis #MybMonday (details: )
+> **_<a href="https://twitter.com/boas_pucker/status/1411935374494998533">TWEET</a>:_** A genome-wide analysis of R2R3-MYBs in Capsicum annuum revealed six candidates that might regulate the capsaicin and dihydrocapsaicin biosynthesis #MybMonday (details: https://bit.ly/36m7N3Z)
 
 
 [Wang et al., 2020](https://doi.org/10.3389/fgene.2020.598183) identified 108 R2R3-MYBs in Capsicum annuum. Pepper is well known for its piciness which is due to capsaicin. The authors expected a connection between the MYBs and the capsaicin biosynthesis. Gene structure, protein domain structure, and phylogenetic relationships of the MYBs were summarized in one figure. Individual MYBs were identified as co-expressed with single genes of the capsaicinoid biosynthesis, but it appears that there is no general regulator. CaMYB108 was previously identified as a capsaicin biosynthesis regulator. There might be other/additional transcriptional regulators which were not identified in this study.
