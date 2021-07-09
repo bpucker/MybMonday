@@ -272,6 +272,14 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 [Todesco et al., 2021](https://doi.org/10.1101/2021.06.26.449999) investigate the regulation of the floral pigment diversity of sunflowers. Floral pigmentation is an outstanding example of adapative variation. A pattern of UV absorbing pigments cannot be seen by the human eye, but probably is crucial for the pollinator attraction. A proportion of the sunflower accessions lacks such "nectar guides" due to completely UV-absorbing ligules. This suggest that the pollinator orientation is not one of the flavonol functions in these flowers. GWAS revealed a region on Chr15 as causal for this phenotypic difference between accessions. While this region does not contain a promising candidate gene, MYB111 is located close by. MYB111 appears responsible for the flavonol formation in petals of _A. thaliana_. It seems that MYB12 is not involved in the activation of flavonol accumulation in this tissue type. The explanation is a spatial separation of _MYB111_ and _MYB12_ expression with only _MYB111_ being expressed in these tissues. _MYB111_ shows a particularly high expression in developing ligules. Huge variation in the promoter region of _MYB111_ was observed between sunflower accessions. It appears that "nectar guides" are stronger in cultivated accessions compared to the ancestral state in the wild types, which probably leads to more pollinator visits. UV-absorbing compounds could lead to temperatue increase and make the flower more attractive to pollinators, but the effect is probably neglectable. Flavonols are also involved in drought response by reducing water loss. Since evaporation results in cooling, this could be another mechanism to regulate the flower temperature. 
 
 
+### (22) Pepper MYBs ###
+
+> **_<a href="https://twitter.com/boas_pucker/status/1411935374494998533">TWEET</a>:_** A genome-wide analysis of R2R3-MYBs in Capsicum annuum revealed six candidates that might regulate the capsaicin and dihydrocapsaicin biosynthesis #MybMonday (details: )
+
+
+[Wang et al., 2020](https://doi.org/10.3389/fgene.2020.598183) identified 108 R2R3-MYBs in Capsicum annuum. Pepper is well known for its piciness which is due to capsaicin. The authors expected a connection between the MYBs and the capsaicin biosynthesis. Gene structure, protein domain structure, and phylogenetic relationships of the MYBs were summarized in one figure. Individual MYBs were identified as co-expressed with single genes of the capsaicinoid biosynthesis, but it appears that there is no general regulator. CaMYB108 was previously identified as a capsaicin biosynthesis regulator. There might be other/additional transcriptional regulators which were not identified in this study.
+
+
 
 
 ## Contact ##
