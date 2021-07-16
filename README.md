@@ -283,6 +283,14 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 [Wang et al., 2020](https://doi.org/10.3389/fgene.2020.598183) identified 108 R2R3-MYBs in Capsicum annuum. Pepper is well known for its piciness which is due to capsaicin. The authors expected a connection between the MYBs and the capsaicin biosynthesis. Gene structure, protein domain structure, and phylogenetic relationships of the MYBs were summarized in one figure. Individual MYBs were identified as co-expressed with single genes of the capsaicinoid biosynthesis, but it appears that there is no general regulator. CaMYB108 was previously identified as a capsaicin biosynthesis regulator. There might be other/additional transcriptional regulators which were not identified in this study.
 
 
+### (23) _Morella rubra_ MYBs ###
+
+> **_<a href="https://twitter.com/boas_pucker/status/1414472089126510593">TWEET</a>:_** Morella rubra has 174 MYBs. Overexpression of MrMYB12 causes increase in flavonol biosynthesis gene expression (CHS, F3H, FLS) and results in lower flux into anthocyanin biosynthesis #MybMonday (details: )
+
+
+[Cao et al., 2021](https://www.frontiersin.org/articles/10.3389/fpls.2021.691384/full) describe the genome-wide investigation of the MYB gene family in Chinese bayberry (_Morella rubra_). _M. rubra_ is a subtropical fruit tree native to China. The 174 MYBs include 122 R3R3-MYBs, 43 1R-MYBs, two 3R-MYBs, one 4R-MYB, and six atypical MYBs. Tandem duplications and larger segmental duplications contributed to the total number of observed MYBs. _M. rubra_ is known for the production of various flavonoids. Therefore, the MrMYBs involved in the flavonoid biosynthesis were investigated in detail. MrMYB12 was identified as a flavonol regulator that can activate the gene expression of _CHS_, _F3H_, and _FLS_. MrMYB39 and MrMYB58a can activate the LAR promoter indicating that they are proanthocyanin regulators.
+
+
 
 
 ## Contact ##
