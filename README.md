@@ -285,8 +285,11 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 
 ### (23) _Morella rubra_ MYBs ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1414472089126510593">TWEET</a>:_** _Morella rubra_ has 174 MYBs. Overexpression of MrMYB12 causes an increase in flavonol biosynthesis gene expression (_CHS_, _F3H_, _FLS_) and results in lower flux into anthocyanin biosynthesis #MybMonday (details: https://bit.ly/3xLwrae)
+> **_<a href="https://twitter.com/boas_pucker/status/1417008803967426561">TWEET</a>:_** _Morella rubra_ has 174 MYBs. Overexpression of MrMYB12 causes an increase in flavonol biosynthesis gene expression (_CHS_, _F3H_, _FLS_) and results in lower flux into anthocyanin biosynthesis #MybMonday (details: https://bit.ly/3xLwrae)
 
+<a href="https://twitter.com/boas_pucker/status/1417008803967426561">
+<img alt="_Morella rubra_ MYBs (Tweet #23)" src="https://pbs.twimg.com/media/E6Z3piNXIAMiulT?format=jpg&name=4096x4096" width="30%" height="30%">
+</a>
 
 
 [Cao et al., 2021](https://www.frontiersin.org/articles/10.3389/fpls.2021.691384/full) describe the genome-wide investigation of the MYB gene family in Chinese bayberry (_Morella rubra_). _M. rubra_ is a subtropical fruit tree native to China. The 174 MYBs include 122 R3R3-MYBs, 43 1R-MYBs, two 3R-MYBs, one 4R-MYB, and six atypical MYBs. Tandem duplications and larger segmental duplications contributed to the total number of observed MYBs. _M. rubra_ is known for the production of various flavonoids. Therefore, the MrMYBs involved in the flavonoid biosynthesis were investigated in detail. MrMYB12 was identified as a flavonol regulator that can activate the gene expression of _CHS_, _F3H_, and _FLS_. MrMYB39 and MrMYB58a can activate the LAR promoter indicating that they are proanthocyanin regulators.
