@@ -65,7 +65,7 @@ Different MYBs and bHLHs can be involved in the MBW complex formation. The integ
 </a>
 
 
-As transcriptional regulators of entire biosnythesis pathways, MYBs are promising targets of breeding projects. The deactivation of a specific MYB and be used to shut down a pathway leading to undesired products. Additionally, the contruction of genetically modified plants, e.g. overexpressing certains MYBs, is an option to improve the crop quality by up-regulating desired pathways.
+As transcriptional regulators of entire biosnythesis pathways, MYBs are promising targets of breeding projects. The deactivation of a specific MYB and be used to shut down a pathway leading to undesired products. Additionally, the contruction of genetically modified plants, e.g. overexpressing certain MYBs, is an option to improve the crop quality by up-regulating desired pathways.
 
 
 ### (5) MYB associated with sweet cherry colour ###
