@@ -319,6 +319,15 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 [Li et al., 2021](https://doi.org/10.1101/2021.07.21.453189) analazyed the R2R3-MYBs in _Camelia sinensis_ (tea plant) to find the regulator of the galloylated catechin biosynthesis. Catechins accound for 70% of the polyphenols in _C. sinensis_ and are the major health promoting factor. Most abundant are galloylated catechins (ECG and EGCG). A total of 118 R2R3-MYBs were discovered in _C. sinensis_ and presented in a phylogenetic tree with the _A. thaliana_ MYBs (Dubos et al., 2010). No tea plant MYB falls in the S12 group comprized of AtMYB28, AtMYB29, AtMYB76, AtMYB34, and AtMYB51. These are Brassicaceae-specific MYBs that regulate glucosinolate biosynthesis (Gigolashvili et al., 2007; Matus et al., 2008). Three MYB subgroups without _A. thaliana_ members were identified. The authors propose that these evolved in tea plant, but the presence of _Vitis vinifera_ MYBs in these clades suggest that they have been lost in _A. thaliana_ instead. The authors decided to focus on subgroup 5 due to expression in apical buds and young leaves where high catechin concentrations were detected. _CsMYB30_, _CsMYB34_, _CsMYB37_ and _CsMYB42_ revealed a strong co-expression with the catechin biosynthesis genes (_CsMYB32_ instead of _CsMYB42_ was observed in a validation experiment). 
 
 
+### (26) Mutation in R2R3-MYB _GmTDF1-1_ triggers male sterility in soybean ###
+
+> **_<a href="https://twitter.com/boas_pucker/status/1422070909108637696">TWEET</a>:_** Disruption of the R2R3-MYB GmTDF1-1 by a point mutation triggers male sterility in soybean. GmTDF1-2 is too weakly expressed to compensate the loss #MybMonday (details: )
+
+
+
+[Yu et al, 2021](https://link.springer.com/article/10.1007/s00122-021-03920-0) report that the R2R3-MYB transcription factor GmTDF1-1 is crucial for the anther development in soybean. A loss of this gene function by a point mutation resulted in male sterility. There is a very similar _TDF1-2_ gene, but insufficient expression prevents a compensation of the _TDF1-1_ function loss. Male sterility is an important trait in soybean, because it facilitates hybrid breeding.
+
+
 
 
 ## Contact ##
