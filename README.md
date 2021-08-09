@@ -321,7 +321,7 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 
 ### (26) Mutation in R2R3-MYB _GmTDF1-1_ triggers male sterility in soybean ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1422070909108637696">TWEET</a>:_** Disruption of the R2R3-MYB GmTDF1-1 by a point mutation triggers male sterility in soybean. GmTDF1-2 is too weakly expressed to compensate the loss #MybMonday (details: )
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Disruption of the R2R3-MYB GmTDF1-1 by a point mutation triggers male sterility in soybean. The very similar GmTDF1-2 is too weakly expressed to compensate this loss of GmTDF1-1 activity #MybMonday (details: https://bit.ly/3xw7ej1)
 
 
 
