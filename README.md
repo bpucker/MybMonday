@@ -329,6 +329,15 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 
 
 
+### (27) Evolution of the 3R-MYB gene family ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** 3R-MYBs (R1R2R3-MYBs) are involved in the cell cycle and in abiotic stress response. It might be an adaptation to a sessile lifestyle. #MybMonday (details: )
+
+
+
+[Feng et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28444194/) investigated the evolution of the 3R-MYB gene family. Since most plant MYBs belong to the R2R3-MYB gene family, the other families are often neglected. It is important to note that this classification based on the presence of repeats might not reflect the phylogeny of MYBs. When investigating the function of MYBs, it should be better to focus on their phylogeny instead on the presence of repeats. 3R-MYBs are divided into three groups: A, B, and C. Synteny analysis indicates that the firsts 3R-MYB gene was amplified through segmental duplications in Amborella. Gene duplications within these lineages after the separation of monocots and dicots are the important factor that explains the large diversity seen today. The general gene structure of 3R-MYBs changed during evolution through the acquisition of additional introns.  What could have been the evolutionary advantage? There are many cases of alternative splicing, but only a small proportion seems to change the final protein. Most events appear to be unproductive splicing or are restricted to the UTR. These events might be an additional layer of gene expression regulation. Alternative splicing in the CDS could also cause the loss of a repressor motif leading to a hyperactive protein. Helix2 and helix3 encoded by a MYB repeat are binding DNA and thus more conserved. Especially helix3 does not show much variation, because this helix forms the direct contact to the DNA.
+
+
 
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]MYB_Monday)
