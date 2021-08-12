@@ -321,9 +321,11 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 
 ### (26) Mutation in R2R3-MYB _GmTDF1-1_ triggers male sterility in soybean ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Disruption of the R2R3-MYB GmTDF1-1 by a point mutation triggers male sterility in soybean. The very similar GmTDF1-2 is too weakly expressed to compensate this loss of GmTDF1-1 activity #MybMonday (details: https://bit.ly/3xw7ej1)
+> **_<a href="https://twitter.com/boas_pucker/status/1424626503233404934">TWEET</a>:_** Disruption of the R2R3-MYB GmTDF1-1 by a point mutation triggers male sterility in soybean. The very similar GmTDF1-2 is too weakly expressed to compensate this loss of GmTDF1-1 activity #MybMonday (details: https://bit.ly/3xw7ej1)
 
-
+<a href="https://twitter.com/boas_pucker/status/1424626503233404934">
+<img alt="Mutation in R2R3-MYB _GmTDF1-1_ triggers male sterility in soybean (Tweet #26)" src="https://pbs.twimg.com/media/E8U99J6WEAIg7qe?format=jpg&name=medium" width="30%" height="30%">
+</a>
 
 [Yu et al, 2021](https://link.springer.com/article/10.1007/s00122-021-03920-0) report that the R2R3-MYB transcription factor GmTDF1-1 is crucial for the anther development in soybean. A loss of this gene function by a point mutation resulted in male sterility. There is a very similar _TDF1-2_ gene, but insufficient expression prevents a compensation of the _TDF1-1_ function loss. Male sterility is an important trait in soybean, because it facilitates hybrid breeding.
 
@@ -331,7 +333,7 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 
 ### (27) Evolution of the 3R-MYB gene family ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** 3R-MYBs (R1R2R3-MYBs) are involved in the cell cycle and in abiotic stress response. It might be an adaptation to a sessile lifestyle. #MybMonday (details: )
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** 3R-MYBs (R1R2R3-MYBs) are involved in the cell cycle and in abiotic stress response. It might be an adaptation to a sessile lifestyle. #MybMonday (details: https://bit.ly/3yF4eCs)
 
 
 
