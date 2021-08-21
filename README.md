@@ -353,7 +353,7 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 
 
 <a href="https://github.com/bpucker/MybMonday">
-<img alt="MYB quiz (Tweet #28)" src="https://raw.githubusercontent.com/bpucker/figures/main/MYBquiz.png" width="30%" height="30%">
+<img alt="MYB quiz (Tweet #28)" src="https://raw.githubusercontent.com/bpucker/figures/main/MYBquiz.png" width="50%" height="50%">
 </a>
 
 
