@@ -352,6 +352,11 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 > **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** How much do you know about MYBs? This quiz allows you to check and learn more about the functions of MYBs: https://lnk.tu-bs.de/tLugzE #MybMonday (details: )
 
 
+<a href="https://github.com/bpucker/MybMonday">
+<img alt="MYB quiz (Tweet #28)" src="https://raw.githubusercontent.com/bpucker/figures/main/MYBquiz.png" width="30%" height="30%">
+</a>
+
+
 You can find the [MYB quiz](https://lnk.tu-bs.de/tLugzE) on Google colab. Unfortunately, you need to log in with a google account in order to run the script. The script is started by pressing the play button at the top left. Next, you should get text output that is asking about the function of randomly selected _Arabidopsis thaliana_ MYBs. 
 
 
