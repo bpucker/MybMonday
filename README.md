@@ -363,8 +363,12 @@ You can find the [MYB quiz](https://lnk.tu-bs.de/tLugzE) on Google colab (a Pyth
 
 ### (29) Genome-wide analysis of MYBs in banana ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Genome-wide analysis of MYBs in banana (Musa acuminata) revealed the large size of this gene family including 285 R2R3-MYBs #MybMonday (details: https://bit.ly/3jplE0D & https://bit.ly/3kAW0Fx)
+> **_<a href="https://twitter.com/boas_pucker/status/1432221545871523842">TWEET</a>:_** Genome-wide analysis of MYBs in banana (Musa acuminata) revealed the large size of this gene family including 285 R2R3-MYBs #MybMonday (details: https://bit.ly/3jplE0D & https://bit.ly/3kAW0Fx)
 
+
+<a href="https://twitter.com/boas_pucker/status/1432221545871523842">
+<img alt="Genome-wide analysis of MYBs in banana (Tweet #29)" src="https://pbs.twimg.com/media/E-BCE_RXEAElM5Y?format=jpg&name=small" width="50%" height="50%">
+</a>
 
 An investigation by [Pucker et al., 2020](https://doi.org/10.1371/journal.pone.0239275) identified 285 R2R3-MYBs as well as several MYBs of other categories. These MYB genes were studied with respect to genomic position, gene structure and specific gene expressions patterns. Gene functions were predicted based on knowledge about previously characterized orthologs.
 
