@@ -361,6 +361,16 @@ You can find the [MYB quiz](https://lnk.tu-bs.de/tLugzE) on Google colab (a Pyth
 
 
 
+### (29) Genome-wide analysis of MYBs in banana ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Genome-wide analysis of MYBs in banana (Musa acuminata) revealed the large size of this gene family #MybMonday (details: )
+
+
+An investigation by [Pucker et al., 2020](https://doi.org/10.1371/journal.pone.0239275) identified 185 R2R3-MYBs as well as several MYBs of other categories.
+
+
+
+
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]MYB_Monday)
 
