@@ -382,6 +382,21 @@ An investigation by [Pucker et al., 2020](https://doi.org/10.1371/journal.pone.0
 [Liu et al., 2021](https://doi.org/10.1101/2021.08.24.457473) investigated R2R3-MYBs in pepper and present CaMYB101 as anthocyanin repressor. Some pepper cultivars accumulate anthocyanins in fruits during development and loose these pigments during fruit development. Since MYBs are important regulators of the anthocyanin biosynthesis, it is likely that they are involved in this process. This analysis is based on newly identified MYBs in _Capsicum baccatum_ and _C. chinense_ with previously identified R2R3-MYBs of _C. annuum_ from [Wang et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7779616/). CaMYB101 was identified based on orthology to PhMYB27 and SlMYBL2 which have been previously been reported as anthocyanin repressors. Gene expression analysis and VIGS experiments support this prediction.
 
 
+### (31) R2R3-MYBs in sugar beet ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Numbers of R2R3-MYBs differ substantially between plant species. Sugar beet is at the lower end of the range with only 70 R2R3-MYBs #MybMonday (details: )
+
+
+Sugar beet (_Beta vulgaris_) belongs to the large flowering plant order Caryophyllales. 
+There are many reasons to study the MYB gene family in this species. 
+Sugar beet is an important crop species in the northern hemisphere accounting for 30% of sugar production.
+The sugar beet genome sequence was also for a long time the only high quality genomic resource that represented the Caryophyllales.
+Particularly interesting is also the presence of betalains in this species while anthocyanins are absent (see [Timoneda et al., 2019]() for a review). 
+Since many MYBs are involved in the regulation of the anthocyanin/flavonoid biosynthesis, differences to other plants can be expected.
+The number of 70 R2R3-MYBs is small compared to other plants [(Stracke et al., 2014)](). 
+For example, _Arabidopsis thaliana_ almost twice as many R2R3-MYBs despite the much smaller genome size. 
+One potential explanation is the lack of recent gene duplications. 
+For example, the BvMYB12 investigated by [Stracke et al., 2014]() does not have two recent duplications (MYB11, MYB111) as seen in _A. thaliana_.
 
 
 
