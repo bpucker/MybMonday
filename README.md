@@ -391,6 +391,14 @@ Sugar beet (_Beta vulgaris_) belongs to the large flowering plant order Caryophy
 Sugar beet is an important crop species in the northern hemisphere accounting for 30% of sugar production. The sugar beet genome sequence was also for a long time the only high quality genomic resource that represented the Caryophyllales. Particularly interesting is also the presence of betalains in this species while anthocyanins are absent (see [Timoneda et al., 2019](https://doi.org/10.1111/nph.15980) for a review). Since many MYBs are involved in the regulation of the anthocyanin/flavonoid biosynthesis, differences to other plants can be expected. The number of 70 R2R3-MYBs is small compared to other plants [(Stracke et al., 2014)](https://doi.org/10.1186/s12870-014-0249-8). For example, _Arabidopsis thaliana_ almost twice as many R2R3-MYBs despite the much smaller genome size. One potential explanation is the lack of recent gene duplications. For example, the BvMYB12 investigated by [Stracke et al., 2014](https://doi.org/10.1186/s12870-014-0249-8) does not have two recent duplications (MYB11, MYB111) as seen in _A. thaliana_.
 
 
+### (32) R2R3-MYBs in banana ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Banana (Musa acuminata) has one of the larger MYB families with 285 R2R3-MYBs in the A genome. Gene and segmental duplications are contributing factors #MybMonday (details: )
+
+
+While the number of 285 R2R3-MYBs in _Musa acuminata_ is impressive, not all of them are expressed ([Pucker et al., 2020](https://doi.org/10.1371/journal.pone.0239275)). This already indicates that some of them might be duplicates that might be purged during evolution. There are often many copies in banana matching a single copy in other species. It is possible that sub- or neofunctionalization are ongoing, but in some cases these copies might be due to the lack of a strong selection against them. However, it is also important that this analysis was restricted to the A genome ([Pucker et al., 2020](https://doi.org/10.1371/journal.pone.0239275)) thus there should be a similar number in the B genome.
+
+
 
 
 ## Contact ##
