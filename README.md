@@ -387,8 +387,11 @@ An investigation by [Pucker et al., 2020](https://doi.org/10.1371/journal.pone.0
 
 ### (31) R2R3-MYBs in sugar beet ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Numbers of R2R3-MYBs differ substantially between plant species. Sugar beet is at the lower end of the range with only 70 R2R3-MYBs #MybMonday (details: https://bit.ly/3E8TYFv)
+> **_<a href="https://twitter.com/boas_pucker/status/1437302525179285509">TWEET</a>:_** Numbers of R2R3-MYBs differ substantially between plant species. Sugar beet is at the lower end of the range with only 70 R2R3-MYBs #MybMonday (details: https://bit.ly/3E8TYFv)
 
+<a href="https://twitter.com/boas_pucker/status/1437302525179285509">
+<img alt="R2R3-MYBs in sugar beet (Tweet #31)" src="https://pbs.twimg.com/media/E_GrzWRXEAAmk1z?format=jpg&name=large" width="50%" height="50%">
+</a>
 
 Sugar beet (_Beta vulgaris_) belongs to the large flowering plant order Caryophyllales. There are many reasons to study the MYB gene family in this species. 
 Sugar beet is an important crop species in the northern hemisphere accounting for 30% of sugar production. The sugar beet genome sequence was also for a long time the only high quality genomic resource that represented the Caryophyllales. Particularly interesting is also the presence of betalains in this species while anthocyanins are absent (see [Timoneda et al., 2019](https://doi.org/10.1111/nph.15980) for a review). Since many MYBs are involved in the regulation of the anthocyanin/flavonoid biosynthesis, differences to other plants can be expected. The number of 70 R2R3-MYBs is small compared to other plants [(Stracke et al., 2014)](https://doi.org/10.1186/s12870-014-0249-8). For example, _Arabidopsis thaliana_ almost twice as many R2R3-MYBs despite the much smaller genome size. One potential explanation is the lack of recent gene duplications. For example, the BvMYB12 investigated by [Stracke et al., 2014](https://doi.org/10.1186/s12870-014-0249-8) does not have two recent duplications (MYB11, MYB111) as seen in _A. thaliana_.
