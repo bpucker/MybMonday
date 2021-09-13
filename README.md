@@ -376,8 +376,11 @@ An investigation by [Pucker et al., 2020](https://doi.org/10.1371/journal.pone.0
 
 ### (30) Anthocyanin repressor in pepper ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Analysis of the R2R3-MYBs in pepper reveals CaMYB101 as candidate for the anthocyanin repression during fruit ripening #MybMonday (details:  https://bit.ly/3h86yee)
+> **_<a href="https://twitter.com/boas_pucker/status/1434765810589855748">TWEET</a>:_** Analysis of the R2R3-MYBs in pepper reveals CaMYB101 as candidate for the anthocyanin repression during fruit ripening #MybMonday (details:  https://bit.ly/3h86yee)
 
+<a href="https://twitter.com/boas_pucker/status/1434765810589855748">
+<img alt="Anthocyanin repressor in pepper (Tweet #30)" src="https://pbs.twimg.com/media/E-jGy8bX0Ac4wL5?format=jpg&name=4096x4096" width="50%" height="50%">
+</a>
 
 [Liu et al., 2021](https://doi.org/10.1101/2021.08.24.457473) investigated R2R3-MYBs in pepper and present CaMYB101 as anthocyanin repressor. Some pepper cultivars accumulate anthocyanins in fruits during development and loose these pigments during fruit development. Since MYBs are important regulators of the anthocyanin biosynthesis, it is likely that they are involved in this process. This analysis is based on newly identified MYBs in _Capsicum baccatum_ and _C. chinense_ with previously identified R2R3-MYBs of _C. annuum_ from [Wang et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7779616/). CaMYB101 was identified based on orthology to PhMYB27 and SlMYBL2 which have been previously been reported as anthocyanin repressors. Gene expression analysis and VIGS experiments support this prediction.
 
