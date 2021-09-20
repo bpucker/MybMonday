@@ -399,7 +399,11 @@ Sugar beet is an important crop species in the northern hemisphere accounting fo
 
 ### (32) R2R3-MYBs in banana ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Banana (_Musa acuminata_) has one of the larger MYB families with 285 R2R3-MYBs in the A genome. Gene and segmental duplications are contributing factors #MybMonday (details: https://bit.ly/3tCDfW9)
+> **_<a href="https://twitter.com/boas_pucker/status/1439839239395500035">TWEET</a>:_** Banana (_Musa acuminata_) has one of the larger MYB families with 285 R2R3-MYBs in the A genome. Gene and segmental duplications are contributing factors #MybMonday (details: https://bit.ly/3tCDfW9)
+
+<a href="https://twitter.com/boas_pucker/status/1439839239395500035">
+<img alt="R2R3-MYBs in banana (Tweet #32)" src="https://pbs.twimg.com/media/E_GvdNFWUAclIQ_?format=jpg&name=medium" width="50%" height="50%">
+</a>
 
 
 While the number of 285 R2R3-MYBs in _Musa acuminata_ (banana) is impressive, not all of them are expressed ([Pucker et al., 2020](https://doi.org/10.1371/journal.pone.0239275)). This already indicates that some of them might be duplicates that might be purged during evolution. There are often many copies in banana matching a single copy in other species. It is possible that sub- or neofunctionalization are ongoing, but in some cases these copies might be due to the lack of a strong selection against them. However, it is also important that this analysis was restricted to the A genome ([Pucker et al., 2020](https://doi.org/10.1371/journal.pone.0239275)) thus there should be a similar number in the B genome.
