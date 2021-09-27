@@ -412,7 +412,7 @@ While the number of 285 R2R3-MYBs in _Musa acuminata_ (banana) is impressive, no
 
 ### (33) Brown planthopper resistance ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** OsMYB30 confers brown planthopper (BPH) resistance to rice plants through activation of PALs in response to BPH feeding. This increases the content of salicylic acid and lignin #MybMonday (details: )
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** OsMYB30 confers brown planthopper (BPH) resistance to rice plants through activation of PALs in response to BPH feeding. This increases the content of salicylic acid and lignin #MybMonday (details: https://bit.ly/3kKgU6m)
 
 
 [He et al., 2019](https://www.pnas.org/content/117/1/271) identified a MYB transcription factor that confers brown planthopper (BPH) resistance to rice. BPH is one of the most destructive insects that damage rice by sucking sap from the phloem. It can also transmit viral diseases: rice grassy stunt and rugged stunt.
