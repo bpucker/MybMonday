@@ -412,8 +412,11 @@ While the number of 285 R2R3-MYBs in _Musa acuminata_ (banana) is impressive, no
 
 ### (33) Brown planthopper resistance ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** OsMYB30 confers brown planthopper (BPH) resistance to rice plants through activation of PALs in response to BPH feeding. This increases the content of salicylic acid and lignin #MybMonday (details: https://bit.ly/3kKgU6m)
+> **_<a href="https://twitter.com/boas_pucker/status/1442375955247423488">TWEET</a>:_** OsMYB30 confers brown planthopper (BPH) resistance to rice plants through activation of PALs in response to BPH feeding. This increases the content of salicylic acid and lignin #MybMonday (details: https://bit.ly/3kKgU6m)
 
+<a href="https://twitter.com/boas_pucker/status/1442375955247423488">
+<img alt="Brown planthopper resistance (Tweet #33)" src="https://pbs.twimg.com/media/FARHsujVEAA7l7a?format=jpg&name=large" width="50%" height="50%">
+</a>
 
 [He et al., 2019](https://www.pnas.org/content/117/1/271) identified a MYB transcription factor that confers brown planthopper (BPH) resistance to rice. BPH is one of the most destructive insects that damage rice by sucking sap from the phloem. It can also transmit viral diseases: rice grassy stunt and rugged stunt.
 Several NBS-LRR resistance genes have been identified. It is known that lignin, salicylic acid, and polyphenols in general have a protective effect against insects. Enhancing the cell wall appears as an important mechanism to protect against insects. Gene expression between pools of BPH susceptible and resistant plants were compared and revealed PALs as a good candidate (OsPAL6,OsPAL8). Overexpression of these PALs confered resistance to a susceptible accession.
