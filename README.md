@@ -432,7 +432,7 @@ T-DNA knock-out of OsMYB30 resulted in a BPH susceptible line. The BPH feeding a
 
 ### (35) Additional flavonol biosynthesis regulators ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MYB21 and its homologs MYB24/MYB57 activate the flavonol accumulation in Arabidopsis thaliana stamen #MybMonday (details: )
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MYB21 and its homologs MYB24/MYB57 activate the flavonol accumulation in Arabidopsis thaliana stamen #MybMonday (details: https://bit.ly/3BxImdv)
 
 
 [Zhang et al., 2021](https://doi.org/10.1093/jxb/erab156) investigated novel group of flavonol biosynthesis regulators around MYB21. MYB11/MYB12/MYB111 are well established regulators of the flavonol biosynthesis (MYB subgroup 7). MYB21/MYB24/MYB57 were reported as additional regulators that have a different phylogenetic origin (MYB subgroup 19). A _myb21_ mutant can be rescued by overexpression of FLS or feeding of the substrate. ROS accumulation is increased in the stamen of _myb21_ mutants suggesting that flavonols are required for mediating ROS stress.
