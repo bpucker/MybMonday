@@ -430,6 +430,15 @@ T-DNA knock-out of OsMYB30 resulted in a BPH susceptible line. The BPH feeding a
 [Orduna et al., 2021](https://doi.org/10.1101/2020.12.31.424746) investigated the target genes of sugroup 2 R2R3-MYBs in grapevine via DNA affinity purification sequencing (DAP-Seq). The subgroup 2 comprises VvMYB14 and VvMYB15 as well as the newly characterized VvMYB13. These MYBs control the stilbene pathway which gives rise to resveratol. DAP-Seq revealed that these subgroup 2 MYBs bind to the promoters of many stilbene biosynthesis genes and also other genes involved in the specialized metabolism. There is also a substantial overlap between the target genes of MYB14 and MYB15. The integration of DAP-Seq results with gene centered expression networks allowed a refinement of the target gene set. Finally, overexpression of MYB15 supported this identified set of target genes. The analysis of VvMYB13 and the comparison to AtMYB13 suggests a diversification as only the AtMYB13 appears involved in lignin biosynthesis. Surprisingly, these grapevine MYBs also bind to genes that show an expression pattern opposite to stilbene biosynthesis. This observation might suggest a negative regulation through the subgroup 2 MYBs. Cell culture experiments suggest that jasmonate shifts the metabolic flux from flavonoids to stilbenes. DAP-Seq is an additional method to identify pathways if the common regulator is already known.
 
 
+### (35) Additional flavonol biosynthesis regulators ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MYB21 and its homologs MYB24/MYB57 activate the flavonol accumulation in Arabidopsis thaliana stamen #MybMonday (details: )
+
+
+[Zhang et al., 2021](https://doi.org/10.1093/jxb/erab156) investigated novel group of flavonol biosynthesis regulators around MYB21. MYB11/MYB12/MYB111 are well established regulators of the flavonol biosynthesis (MYB subgroup 7). MYB21/MYB24/MYB57 were reported as additional regulators that have a different phylogenetic origin (MYB subgroup 19). A _myb21_ mutant can be rescued by overexpression of FLS or feeding of the substrate. ROS accumulation is increased in the stamen of _myb21_ mutants suggesting that flavonols are required for mediating ROS stress.
+
+
+
 
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]MYB_Monday)
