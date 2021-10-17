@@ -447,7 +447,7 @@ T-DNA knock-out of OsMYB30 resulted in a BPH susceptible line. The BPH feeding a
 
 ### (36) MYB123 homologs of _Castanea crenata_ ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Castanea crenata has a large number of potential proanthocyanidin biosynthesis regulating MYBs suggesting a fine regulation of this pathway #MybMonday (details: )
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Castanea crenata has a large number of potential proanthocyanidin biosynthesis regulating MYBs suggesting a fine regulation of this pathway #MybMonday (details: https://bit.ly/3FUvvVy)
 
 
 
