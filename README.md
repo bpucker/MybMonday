@@ -445,6 +445,15 @@ T-DNA knock-out of OsMYB30 resulted in a BPH susceptible line. The BPH feeding a
 [Zhang et al., 2021](https://doi.org/10.1093/jxb/erab156) investigated novel group of flavonol biosynthesis regulators around MYB21. MYB11/MYB12/MYB111 are well established regulators of the flavonol biosynthesis (MYB subgroup 7). MYB21/MYB24/MYB57 were reported as additional regulators that have a different phylogenetic origin (MYB subgroup 19). A _myb21_ mutant can be rescued by overexpression of FLS or feeding of the substrate. ROS accumulation is increased in the stamen of _myb21_ mutants suggesting that flavonols are required for mediating ROS stress.
 
 
+### (36) MYB123 homologs of _Castanea crenata_ ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Castanea crenata has a large number of potential proanthocyanidin biosynthesis regulating MYBs suggesting a fine regulation of this pathway #MybMonday (details: )
+
+
+
+The annotation of the recently released genome sequence of Castanea crenata [Shirasawa,2021](https://doi.org/10.1093/dnares/dsab016) was screened for MYBs [Pucker, 2021](https://doi.org/10.1101/2021.10.16.464636). A large number of close homologs of AtMYB123 (TT2), a regulator of the proanthocyanidin biosynthesis, was discovered. This could indicate that the PA biosynthesis is controlled in a very specific way in different tissues and under different conditions. Tissue-specific expression analyes could help to resolve this question.
+
+
 
 
 ## Contact ##
