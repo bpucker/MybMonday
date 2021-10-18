@@ -447,9 +447,11 @@ T-DNA knock-out of OsMYB30 resulted in a BPH susceptible line. The BPH feeding a
 
 ### (36) MYB123 homologs of _Castanea crenata_ ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Castanea crenata has a large number of potential proanthocyanidin biosynthesis regulating MYBs suggesting a fine regulation of this pathway #MybMonday (details: https://bit.ly/3FUvvVy)
+> **_<a href="https://twitter.com/boas_pucker/status/1449986100458446858">TWEET</a>:_** Castanea crenata has a large number of potential proanthocyanidin biosynthesis regulating MYBs suggesting a fine regulation of this pathway #MybMonday (details: https://bit.ly/3FUvvVy)
 
-
+<a href="https://twitter.com/boas_pucker/status/1449986100458446858">
+<img alt="MYB123 homologs of _Castanea crenata_ (Tweet #36)" src="https://pbs.twimg.com/media/FB6q-RSXEAUGHfO?format=jpg&name=large" width="30%" height="30%">
+</a>
 
 The annotation of the recently released genome sequence of Castanea crenata [Shirasawa,2021](https://doi.org/10.1093/dnares/dsab016) was screened for MYBs [Pucker, 2021](https://doi.org/10.1101/2021.10.16.464636). A large number of close homologs of AtMYB123 (TT2), a regulator of the proanthocyanidin biosynthesis, was discovered. This could indicate that the PA biosynthesis is controlled in a very specific way in different tissues and under different conditions. Tissue-specific expression analyes could help to resolve this question.
 
