@@ -456,6 +456,14 @@ T-DNA knock-out of OsMYB30 resulted in a BPH susceptible line. The BPH feeding a
 The annotation of the recently released genome sequence of Castanea crenata [Shirasawa,2021](https://doi.org/10.1093/dnares/dsab016) was screened for MYBs [Pucker, 2021](https://doi.org/10.1101/2021.10.16.464636). A large number of close homologs of AtMYB123 (TT2), a regulator of the proanthocyanidin biosynthesis, was discovered. This could indicate that the PA biosynthesis is controlled in a very specific way in different tissues and under different conditions. Tissue-specific expression analyes could help to resolve this question.
 
 
+### (37) MYBs control coloration of blueberry and bilberry ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MYBA1 activates MYBPA1.1 and both are required for anthocyanin regulation in blueberry and bilberry. Strong MYBA1 shows expression in the pigmented tissues, but weak or no expression in white tissues #MybMonday (details: )
+
+
+[Lafferty et al., 2021](https://doi.org/10.1093/jxb/erab460) investigated the regulation of anthocyanin and proanthocyanidin biosynthesis in blueberry (_Vaccinium corymbosum_) and bilberry (_V. myrtillus_). Blueberry has white flesh, while bilberry has red flesh indicating as difference in the anthocyanin biosynthesis regulation. While MYBPA1.1 and MYBA1 are both correlated with anthocyanin biosynthesis, they differ in their expression pattern. MYBPA1.1 is active during proanthocyanidin formation in early stages and anthocyanin formation during ripening. MYBA1 is a positive regulator of MYBPA1.1 which suggest that the lack of MYBA1 expression in blueberry flesh is the explanation for the lack of anthocyanin pigmentation. The authors speculate that such a hierarchical model could also be in place for other branches of the flavonoid biosynthesis.
+
+
 
 
 ## Contact ##
