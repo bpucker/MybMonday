@@ -466,7 +466,7 @@ The annotation of the recently released genome sequence of Castanea crenata [Shi
 
 ### (38) MYBs control coloration of blueberry and bilberry ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Expression of Glycyrrhiza uralensis MYB4 and MYB88 is induced by methyl jasmonate leading to the activation of the flavonoid biosynthesis #MybMonday (details: )
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Expression of Glycyrrhiza uralensis MYB4 and MYB88 is induced by methyl jasmonate leading to the activation of the flavonoid biosynthesis #MybMonday (details: https://bit.ly/2ZWtBTH)
 
 
 [Li et al., 2020](https://doi.org/10.1371/journal.pone.0236565) investigated the influence of methyl jasmonate (MeJA) on suspended cells of _Glycyrrhiza uralensis_ via RNA-seq. The MeJA treatment resulted in increased C4H and CHS expression levels. Unfortunately, the orthologs of GlMYB4 and GlMYB88 in _Arabidopsis thaliana_ are not included in the phylogenetic analysis. Overexpression of MYB88 resulted in elevated gene expression of C4H and CHS. It seems that this also increased the total amount of produced flavonoids.
