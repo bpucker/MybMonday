@@ -490,8 +490,7 @@ The annotation of the recently released genome sequence of Castanea crenata [Shi
 ### (40) Automatic MYB annotation ###
 
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Interested in MYB transcription factors? Try this pipeline for an automatic annotation:
-https://github.com/bpucker/MYB_annotator #MybMonday (details: https://doi.org/10.1101/2021.10.16.464636 & https://bit.ly/3catoPs)
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Interested in MYB transcription factors? Try this pipeline for an automatic annotation of the MYBs in your species of interest: https://github.com/bpucker/MYB_annotator #MybMonday (details: https://doi.org/10.1101/2021.10.16.464636 & https://bit.ly/3catoPs)
 
 
 
