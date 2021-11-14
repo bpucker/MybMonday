@@ -479,6 +479,15 @@ The annotation of the recently released genome sequence of Castanea crenata [Shi
 
 
 
+### (39) Purple sweet potato ###
+
+IbMYB1 regulates the purple pigmentation of leaf and storage root in sweet potato (Ipomoea batatas) #MybMonday (details: )
+
+
+[Zhang et al., 2021](https://doi.org/10.3389/fpls.2021.688707) investigated the influence of _IbMYB1_ on the pigmentation observed in different cultivars of sweet potato (_Ipomoea batatas_). Expression of this gene aligns well with the observed pigmentation patterns. Co-expression with _CHS_, _CHI_, _DFR_, _ANS_, and several _GTs_ was checked. While this MYB influences the pigmentation pattern, additional factors might contribute as well.
+
+
+
 
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]MYB_Monday)
