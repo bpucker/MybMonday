@@ -481,10 +481,21 @@ The annotation of the recently released genome sequence of Castanea crenata [Shi
 
 ### (39) Purple sweet potato ###
 
-IbMYB1 regulates the purple pigmentation of leaf and storage root in sweet potato (Ipomoea batatas) #MybMonday (details: https://bit.ly/3qzsOTR)
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** IbMYB1 regulates the purple pigmentation of leaf and storage root in sweet potato (Ipomoea batatas) #MybMonday (details: https://bit.ly/3qzsOTR)
 
 
 [Zhang et al., 2021](https://doi.org/10.3389/fpls.2021.688707) investigated the influence of _IbMYB1_ on the pigmentation observed in different cultivars of sweet potato (_Ipomoea batatas_). Expression of this gene aligns well with the observed pigmentation patterns. Co-expression with _CHS_, _CHI_, _DFR_, _ANS_, and several _GTs_ was checked. While this MYB influences the pigmentation pattern, additional factors might contribute as well.
+
+
+### (40) Automatic MYB annotation ###
+
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Interested in MYB transcription factors? Try this pipeline for an automatic annotation:
+https://github.com/bpucker/MYB_annotator #MybMonday (details: https://doi.org/10.1101/2021.10.16.464636 & XXX)
+
+
+Celebrating post number 40 in #MybMonday series by sharing the opportunity to get involved with MYBs. This pipeline allows the automatic identification and annotation of MYBs ([Pucker, 2021](https://doi.org/10.1101/2021.10.16.464636)). CDS or peptide sequence collections of a newly sequenced plant genomes or transcriptomes can be subjected to the analysis. This is a quick way (5-10 minutes) to get a solid annotation of the MYBs for in-depth investigations of the regulated processes. As a proof of concept, the MYB gene families of _Croton tiglium_ and _Castanea crenata_ were analyzed.
+
 
 
 
