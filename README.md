@@ -493,9 +493,11 @@ The annotation of the recently released genome sequence of Castanea crenata [Shi
 ### (40) Automatic MYB annotation ###
 
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Interested in MYB transcription factors? Try this pipeline for an automatic annotation of the MYBs in your species of interest: https://github.com/bpucker/MYB_annotator #MybMonday (details: https://doi.org/10.1101/2021.10.16.464636 & https://bit.ly/3catoPs)
+> **_<a href="https://twitter.com/boas_pucker/status/1462684775840301068">TWEET</a>:_** Interested in MYB transcription factors? Try this pipeline for an automatic annotation of the MYBs in your species of interest: https://github.com/bpucker/MYB_annotator #MybMonday (details: https://doi.org/10.1101/2021.10.16.464636 & https://bit.ly/3catoPs)
 
-
+<a href="https://twitter.com/boas_pucker/status/1462684775840301068">
+<img alt="Automatic MYB annotation (Tweet #40)" src="https://pbs.twimg.com/media/FEL0WfbWUAAbCmJ?format=jpg&name=4096x4096" width="50%" height="50%">
+</a>
 
 Celebrating post number 40 in #MybMonday series by sharing the opportunity to get involved with MYBs. This pipeline allows the automatic identification and annotation of MYBs ([Pucker, 2021](https://doi.org/10.1101/2021.10.16.464636)). CDS or peptide sequence collections of a newly sequenced plant genomes or transcriptomes can be subjected to the analysis. This is a quick way (5-10 minutes) to get a solid annotation of the MYBs for in-depth investigations of the regulated processes. As a proof of concept, the MYB gene families of _Croton tiglium_ and _Castanea crenata_ were analyzed.
 
