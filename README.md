@@ -504,7 +504,7 @@ Celebrating post number 40 in #MybMonday series by sharing the opportunity to ge
 
 ### (41) 4R-MYB AtSNAPc4 ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** 4R-MYB AtSNAPc4 is a member of a protein complex associated with snRNA gene transcription. Most plant species have just a single copy of this 4R-MYB #MybMonday (details: )
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** 4R-MYB AtSNAPc4 is a member of a protein complex associated with snRNA gene transcription. Most plant species have just a single copy of this 4R-MYB #MybMonday (details: https://bit.ly/3D0xogK)
 
 
 
