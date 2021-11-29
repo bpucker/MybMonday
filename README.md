@@ -507,7 +507,7 @@ Celebrating post number 40 in #MybMonday series by sharing the opportunity to ge
 > **_<a href="https://twitter.com/boas_pucker/status/1465221489335091202">TWEET</a>:_** 4R-MYB AtSNAPc4 is a member of a protein complex associated with snRNA gene transcription. Most plant species have just a single copy of this 4R-MYB #MybMonday (details: https://bit.ly/3D0xogK)
 
 <a href="https://twitter.com/boas_pucker/status/1465221489335091202">
-<img alt="4R-MYB AtSNAPc4 (Tweet #41)" src="https://pbs.twimg.com/media/FFUFRP9XEAASRUc?format=jpg&name=medium" width="50%" height="50%">
+<img alt="4R-MYB AtSNAPc4 (Tweet #41)" src="https://pbs.twimg.com/media/FFUFRP9XEAASRUc?format=jpg&name=medium" width="30%" height="30%">
 </a>
 
 [Thiedig et al., 2021](https://doi.org/10.1093/plphys/kiaa067) investigated AtSNAPc4 (At3g18100), which is a 4R-MYB. In contrast to the abundant R2R3-MYBs, this protein is characterized by four and a half MYB repeats. This protein is a subunit of the SNAP complex 4 that is involved in snRNA gene transcription. _Arabidopsis thaliana_, _Beta vulgaris_, _Vitis vinifera_, and many other plants have only a single copy of this 4R-MYB. This suggest that this single copy state is conserved through evolution. Four different transcript isoforms of At3g18100 are annotated in Araport11, but only one of them (AtSNAPc4.1) encodes a functional protein. Therefore, it is possible that the other three isoforms are targeted by the NMD pathway.
