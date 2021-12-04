@@ -1,5 +1,6 @@
 # #MybMonday
-This repository provides additional background to the #MybMonday tweets
+
+MYB transcription factors are one of the largest gene family in plants and control many processes. This repository provides additional background to the #MYB_Monday tweets.
 
 ## Introduction ##
 
@@ -18,6 +19,8 @@ Fig. 1: Phylotenetic tree of the banana (_Musa acuminata_) MYBs ([Pucker et al.,
 In addition to the R2R3 MYBs, there are also [MYB3R (cell cycle control)](https://dev.biologists.org/content/134/6/1101), [MYB4R (SNAP complex)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjJnMGJ6vruAhWLyaQKHc3rAysQFjABegQIBBAD&url=https%3A%2F%2Facademic.oup.com%2Fplphys%2Fadvance-article-pdf%2Fdoi%2F10.1093%2Fplphys%2Fkiaa067%2F35063342%2Fkiaa067.pdf&usg=AOvVaw04BwHFjy1QcAHg9-k5KeOO), and various others. However, these lineages have not expanded substantially in plants.
 
 More information about MYBs involved in the regulation of the flavonoid biosynthesis is available through the **[FlavonoidFriday](https://github.com/bpucker/FlavonoidFriday)**.
+
+Check out the collection of [genome-wide MYB investigations](https://github.com/bpucker/MybMonday/wiki/Collection-of-genome-wide-MYB-papers). Please get in touch to add entries to this collection.
 
 
 
