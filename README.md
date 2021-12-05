@@ -519,9 +519,13 @@ Celebrating post number 40 in #MybMonday series by sharing the opportunity to ge
 
 ### (42) Genome-wide MYB papers ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Interested in MYBs? Here is a collection of studies performing a genome-wide investigation of MYBs in plants: https://lnk.tu-bs.de/RQcHMD #MybMonday (details:https://bit.ly/3GjcsUd & https://bit.ly/3y1Ln4T)
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Interested in MYBs? Here is a collection of studies that conducted genome-wide investigations of MYBs in plants: https://lnk.tu-bs.de/RQcHMD #MybMonday (details:https://bit.ly/3GjcsUd & https://bit.ly/3y1Ln4T)
 
+<a href="https://github.com/bpucker/MybMonday">
+<img alt="Genome-wide MYB papers (Tweet #42)" src="https://www.biorxiv.org/content/biorxiv/early/2020/02/03/2020.02.03.932046/F2.large.jpg" width="30%" height="30%">
+</a>
 
+This collection of papers about genome-wide investigations of the MYB gene family in plants shows the amount of work that has been done. The collection will be updated over time. Please get in touch if you know publications that are missing.
 
 
 
