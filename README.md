@@ -549,9 +549,19 @@ Dubos C, Stracke R, Grotewold E, Weisshaar B, Martin C, Lepiniec L (2010). MYB t
 
 4: Chagné D, Lin-Wang K, Espley RV, et al. An ancient duplication of apple MYB transcription factors is responsible for novel red fruit-flesh phenotypes. Plant Physiol. 2013;161(1):225-239. doi: [10.1104/pp.112.206771](https://dx.doi.org/10.1104%2Fpp.112.206771)
   
+5: Jin, W., Wang, H., Li, M., Wang, J., Yang, Y., Zhang, X., Yan, G., Zhang, H., Liu, J. and Zhang, K. (2016), The R2R3 MYB transcription factor PavMYB10.1 involves in anthocyanin biosynthesis and determines fruit skin colour in sweet cherry (Prunus avium L.). Plant Biotechnol J, 14: 2120-2133. doi: [10.1111/pbi.12568](https://doi.org/10.1111/pbi.12568)
+ 
+6:  Wang, H., Zhang, H., Yang, Y., Li, M., Zhang, Y., Liu, J., Dong, J., Li, J., Butelli, E., Xue, Z., Wang, A., Wang, G., Martin, C.and Jin, W. (2020) The control of red colour by a family of MYB transcription factors in octoploid strawberry (Fragaria × ananassa) fruits. Plant Biotechnol J., https://doi.org/10.1111/pbi.13282
   
-Nozomi Haga, Kiichi Kato, Masatake Murase, Satoshi Araki, Minoru Kubo, Taku Demura, Kaoru Suzuki, Isabel Müller, Ute Voß, Gerd Jürgens, Masaki Ito (2007). R1R2R3-Myb proteins positively regulate cytokinesis through activation of KNOLLE transcription in Arabidopsis thaliana. Development 2007 134: 1101-1110; doi: [10.1242/dev.02801](https://dev.biologists.org/content/134/6/1101)
+7: Fraser, L.G., Seal, A.G., Montefiori, M. et al. An R2R3 MYB transcription factor determines red petal colour in an Actinidia(kiwifruit) hybrid population. BMC Genomics 14, 28 (2013). https://doi.org/10.1186/1471-2164-14-28
 
+8: Xi, W., Feng, J., Liu, Y. et al. The R2R3-MYB transcription factor PaMYB10 is involved in anthocyanin biosynthesis in apricots and determines red blushed skin. BMC Plant Biol 19, 287 (2019). https://doi.org/10.1186/s12870-019-1898-4
+  
+9: Hatlestad, G., Akhavan, N., Sunnadeniya, R. et al. The beet Y locus encodes an anthocyanin MYB-like protein that activates the betalain red pigment pathway. Nat Genet 47, 92–96 (2015). https://doi.org/10.1038/ng.3163
+
+  Timoneda, A., Feng, T., Sheehan, H., Walker-Hale, N., Pucker, B., Lopez-Nieves, S., Guo, R. and Brockington, S. (2019), The evolution of betalain biosynthesis in Caryophyllales. New Phytol, 224: 71-85. https://doi.org/10.1111/nph.15980
+  
+10: Stracke, R., Holtgräwe, D., Schneider, J. et al. Genome-wide identification and characterisation of R2R3-MYB genes in sugar beet (Beta vulgaris). BMC Plant Biol 14, 249 (2014). https://doi.org/10.1186/s12870-014-0249-8
   
   
   </p>
