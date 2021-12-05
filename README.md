@@ -563,6 +563,20 @@ Dubos C, Stracke R, Grotewold E, Weisshaar B, Martin C, Lepiniec L (2010). MYB t
   
 10: Stracke, R., Holtgräwe, D., Schneider, J. et al. Genome-wide identification and characterisation of R2R3-MYB genes in sugar beet (Beta vulgaris). BMC Plant Biol 14, 249 (2014). https://doi.org/10.1186/s12870-014-0249-8
   
+11: Lee M M & Schiefelbein J. et al., 1999. WEREWOLF, a MYB-Related Protein in Arabidopsis, Is a Position-Dependent Regulator of Epidermal Cell Patterning. Cell Volume 99, Issue 5, 24 November 1999, Pages 473-483.
+
+Baihui Wang, Qiang Luo, Yingping Li, Liufan Yin, Nana Zhou, Xiangnan Li, Jianhua Gan, Aiwu Dong, Structural insights into target DNA recognition by R2R3-MYB transcription factors, Nucleic Acids Research, Volume 48, Issue 1, 10 January 2020, Pages 460–471, https://doi.org/10.1093/nar/gkz1081
+  
+12: Zhu S, Shi W, Jie Y, Zhou Q, Song C (2020) A MYB transcription factor, BnMYB2, cloned from ramie (Boehmeria nivea) is involved in cadmium tolerance and accumulation. PLOS ONE 15(5): e0233375. https://doi.org/10.1371/journal.pone.0233375
+  
+13: Muñoz-Gómez S, Suárez-Baron H, Alzate JF, González F and Pabón-Mora N (2021) Evolution of the Subgroup 6 R2R3-MYB Genes and Their Contribution to Floral Color in the Perianth-Bearing Piperales. Front. Plant Sci. 12:633227. doi: 10.3389/fpls.2021.633227
+  
+14: Rodrigues, J.A., Espley, R.V. & Allan, A.C. Genomic analysis uncovers functional variation in the C-terminus of anthocyanin-activating MYB transcription factors. Hortic Res 8, 77 (2021). https://doi.org/10.1038/s41438-021-00514-1
+
+Stracke R, Werber M, Weisshaar B. The R2R3-MYB gene family in Arabidopsis thaliana. Curr Opin Plant Biol. 2001 Oct;4(5):447-56. doi: 10.1016/s1369-5266(00)00199-0. PMID: 11597504.
+
+15: Alex Harkess, Kun Huang, Ron van der Hulst, Bart Tissen, Jeffrey L. Caplan, Aakash Koppula, Mona Batish, Blake C. Meyers, Jim Leebens-Mack, Sex Determination by Two Y-Linked Genes in Garden Asparagus, The Plant Cell, Volume 32, Issue 6, June 2020, Pages 1790–1796, https://doi.org/10.1105/tpc.19.00859
+  
   
   </p>
 </details>
