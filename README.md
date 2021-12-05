@@ -519,7 +519,7 @@ Celebrating post number 40 in #MybMonday series by sharing the opportunity to ge
 
 ### (42) Genome-wide MYB papers ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** New to MYBs? Here is a collection of studies performing a genome-wide investigation of MYBs in plants: https://lnk.tu-bs.de/RQcHMD #MybMonday (details: & https://bit.ly/3y1Ln4T)
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Interested in MYBs? Here is a collection of studies performing a genome-wide investigation of MYBs in plants: https://lnk.tu-bs.de/RQcHMD #MybMonday (details:https://bit.ly/3GjcsUd & https://bit.ly/3y1Ln4T)
 
 
 
