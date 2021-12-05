@@ -525,7 +525,7 @@ Celebrating post number 40 in #MybMonday series by sharing the opportunity to ge
 <img alt="Genome-wide MYB papers (Tweet #42)" src="https://www.biorxiv.org/content/biorxiv/early/2020/02/03/2020.02.03.932046/F2.large.jpg" width="30%" height="30%">
 </a>
 
-This collection of papers about genome-wide investigations of the MYB gene family in plants shows the amount of work that has been done. The collection will be updated over time. Please get in touch if you know publications that are missing.
+This [collection of papers](https://lnk.tu-bs.de/RQcHMD) about genome-wide investigations of the MYB gene family in plants shows the amount of work that has been done. The collection will be updated over time. Please get in touch if you know publications that are missing.
 
 
 
