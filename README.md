@@ -587,6 +587,31 @@ Stracke R, Werber M, Weisshaar B. The R2R3-MYB gene family in Arabidopsis thalia
   
 20: Koo, Y., Poethig, R.S. Expression pattern analysis of three R2R3-MYB transcription factors for the production of anthocyanin in different vegetative stages of Arabidopsis leaves. Appl Biol Chem 64, 5 (2021). https://doi.org/10.1186/s13765-020-00584-0
   
+21:  Genetic basis and dual adaptive role of floral pigmentation in sunflowers. Marco Todesco, Natalia Bercovich, Amy Kim, Ivana Imerovski, Gregory L. Owens, Óscar Dorado Ruiz, Srinidhi V. Holalu, Lufiani L. Madilao, Mojtaba Jahani, Jean-Sébastien Légaré, Benjamin K. Blackman, Loren H. Rieseberg. bioRxiv 2021.06.26.449999; doi: https://doi.org/10.1101/2021.06.26.449999 
+  
+22: Wang J, Liu Y, Tang B, Dai X, Xie L, Liu F and Zou X (2020) Genome-Wide Identification and Capsaicinoid Biosynthesis-Related Expression Analysis of the R2R3-MYB Gene Family in Capsicum annuum L. Front. Genet. 11:598183. doi: 10.3389/fgene.2020.598183
+  
+23: Cao Y, Jia H, Xing M, Jin R, Grierson D, Gao Z, Sun C, Chen K, Xu C and Li X (2021) Genome-Wide Analysis of MYB Gene Family in Chinese Bayberry (Morella rubra) and Identification of Members Regulating Flavonoid Biosynthesis. Front. Plant Sci. 12:691384. doi: 10.3389/fpls.2021.691384
+  
+24: Xingyu Zheng, Kuenzang Om, Kimmy A Stanton, Daniel Thomas, Philip A Cheng, Allison Eggert, Emily Simmons, Yao-Wu Yuan, Gregory D Conradi Smith, Joshua R Puzey, Arielle M Cooley, The regulatory network for petal anthocyanin pigmentation is shaped by the MYB5a/NEGAN transcription factor in Mimulus, Genetics, Volume 217, Issue 2, February 2021, iyaa036, https://doi.org/10.1093/genetics/iyaa036
+
+Ding B, Patterson EL, Holalu SV, Li J, Johnson GA, Stanley LE, Greenlee AB, Peng F, Bradshaw HD Jr, Blinov ML, Blackman BK, Yuan YW. Two MYB Proteins in a Self-Organizing Activator-Inhibitor System Produce Spotted Pigmentation Patterns. Curr Biol. 2020 Mar 9;30(5):802-814.e8. doi: 10.1016/j.cub.2019.12.067. Epub 2020 Feb 20. PMID: 32155414; PMCID: PMC7156294.
+
+25:  Systematic analysis of the R2R3-MYB family of transcription factors in Camellia sinensis: evidence for species-specific catechin biosynthesis regulation. Jingyi Li, Shaoqun Liu, Peifen Chen, Jiarong Cai, Song Tang, Wei Yang, Fanrong Cao, Peng Zheng, Binmei Sun. bioRxiv 2021.07.21.453189; doi: https://doi.org/10.1101/2021.07.21.453189 
+  
+26: Yu, J., Zhao, G., Li, W. et al. A single nucleotide polymorphism in an R2R3 MYB transcription factor gene triggers the male sterility in soybean ms6 (Ames1). Theor Appl Genet 134, 3661–3674 (2021). https://doi.org/10.1007/s00122-021-03920-0
+  
+27: Feng G, Burleigh JG, Braun EL, Mei W, Barbazuk WB. Evolution of the 3R-MYB Gene Family in Plants. Genome Biol Evol. 2017 Apr 1;9(4):1013-1029. doi: 10.1093/gbe/evx056. PMID: 28444194; PMCID: PMC5405339.
+  
+28: MYB quiz: https://colab.research.google.com/drive/1gBvRBkO-aGf3VJWkKc3aG-oVuBo80D2z?usp=sharing
+  
+29: Pucker B, Pandey A, Weisshaar B, Stracke R (2020) The R2R3-MYB gene family in banana (Musa acuminata): Genome-wide identification, classification and expression patterns. PLOS ONE 15(10): e0239275. https://doi.org/10.1371/journal.pone.0239275
+  
+  
+  
+  
+  
+  
   
   </p>
 </details>
