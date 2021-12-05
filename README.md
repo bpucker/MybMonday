@@ -577,6 +577,16 @@ Stracke R, Werber M, Weisshaar B. The R2R3-MYB gene family in Arabidopsis thalia
 
 15: Alex Harkess, Kun Huang, Ron van der Hulst, Bart Tissen, Jeffrey L. Caplan, Aakash Koppula, Mona Batish, Blake C. Meyers, Jim Leebens-Mack, Sex Determination by Two Y-Linked Genes in Garden Asparagus, The Plant Cell, Volume 32, Issue 6, June 2020, Pages 1790–1796, https://doi.org/10.1105/tpc.19.00859
   
+16: Peng, Y., Thrimawithana, A.H., Cooney, J.M. et al. The proanthocyanin-related transcription factors MYBC1 and WRKY44 regulate branch points in the kiwifruit anthocyanin pathway. Sci Rep 10, 14161 (2020). https://doi.org/10.1038/s41598-020-70977-0
+  
+17: Chen-Kun Jiang, Guang-Yuan Rao, Insights into the Diversification and Evolution of R2R3-MYB Transcription Factors in Plants, Plant Physiology, Volume 183, Issue 2, June 2020, Pages 637–655, https://doi.org/10.1104/pp.19.01082
+
+18: Frerigmann H and Gigolashvili T (2014) Update on the role of R2R3-MYBs in the regulation of glucosinolates upon sulfur deficiency. Front. Plant Sci. 5:626. doi: 10.3389/fpls.2014.00626
+
+19: Cheng J, Yu K, Shi Y, Wang J and Duan C (2021) Transcription Factor VviMYB86 Oppositely Regulates Proanthocyanidin and Anthocyanin Biosynthesis in Grape Berries. Front. Plant Sci. 11:613677. doi: 10.3389/fpls.2020.613677
+  
+20: Koo, Y., Poethig, R.S. Expression pattern analysis of three R2R3-MYB transcription factors for the production of anthocyanin in different vegetative stages of Arabidopsis leaves. Appl Biol Chem 64, 5 (2021). https://doi.org/10.1186/s13765-020-00584-0
+  
   
   </p>
 </details>
