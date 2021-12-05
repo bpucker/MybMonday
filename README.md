@@ -529,14 +529,30 @@ Do you have a recent publication about MYBs in plants that could be featured her
 <details>
 <summary>(click to expand)</summary>
 <p>
-Pucker B., Pandey A., Weisshaar B. and Stracke R. (2020). The R2R3-MYB gene family in banana (Musa acuminata): genome-wide identification, classification and expression patterns. PLOS ONE 15(10): e0239275. doi:[10.1371/journal.pone.0239275](https://doi.org/10.1371/journal.pone.0239275).
 
-Thiedig K, Weisshaar B, Stracke R (2021). Functional and evolutionary analysis of the Arabidopsis 4R-MYB protein SNAPc4 as part of the SNAP complex. Plant Physiology. doi:[10.1093/plphys/kiaa067](https://pub.uni-bielefeld.de/record/2949074).
+<b>General introduction</b>:
 
-Dubos C, Stracke R, Grotewold E, Weisshaar B, Martin C, Lepiniec L (2010). MYB transcription factors in Arabidopsis. Trends in Plant Science 15(10): 573-581. doi:[10.1016/j.tplants.2010.06.005 ](https://pubmed.ncbi.nlm.nih.gov/20674465/).
+Pucker B., Pandey A., Weisshaar B. and Stracke R. (2020). The R2R3-MYB gene family in banana (<i>Musa acuminata</i>): genome-wide identification, classification and expression patterns. PLOS ONE 15(10): e0239275. doi: [10.1371/journal.pone.0239275](https://doi.org/10.1371/journal.pone.0239275).
 
-Baudry A, Heim MA, Dubreucq B, Caboche M, Weisshaar B, Lepiniec L (2004). TT2, TT8, and TTG1 synergistically specify the expression of BANYULS and proanthocyanidin biosynthesis in Arabidopsis thaliana. doi:[10.1111/j.1365-313X.2004.02138.x](https://pubmed.ncbi.nlm.nih.gov/15255866/).
+Thiedig K, Weisshaar B, Stracke R (2021). Functional and evolutionary analysis of the Arabidopsis 4R-MYB protein SNAPc4 as part of the SNAP complex. Plant Physiology. doi: [10.1093/plphys/kiaa067](https://pub.uni-bielefeld.de/record/2949074).
 
+Dubos C, Stracke R, Grotewold E, Weisshaar B, Martin C, Lepiniec L (2010). MYB transcription factors in Arabidopsis. Trends in Plant Science 15(10): 573-581. doi: [10.1016/j.tplants.2010.06.005 ](https://pubmed.ncbi.nlm.nih.gov/20674465/).
+
+  
+<b>References per post:</b>
+
+1: Pucker B., Pandey A., Weisshaar B. and Stracke R. (2020). The R2R3-MYB gene family in banana (<i>Musa acuminata</i>): genome-wide identification, classification and expression patterns. PLOS ONE 15(10): e0239275. doi: [10.1371/journal.pone.0239275](https://doi.org/10.1371/journal.pone.0239275).
+
+2: Dubos C, Stracke R, Grotewold E, Weisshaar B, Martin C, Lepiniec L (2010). MYB transcription factors in Arabidopsis. Trends in Plant Science 15(10): 573-581. doi: [10.1016/j.tplants.2010.06.005](https://pubmed.ncbi.nlm.nih.gov/20674465/).
+  
+3: Baudry A, Heim MA, Dubreucq B, Caboche M, Weisshaar B, Lepiniec L (2004). TT2, TT8, and TTG1 synergistically specify the expression of BANYULS and proanthocyanidin biosynthesis in Arabidopsis thaliana. doi: [10.1111/j.1365-313X.2004.02138.x](https://pubmed.ncbi.nlm.nih.gov/15255866/).
+
+4: Chagné D, Lin-Wang K, Espley RV, et al. An ancient duplication of apple MYB transcription factors is responsible for novel red fruit-flesh phenotypes. Plant Physiol. 2013;161(1):225-239. doi: [10.1104/pp.112.206771](https://dx.doi.org/10.1104%2Fpp.112.206771)
+  
+  
 Nozomi Haga, Kiichi Kato, Masatake Murase, Satoshi Araki, Minoru Kubo, Taku Demura, Kaoru Suzuki, Isabel Müller, Ute Voß, Gerd Jürgens, Masaki Ito (2007). R1R2R3-Myb proteins positively regulate cytokinesis through activation of KNOLLE transcription in Arabidopsis thaliana. Development 2007 134: 1101-1110; doi: [10.1242/dev.02801](https://dev.biologists.org/content/134/6/1101)
-</p>
+
+  
+  
+  </p>
 </details>
