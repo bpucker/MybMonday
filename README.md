@@ -506,7 +506,6 @@ The annotation of the recently released genome sequence of Castanea crenata [Shi
 Celebrating post number 40 in #MybMonday series by sharing the opportunity to get involved with MYBs. This pipeline allows the automatic identification and annotation of MYBs ([Pucker, 2021](https://doi.org/10.1101/2021.10.16.464636)). CDS or peptide sequence collections of a newly sequenced plant genomes or transcriptomes can be subjected to the analysis. This is a quick way (5-10 minutes) to get a solid annotation of the MYBs for in-depth investigations of the regulated processes. As a proof of concept, the MYB gene families of _Croton tiglium_ and _Castanea crenata_ were analyzed.
 
 
-
 ### (41) 4R-MYB AtSNAPc4 ###
 
 > **_<a href="https://twitter.com/boas_pucker/status/1465221489335091202">TWEET</a>:_** 4R-MYB AtSNAPc4 is a member of a protein complex associated with snRNA gene transcription. Most plant species have just a single copy of this 4R-MYB #MybMonday (details: https://bit.ly/3D0xogK)
@@ -516,6 +515,12 @@ Celebrating post number 40 in #MybMonday series by sharing the opportunity to ge
 </a>
 
 [Thiedig et al., 2021](https://doi.org/10.1093/plphys/kiaa067) investigated AtSNAPc4 (At3g18100), which is a 4R-MYB. In contrast to the abundant R2R3-MYBs, this protein is characterized by four and a half MYB repeats. This protein is a subunit of the SNAP complex 4 that is involved in snRNA gene transcription. _Arabidopsis thaliana_, _Beta vulgaris_, _Vitis vinifera_, and many other plants have only a single copy of this 4R-MYB. This suggest that this single copy state is conserved through evolution. Four different transcript isoforms of At3g18100 are annotated in Araport11, but only one of them (AtSNAPc4.1) encodes a functional protein. Therefore, it is possible that the other three isoforms are targeted by the NMD pathway.
+
+
+### (42) Genome-wide MYB papers ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** New to MYBs? Here is a collection of studies performing a genome-wide investigation of MYBs in plants: https://lnk.tu-bs.de/RQcHMD #MybMonday (details: & https://bit.ly/3y1Ln4T)
+
 
 
 
