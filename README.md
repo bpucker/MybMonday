@@ -621,9 +621,20 @@ Timoneda, A., Feng, T., Sheehan, H., Walker-Hale, N., Pucker, B., Lopez-Nieves, 
   
 35: Xueying Zhang, Yuqing He, Linying Li, Hongru Liu, Gaojie Hong, Involvement of the R2R3-MYB transcription factor MYB21 and its homologs in regulating flavonol accumulation in Arabidopsis stamen, Journal of Experimental Botany, Volume 72, Issue 12, 28 May 2021, Pages 4319–4332, https://doi.org/10.1093/jxb/erab156
   
-36: 
+36: Kenta Shirasawa, Sogo Nishio, Shingo Terakami, Roberto Botta, Daniela Torello Marinoni, Sachiko Isobe, Chromosome-level genome assembly of Japanese chestnut (Castanea crenata Sieb. et Zucc.) reveals conserved chromosomal segments in woody rosids, DNA Research, Volume 28, Issue 5, October 2021, dsab016, https://doi.org/10.1093/dnares/dsab016
   
-37: 
+Automatic identification and annotation of MYB gene family members in plants. Boas Pucker. bioRxiv 2021.10.16.464636; doi: https://doi.org/10.1101/2021.10.16.464636 
+  
+37: Declan J Lafferty, Richard V Espley, Cecilia H Deng, Catrin S Günther, Blue Plunkett, Janice L Turner, Laura Jaakola, Katja Karppinen, Andrew C Allan, Nick W Albert, Hierarchical regulation of MYBPA1 by anthocyanin- and proanthocyanidin-related MYB proteins is conserved in Vaccinium species, Journal of Experimental Botany, 2021;, erab460, https://doi.org/10.1093/jxb/erab460
+  
+38: Li Y, Chen X, Wang J, Zou G, Wang L, et al. (2020) Two responses to MeJA induction of R2R3-MYB transcription factors regulate flavonoid accumulation in Glycyrrhiza uralensis Fisch. PLOS ONE 15(7): e0236565. https://doi.org/10.1371/journal.pone.0236565
+  
+39: Zhang D, Tan Y, Dong F, Zhang Y, Huang Y, Zhou Y, Zhao Z, Yin Q, Xie X, Gao X, Zhang C and Tu N (2021) The Expression of IbMYB1 Is Essential to Maintain the Purple Color of Leaf and Storage Root in Sweet Potato [Ipomoea batatas (L.) Lam]. Front. Plant Sci. 12:688707. doi: 10.3389/fpls.2021.688707
+  
+40: Automatic identification and annotation of MYB gene family members in plants. Boas Pucker. bioRxiv 2021.10.16.464636; doi: https://doi.org/10.1101/2021.10.16.464636 
+  
+41: Thiedig K, Weisshaar B, Stracke R (2021). Functional and evolutionary analysis of the Arabidopsis 4R-MYB protein SNAPc4 as part of the SNAP complex. Plant Physiology. doi: [10.1093/plphys/kiaa067](https://pub.uni-bielefeld.de/record/2949074).
+
   
   
   
