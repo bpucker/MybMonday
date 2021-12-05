@@ -607,9 +607,23 @@ Ding B, Patterson EL, Holalu SV, Li J, Johnson GA, Stanley LE, Greenlee AB, Peng
   
 29: Pucker B, Pandey A, Weisshaar B, Stracke R (2020) The R2R3-MYB gene family in banana (Musa acuminata): Genome-wide identification, classification and expression patterns. PLOS ONE 15(10): e0239275. https://doi.org/10.1371/journal.pone.0239275
   
+30:  Genome-wide characterization of the R2R3-MYB transcription factors in pepper (Capsicum spp.) unveils the role of CaMYB101 as repressor in anthocyanin biosynthesis. Ying Liu, Yi Wu, Zicheng Wang, Shiya Zhang, Xintong Liu, Yury Tikunov, Richard G.F. Visser, Rob E. Schouten, Leo F.M. Marcelis, Zhao Zhang, Arnaud Bovy. bioRxiv 2021.08.24.457473; doi: https://doi.org/10.1101/2021.08.24.457473 
   
+31: Stracke, R., Holtgräwe, D., Schneider, J. et al. Genome-wide identification and characterisation of R2R3-MYB genes in sugar beet (Beta vulgaris). BMC Plant Biol 14, 249 (2014). https://doi.org/10.1186/s12870-014-0249-8
+
+Timoneda, A., Feng, T., Sheehan, H., Walker-Hale, N., Pucker, B., Lopez-Nieves, S., Guo, R. and Brockington, S. (2019), The evolution of betalain biosynthesis in Caryophyllales. New Phytol, 224: 71-85. https://doi.org/10.1111/nph.15980
   
+32: Pucker B, Pandey A, Weisshaar B, Stracke R (2020) The R2R3-MYB gene family in banana (Musa acuminata): Genome-wide identification, classification and expression patterns. PLOS ONE 15(10): e0239275. https://doi.org/10.1371/journal.pone.0239275
   
+33: An R2R3 MYB transcription factor confers brown planthopper resistance by regulating the phenylalanine ammonia-lyase pathway in rice. Jun He, Yuqiang Liu, Dingyang Yuan, Meijuan Duan, Yanling Liu, Zijie Shen, Chunyan Yang, Zeyu Qiu, Daoming Liu, Peizheng Wen, Jie Huang, Dejia Fan, Shizhuo Xiao, Yeyun Xin, Xianian Chen, Ling Jiang, Haiyang Wang, Longping Yuan, Jianmin Wan. Proceedings of the National Academy of Sciences Jan 2020, 117 (1) 271-277; DOI: 10.1073/pnas.1902771116
+  
+34:  Major orchestration of shikimate, early phenylpropanoid and stilbenoid pathways by Subgroup 2 R2R3-MYBs in grapevine. Luis Orduña, Miaomiao Li, David Navarro-Payá, Chen Zhang, Antonio Santiago, Pablo Romero, Živa Ramšak, Gabriele Magon, Janine Höll, Patrik Merz, Kristina Gruden, Alessandro Vannozzi, Dario Cantu, Jochen Bogs, Darren C. J. Wong, Shao-shan Carol Huang, José Tomás Matus. bioRxiv 2020.12.31.424746; doi: https://doi.org/10.1101/2020.12.31.424746 
+  
+35: Xueying Zhang, Yuqing He, Linying Li, Hongru Liu, Gaojie Hong, Involvement of the R2R3-MYB transcription factor MYB21 and its homologs in regulating flavonol accumulation in Arabidopsis stamen, Journal of Experimental Botany, Volume 72, Issue 12, 28 May 2021, Pages 4319–4332, https://doi.org/10.1093/jxb/erab156
+  
+36: 
+  
+37: 
   
   
   
