@@ -547,6 +547,18 @@ This [collection of papers](https://lnk.tu-bs.de/RQcHMD) about genome-wide inves
 [Cavallini et al., 2015](http://www.plantphysiol.org/cgi/doi/10.1104/pp.114.256172) investigated the phenylpropanoid repressors of _Vitis vinifera_. The identified repressor MYBs were similar to the previously chracterized flavonoid repressors AtMYB4 and AtMYBL2. The _V. vinifera_ sequences were classified into groups that are similar to AtMYB4 and PhMYB4 (VvMYB4a and VvMYB4b) and those that are similar to FaMYB1 and PhMYB27 (VvMYBC2-L1, VvMYBC2-L2, and VvMYBC2-L3). A further subclassification was achieved based on the presence of various C-motifs. Fig. 1 of the publication by Cavallini et al., 2015 is an excellent summary. Heterologous expression in petunia was used to study the functions of different repressors. VvMYB4a and VvMYB4b repressed the general phenylpropanoid biosynthesis in petunia. _VvMYBC2-L1_ and _VvMYBC2-L3_ expression resulted in reduced petal anthocyanin content and reduced amount of proanthocyanidins in seeds.
 
 
+### (45) MYB function paper collection ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Interested in the functions of individual MYBs? This collection of papers can help you to find functionally characterized orthologs: https://lnk.tu-bs.de/fX3in9 #MybMonday (details: )
+
+<a href="https://github.com/bpucker/MybMonday">
+<img alt="MYB function paper collection (Tweet #45)" src="https://pbs.twimg.com/media/E-BCE_RXEAElM5Y?format=jpg&name=4096x4096" width="40%" height="40%">
+</a>
+
+This [collection of papers](https://github.com/bpucker/MybMonday/wiki/Collection-of-studies-characterizing-individual-MYBs) about the functions of individual MYBs is intended as a basis for future studies. Orthologs and closely related sequences with available functional data can be harnessed to inform phylogenetic analyses. Please get in touch if you know publications that are missing.
+
+
+
 
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]MYB_Monday)
