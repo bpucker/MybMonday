@@ -538,10 +538,10 @@ This [collection of papers](https://lnk.tu-bs.de/RQcHMD) about genome-wide inves
 
 ### (44) R2R3-MYB C2 repressors in grapevine ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** VvMYB4a and VvMYB4b repress the general phenylpropanoid pathway, while VvMYBC2-L1 and VvMYBC2-L3 repress the anthocyanin and proanthocyanidin biosynthesis #MybMonday (details: )
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** VvMYB4a and VvMYB4b repress the general phenylpropanoid pathway, while VvMYBC2-L1 and VvMYBC2-L3 repress the anthocyanin and proanthocyanidin biosynthesis #MybMonday (details: https://bit.ly/3lY8bxK)
 
 
-[Cavallini et al., 2015](http://www.plantphysiol.org/cgi/doi/10.1104/pp.114.256172) investigated the phenylpropanoid repressors of _Vitis vinifera_. The identified repressor MYB were similar to the previously chracterized flavonoid repressors AtMYB4 and AtMYBL2. The _V. vinifera_ sequences were classified into groups that are similar to AtMYB4 and PhMYB4 (VvMYB4a and VvMYB4b) and those that are similar to FaMYB1 and PhMYB27 (VvMYBC2-L1, VvMYBC2-L2, and VvMYBC2-L3). A further subclassification was achieved based on the presence of various C-motifs. Fig. 1 of the publication by Cavallini et al., 2015 is an excellent summary. Heterologous expression in petunia was used to study the functions of different repressors. VvMYB4a and VvMYB4b repressed the general phenylpropanoid biosynthesis in petunia. VvMYBC2-L1 and VvMYBC2-L3 expression resulted in reduced petal anthocyanin content and reduced amount of proanthocyanidins in seeds.
+[Cavallini et al., 2015](http://www.plantphysiol.org/cgi/doi/10.1104/pp.114.256172) investigated the phenylpropanoid repressors of _Vitis vinifera_. The identified repressor MYBs were similar to the previously chracterized flavonoid repressors AtMYB4 and AtMYBL2. The _V. vinifera_ sequences were classified into groups that are similar to AtMYB4 and PhMYB4 (VvMYB4a and VvMYB4b) and those that are similar to FaMYB1 and PhMYB27 (VvMYBC2-L1, VvMYBC2-L2, and VvMYBC2-L3). A further subclassification was achieved based on the presence of various C-motifs. Fig. 1 of the publication by Cavallini et al., 2015 is an excellent summary. Heterologous expression in petunia was used to study the functions of different repressors. VvMYB4a and VvMYB4b repressed the general phenylpropanoid biosynthesis in petunia. _VvMYBC2-L1_ and _VvMYBC2-L3_ expression resulted in reduced petal anthocyanin content and reduced amount of proanthocyanidins in seeds.
 
 
 
