@@ -558,6 +558,16 @@ This [collection of papers](https://lnk.tu-bs.de/RQcHMD) about genome-wide inves
 This [collection of papers](https://github.com/bpucker/MybMonday/wiki/Collection-of-studies-characterizing-individual-MYBs) about the functions of individual MYBs is intended as a basis for future studies. Orthologs and closely related sequences with available functional data can be harnessed to inform phylogenetic analyses. Please get in touch if you know publications that are missing.
 
 
+### (46) Automatic annotation of MYBs ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Starting 2022 with a new transcriptome/genome assembly? The automatic annotation of MYBs can help you to study a large TF family: https://github.com/bpucker/MYB_annotator #MybMonday (details: )
+
+<a href="https://github.com/bpucker/MybMonday">
+<img alt="Automatic annotation of MYBs (Tweet #46)" src="https://pbs.twimg.com/media/E3Q59hoWEAA0RIj?format=jpg&name=4096x4096" width="40%" height="40%">
+</a>
+
+The [MYB_annotator](https://github.com/bpucker/MYB_annotator) is freely available on github. This tool allows the identification and annotation of MYBs in a new species based on annotated coding or peptide sequences. The run time is between 5 and 10 minutes for most plant species.
+
 
 
 ## Contact ##
