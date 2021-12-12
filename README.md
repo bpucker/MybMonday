@@ -528,6 +528,18 @@ Celebrating post number 40 in #MybMonday series by sharing the opportunity to ge
 This [collection of papers](https://lnk.tu-bs.de/RQcHMD) about genome-wide investigations of the MYB gene family in plants shows the amount of work that has been done. The collection will be updated over time. Please get in touch if you know publications that are missing.
 
 
+### (43) LoMYB33 ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** The R2R3-MYB LoMYB33 is a homolog of GAMYBs. Gene expression patterns and heterologous expression indicate that it is associated with the pollen development in lily #MybMonday (details: )
+
+
+[Liu et al., 2021](https://www.frontiersin.org/articles/10.3389/fpls.2021.730007/full) investigated some MYBs in lily. A phylogenetic analysis suggest that LoMYB33 is a homolog of previously characterized GAMYBs of other plant species. LoMYB33 was found to be highly expressed in he late stages of anther development. Overexpression of LoMYB33 in Arabidopsis thaliana resulted in reduced growth and had a negative impact on anther development. This resulted in a lower number of pollen grains and partial male sterility.
+
+
+
+
+
+
 
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]MYB_Monday)
