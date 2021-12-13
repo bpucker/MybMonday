@@ -530,8 +530,11 @@ This [collection of papers](https://lnk.tu-bs.de/RQcHMD) about genome-wide inves
 
 ### (43) LoMYB33 ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** The R2R3-MYB LoMYB33 is a homolog of GAMYBs. Gene expression patterns and heterologous expression indicate that it is associated with the pollen development in lily #MybMonday (details: )
+> **_<a href="https://twitter.com/boas_pucker/status/1470294919327715333">TWEET</a>:_** The R2R3-MYB LoMYB33 is a homolog of GAMYBs. Gene expression patterns and heterologous expression indicate that it is associated with the pollen development in lily #MybMonday (details: )
 
+<a href="https://twitter.com/boas_pucker/status/1470294919327715333">
+<img alt="LoMYB33 (Tweet #43)" src="https://pbs.twimg.com/media/FGcIH9pXwAQJdST?format=png&name=900x900" width="30%" height="30%">
+</a>
 
 [Liu et al., 2021](https://www.frontiersin.org/articles/10.3389/fpls.2021.730007/full) investigated some MYBs in lily. A phylogenetic analysis suggest that LoMYB33 is a homolog of previously characterized GAMYBs of other plant species. LoMYB33 was found to be highly expressed in he late stages of anther development. Overexpression of LoMYB33 in Arabidopsis thaliana resulted in reduced growth and had a negative impact on anther development. This resulted in a lower number of pollen grains and partial male sterility.
 
