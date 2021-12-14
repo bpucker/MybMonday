@@ -33,7 +33,7 @@ Check out the collection of [genome-wide MYB investigations](https://github.com/
 <a href="https://twitter.com/boas_pucker/status/1363737787782995970">
 <img alt="Phylogenetic tree of banana MYBs (Tweet #1)" src="https://pbs.twimg.com/media/EuzsUIJXcAEPIpy?format=jpg&name=4096x4096" width="30%" height="30%">
 </a>
-
+(Figure source: [Pucker et al., 2020](https://doi.org/10.1371/journal.pone.0239275))
 
 This tweet serves as an introduction. Please read the introduction section on top of this page for additional information. The phylogenetic tree shows the diversity of different functions that are regulated by MYB transcription factors. It appears that there are cases of convergent evolution i.e. different clades of MYBs regulating the same process.
 
