@@ -1,6 +1,6 @@
 # #MybMonday
 
-MYB transcription factors are one of the largest gene family in plants and control many processes. This repository provides additional background to the #MYB_Monday tweets.
+MYB transcription factors are one of the largest gene family in plants and control many processes. This repository provides additional background to the #MYB_Monday tweets. #MybMonday is maintained by the [PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) at TU Braunschweig.
 
 ## Introduction ##
 
