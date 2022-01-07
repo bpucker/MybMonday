@@ -577,7 +577,7 @@ The [MYB_annotator](https://github.com/bpucker/MYB_annotator) is freely availabl
 
 
 ## Contact ##
-Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]MYB_Monday)
+Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]MYB_Monday)
 
 
 ## References ##
