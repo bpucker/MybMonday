@@ -575,6 +575,15 @@ This [collection of papers](https://github.com/bpucker/MybMonday/wiki/Collection
 The [MYB_annotator](https://github.com/bpucker/MYB_annotator) is freely available on github. This tool allows the identification and annotation of MYBs in a new species based on annotated coding or peptide sequences. The run time is between 5 and 10 minutes for most plant species.
 
 
+### (47) VviMYB13 activates stilbene biosynthesis ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Grapevine VviMYB13 appears as a pivotal regulator of the stilbene biosynthesis in vegeative tissues and in response to downy mildew infection  #MybMonday (details: )
+
+
+[Wong et al., 2016](https://doi.org/10.1093/dnares/dsw028) performed a comprehensive analysis of the MYB transcription factors in grapevine. The annotation was manually improved based on information from RNA-seq datasets. Grapevines are well known for their production of stilbenes (anticarcinogenesis) and flavonoids (nutraceuticals). High production levels are based on gene duplications which include the regulating MYB transcription factors. MYBs associated with the flavonoid biosynthesis show patterns of selection that might be due to breeding over many generations. Several MYBs show alternative transcripts originating from the retention of introns. Many of these transcripts encode a disrupted DNA binding domain. Co-expression analyses were preformed to understand the functions of the grapevine MYBs. An enrichment among the most highly co-expressed genes of each MYB was used to predict a function. VviMYB13 was previously not characterized, but appeared co-expressed with the stilbene synthase activators VviMYB14 and VviMYB15. The expression domain of VviMYB13 is not identical with that of its close homolog VviMYB15. VviMYB13 expression in vegetative tissues under non-stress conditions appears to be responsible for the activation of stilbene biosynthesis. VviMYB13 might also be important for the activation of stilbene biosynthesis at the onset of ripening before VviMYB14 and VviMYB15 are active. VviMYB13 also showed a substantially faster and higher response to downy mildew infection than VviMYB14 or VviMYB15.
+Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more about (grapevine) MYBs and their target pathways.
+
+
 
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]MYB_Monday)
