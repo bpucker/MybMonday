@@ -555,9 +555,9 @@ This [collection of papers](https://lnk.tu-bs.de/RQcHMD) about genome-wide inves
 
 ### (45) MYB function paper collection ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Interested in the functions of individual MYBs? This collection of papers can help you to find functionally characterized orthologs: https://lnk.tu-bs.de/fX3in9 #MybMonday (details: )
+> **_<a href="https://twitter.com/boas_pucker/status/1475368350494740480">TWEET</a>:_** Interested in the functions of individual MYBs? This collection of papers can help you to find functionally characterized orthologs: https://lnk.tu-bs.de/fX3in9 #MybMonday (details: )
 
-<a href="https://github.com/bpucker/MybMonday">
+<a href="https://twitter.com/boas_pucker/status/1475368350494740480">
 <img alt="MYB function paper collection (Tweet #45)" src="https://pbs.twimg.com/media/E-BCE_RXEAElM5Y?format=jpg&name=4096x4096" width="40%" height="40%">
 </a>
 
@@ -566,9 +566,9 @@ This [collection of papers](https://github.com/bpucker/MybMonday/wiki/Collection
 
 ### (46) Automatic annotation of MYBs ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Starting 2022 with a new transcriptome/genome assembly? The automatic annotation of MYBs can help you to study a large transcription factor family: https://lnk.tu-bs.de/Jkg950 #MybMonday (details: https://bit.ly/31T8Au4)
+> **_<a href="https://twitter.com/boas_pucker/status/1477905064601681929">TWEET</a>:_** Starting 2022 with a new transcriptome/genome assembly? The automatic annotation of MYBs can help you to study a large transcription factor family: https://lnk.tu-bs.de/Jkg950 #MybMonday (details: https://bit.ly/31T8Au4)
 
-<a href="https://github.com/bpucker/MybMonday">
+<a href="https://twitter.com/boas_pucker/status/1477905064601681929">
 <img alt="Automatic annotation of MYBs (Tweet #46)" src="https://pbs.twimg.com/media/E3Q59hoWEAA0RIj?format=jpg&name=4096x4096" width="40%" height="40%">
 </a>
 
