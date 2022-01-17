@@ -591,9 +591,9 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (48) Apple skin color mutant ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MdMYB90-like activates anthocyanin biosynthesis in apple. Methylation differences in the promoter region are presented as explanation for an enhanced expression #MybMonday (details: )
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MdMYB90-like activates anthocyanin biosynthesis in apple. Methylation differences in the promoter region are presented as explanation for an enhanced expression #MybMonday (details: https://lnk.tu-bs.de/RXK1aW)
 
-[Sun et al., 2021](https://doi.org/10.1038/s41438-021-00590-3) investigated an apple mutant that shows an enhanced skin coloration. RNA-seq revealed an MYB90-like transcripiton factor is putative key regulator due to substantially increased gene expression. This TF was able to bind to the promoters of MdCHS and MdUFGT. Overexpression of this TF resulted in activation of anthocyanin-related genes. As no causal sequence variant was identified in this MYB, the authors assume that a difference in the methylation of the promoter region of this MYB is responsible for the expression difference.
+[Sun et al., 2021](https://doi.org/10.1038/s41438-021-00590-3) investigated an apple mutant that shows an enhanced skin coloration. RNA-seq revealed that a MYB90-like transcripiton factor is a putative key regulator due to substantially increased gene expression. This TF was able to bind to the promoters of _MdCHS_ and _MdUFGT_. Overexpression of this TF resulted in activation of anthocyanin-related genes. As no causal sequence variant was identified in this MYB, the authors assume that a difference in the methylation of the promoter region of this MYB is responsible for the expression difference.
 
 
 
