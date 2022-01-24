@@ -601,6 +601,15 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 
 
+### (49) Soybean seed coat pigmentation ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** GmMYBA2 activates and GmMYBR represses the anthocyanin biosynthesis in soybean. Both appear to form a feedback loop to fine-tune seed coat pigmentation #MybMonday (details: )
+
+
+[Gao et al., 2021](https://doi.org/10.1093/jxb/erab152) investigated the transcriptional regulation of the seed coat pigmentation in soybean (_Glycine max)_. Soybean is an important crop species for the producation of oil and protein. Seeds show a complex pigmentation pattern. Especially dark seeds are expected to have health benefits. A phylogenetic analysis connected 15 MYB genes with the anthocyanin biosynthesis. GmMYBR belongs in a clade with C2 repressor MYBs. GmMYBA2 is a member of the anthoyanin activator clade. Expression pattern and transactivation assays suggested that GmMYBR is a repressor and GmMYBA2 is an activator of the anthocyanin biosynthesis. Overexpression of GmMYBA2 in the soybean cultivars Wm82 and P3 resulted in the accumulation of cyanidin derivatives and delphinidin derivatives, respectively. This suggest a difference in the F3'5'H activity between bloth plants. A single nucleotide deletion in _F3'H_ of P3 caused a frameshift and resulted in a probably non-functional truncated protein. The F3'5'H of Wm82 is probably also non-functional due to a premature stop codon. GmMYBR seems to repress the gene expression by binding the GmMYBA2-GmTT8a complex.
+
+
+
 
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]MYB_Monday)
