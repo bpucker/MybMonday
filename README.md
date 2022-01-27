@@ -616,7 +616,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (50) Celery MYB12 activates apigenin biosynthesis ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Celery MYB12 is a positive regulator of the apignenin and luteolin biosynthesis through activation of PAL, C4H, 4CL, CHS, CHI, and FNS. #MybMonday (details: )
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Celery MYB12 is a positive regulator of the apignenin and luteolin biosynthesis through activation of PAL, C4H, 4CL, CHS, CHI, and FNS. #MybMonday (details: https://lnk.tu-bs.de/S30czt)
 
 
 
