@@ -614,6 +614,16 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 
 
+### (50) Celery MYB12 activates apigenin biosynthesis ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Celery MYB12 is a positive regulator of the apignenin and luteolin biosynthesis through activation of PAL, C4H, 4CL, CHS, CHI, and FNS. #MybMonday (details: )
+
+
+
+[Wang et al., 2021](https://doi.org/10.1007/s00299-021-02792-4) identified the bHLH-independent R2R3 protein MYB12 as a regulator of FNS in celery (_Apium graveolens_). AgMYB12 contains the SG7 and SG7-2 motifs that are characteristic for this MYB clade. The binding of AgMYB12 to the promoter of AgFNS was shown via Y2H. AgMYB12 was found to be positively correlated with the apigenin and luteolin content. Heterologous expression of AgMYB12 in celery plants did not change the visible phenotype. However, apigenin and luteolin levels were increased in these overexpression lines. Target genes are _PAL_, _C4H_, _4CL_, _CHS_, _CHI_, and _FNS_ as discovered based on increased expression in the transgenic celery lines. Gene expression of _F3H_ was not meassured. It remains unclear if the activated FNS belongs to the FNSI or FNSII lineage. FNSI appears to be unique to the Apiaceae family.
+
+
+
 
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]MYB_Monday)
