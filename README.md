@@ -629,8 +629,11 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (51) VcMYB1 activates anthocyanin biosynthesis in blueberry ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** The subgroup6 member VcMYB1 activates the anthocyanin biosynthesis in blueberry #MybMonday (details: https://lnk.tu-bs.de/qRVcPY)
+> **_<a href="https://twitter.com/boas_pucker/status/1490581090276298754">TWEET</a>:_** The subgroup6 member VcMYB1 activates the anthocyanin biosynthesis in blueberry #MybMonday (details: https://lnk.tu-bs.de/qRVcPY)
 
+<a href="https://twitter.com/boas_pucker/status/1490581090276298754">
+<img alt="VcMYB1 activates anthocyanin biosynthesis in blueberry (Tweet #51)" src="https://pbs.twimg.com/media/FK8qjpDXEAAGUAz?format=png&name=900x900" width="40%" height="40%">
+</a>
 
 [Tang et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34659323/) identified VcMYB1 based on an expression pattern that matches the emergence of pigments over time. Additionally, the sequence of this MYB is very similar to previously characterized anthocyanin regulators. Heterologous expression of _VcMYB1_ in _Arabidopsis thaliana_ increased the anthocyanin content by 110x. Binding to the _DFR_ promoter was demonstrated. Transcriptional control of the anthocyanin biosynthesis in blueberry was also recently studied by [Lafferty et al., 2021](https://doi.org/10.1093/jxb/erab460).
 
