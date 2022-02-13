@@ -639,6 +639,16 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 
 
+### (52) MdMYB10 as betalain activator? ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Is the anthocyanin activator MdMYB10 able to activate the betalain biosynthesis when heterologously expressed in sugar beet? #MybMonday (details: )
+
+
+[Khademi et al., 2022](https://doi.org/10.1007/s13205-022-03120-7) transformed _MdMYB10_ into sugar beet to activate the betalain biosynthesis. MdMYB10 is a known regulator of the anthocyanin biosynthesis in apple that can bind its own promoter resulting in an autoactivation ([Espley et al., 2009](https://doi.org/10.1105/tpc.108.059329)). Anthocyanins and betalains are two of the most important pigment groups in plants. While anthocyanins are almost ubiquitous, betalains occur only in the Caryophyllales (reviewed by [Timoneda et al., 2019]( https://doi.org/10.1111/nph.15980)). Anthocyanins and betalains are considered mutually exlcusive, because no solid study was able to detect both pigments in the same plant during the last 50 years. MYBs (e.g. MYB75=PAP1) are usually used to activate the anthocyanin biosynthesis in biotechnological applications. The activation of the anthocyanin biosynthesis and the resulting pigmentation can be used as a screening marker when transforming plants. The PAP1 homolog in sugar beet was identified as a transcriptional activator of the betalain biosynthesis ([Hatlestadt et al., 2015](https://rdcu.be/cGV9u)). Kahademi et al. show that sugar beet plantlets harboring the _MdMYB10_ transgene showed pigmentation after 50 days when exposed to light. The authors conclude that the MdMYB10 activates the betalain biosynthesis, but also state that there is large variation between different transgenic lines. Unfortunately, the gene expression of the betalain biosynthesis genes was not analyzed. It seems that _MdMYB10_ was successfully expressed in sugar beet, but does it activate the betalain biosynthesis or is the betalain formation caused by a native regulator? The production of betalains was shown to have an inhibitory effect on bacterial grotwh. This inhibition was demonstrated with leaf extracts on an agar plate.
+
+
+
+
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]MYB_Monday)
 
