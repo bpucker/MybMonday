@@ -655,6 +655,10 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 > **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** VvMYB24 activates terpene & flavonol biosynthesis in berry skin parts that lack anthocyanin pigementation #MybMonday (details: https://lnk.tu-bs.de/pnXkRE)
 
+<a href="https://github.com/bpucker/MybMonday">
+<img alt="Radiation protection 'plan B' (Tweet #53)" src="https://pbs.twimg.com/media/FIsadPcWQAY9p_1?format=jpg&name=medium" width="40%" height="40%">
+</a>
+
 [Chen et al., 2021](https://doi.org/10.1101/2021.12.16.472692 ) compared white/pale and anthocyanin-pigmented skins sections of _Vitis vinifera_ berries. Sections without anthocyanins are characterized by non-functional alleles of the anthocyanin regulators _VvMYBA1_ and _VvMYBA2_. Since anthocyanins are crucial for the pigmentation, these alleles explain the lack of color. _VvMYBA1_ is repressed by a transposon insertion in the promoter that can be lost through somatic mutations hence leading to local pigmentation of white berries. VvMYB24 (VIT_14s0066g01090), a subgroup 19 member, was studied through DAP-seq. This investigation resulted in the identification of _HY5_ and _MYC2_ as important targets. These results suggest that VvMYB24 activates the flavonol biosynthesis and the terpene (carotenoid) biosynthesis. This study is additional evidence for the sunscreen function of anthocyanins.
 
 
