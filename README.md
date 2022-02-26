@@ -662,6 +662,14 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 [Chen et al., 2021](https://doi.org/10.1101/2021.12.16.472692 ) compared white/pale and anthocyanin-pigmented skins sections of _Vitis vinifera_ berries. Sections without anthocyanins are characterized by non-functional alleles of the anthocyanin regulators _VvMYBA1_ and _VvMYBA2_. Since anthocyanins are crucial for the pigmentation, these alleles explain the lack of color. _VvMYBA1_ is repressed by a transposon insertion in the promoter that can be lost through somatic mutations hence leading to local pigmentation of white berries. VvMYB24 (VIT_14s0066g01090), a subgroup 19 member, was studied through DAP-seq. This investigation resulted in the identification of _HY5_ and _MYC2_ as important targets. These results suggest that VvMYB24 activates the flavonol biosynthesis and the terpene (carotenoid) biosynthesis. This study is additional evidence for the sunscreen function of anthocyanins.
 
 
+### (54) PgMYB308-like of pomegranate ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** PgMYB308-like of pomegranate activates shikimate pathway and ligning biosynthesis, but represses the biosynthesis of flavonoids #MybMonday (details: )
+
+
+[Dhakarey et al., 2022](https://doi.org/10.1093/hr/uhac008) investigated the function of PgMYB308-like in _Punica granatum_ (pomegranate). Pomegranate juice is associated with many health benefits which were attributed to phenolic compounds with antioxidant activity. Various flavonoids and other specialized metabolites are expected to play important roles. The biosynthesis of these compounds depends on the shikimate pathway for formation of the substrate phenylalanine. R2R3-MYB transcription factors are known to play important roles in the regulation of these biosynthesis pathways. PgMYB308-like was identified as a subgroup4 R2R3-MYB through a phylogenetic anlysis. Members of this subgroup have been reported as flavonoid repressors in previous studies. A motifs for the interaction with bHLH partners was discovered in PgMYB308-like. Overexpression of this _PgMYB308-like_ in pomegranate hairy root cells resulted in an increased production of aromatic amino acids and lignins, but reduced formation of flavonoids. The production of tyrosine and tryptophan was substantially stronger increased than the formation of phenylalanine. Among the up-regulated target genes of PgMYB308-like are caffeic acid 3-O-methyltransferase (COMT), laccase 7-like, and laccase 13. It appears that PgMYB308-like is not just activating the lignin biosynthesis, but also regulates the cell wall formation. Down-regulated genes include MYB123-like, MYB308, and EGL1-like that are involved in the flavonoid biosynthesis.
+
+
 
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]MYB_Monday)
