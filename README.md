@@ -675,7 +675,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (55) Poplar MYB117 promotes anthocyanin biosynthesis ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Poplar MYB117 activates the anthocyanin biosynthesis and increases the hydroxylation of flavonoids through enhanced expression of F3'5'H #MybMonday (details: )
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Poplar MYB117 activates the anthocyanin biosynthesis and increases the hydroxylation of flavonoids through enhanced expression of F3'5'H #MybMonday (details: https://lnk.tu-bs.de/9pMGmz)
 
 
 
