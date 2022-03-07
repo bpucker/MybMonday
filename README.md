@@ -675,9 +675,11 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (55) Poplar MYB117 promotes anthocyanin biosynthesis ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Poplar MYB117 activates the anthocyanin biosynthesis and increases the hydroxylation of flavonoids through enhanced expression of F3'5'H #MybMonday (details: https://lnk.tu-bs.de/9pMGmz)
+> **_<a href="https://twitter.com/boas_pucker/status/1500735500033970177">TWEET</a>:_** Poplar MYB117 activates the anthocyanin biosynthesis and increases the hydroxylation of flavonoids through enhanced expression of F3'5'H #MybMonday (details: https://lnk.tu-bs.de/9pMGmz)
 
-
+<a href="https://twitter.com/boas_pucker/status/1500735500033970177">
+<img alt="Poplar MYB117 promotes anthocyanin biosynthesis (Tweet #55)" src="https://pbs.twimg.com/media/FNMBN5EXoAco-2q?format=jpg&name=medium" width="40%" height="40%">
+</a>
 
 [Ma et al., 2021](https://doi.org/10.1093/jxb/erab116) investigated the role of poplar MYB117 in _Populus tremula x tremuloides_. There are six PAP1-type MYBs in poplar: MYB113, MYB116, MYB117, MYB118, MYB119, and MYB120. MYB117 does not act on its own, but requires the formation of a complex with bHLH131 for this activation. This bHLH partner is also forming complexes with the proanthocyanidin regulators MYB115 and MYB134. It seems that this bHLH does not have a preference for any of these three MYBs. Overexpression of MYB117 in poplar caused an increase of the anthocyanin content by >50-fold while the proanthocyanidin content was only slightly increased. Expression of the core flavonoid biosynthesis genes was activated by MYB117, but also some TFs showed up-regulation. The MYB117 paralog MYB113 showed a striking up-regulation which indicated that this might be a direct target of MYB117. Both _F3'5'H_ genes and _b5_ showed a substantial up-regulation. High F3'5'H activity resulted in a higher ratio of delphinidin derivatives to cyanidin derivatives (about 1:1) compared to the wild type (about 1:10). The increase in the prodelphinidin to procyanidin ratio was similar, but at a lower level. The same was observed for flavonols.
 
