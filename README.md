@@ -687,8 +687,11 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (56) Repressor function of MYB12 ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MYB12 binds TMO5 resulting in reduced activity of the TMO5/LHW complex. Expression of the target genes is reduced. MYB12 is an indirect TMO5/LHW target. This system constitutes a negative feedback loop #MybMonday (details: https://lnk.tu-bs.de/r72Qy6)
+> **_<a href="https://twitter.com/boas_pucker/status/1503272215575412736">TWEET</a>:_** MYB12 binds TMO5 resulting in reduced activity of the TMO5/LHW complex. Expression of the target genes is reduced. MYB12 is an indirect TMO5/LHW target. This system constitutes a negative feedback loop #MybMonday (details: https://lnk.tu-bs.de/r72Qy6)
 
+<a href="https://twitter.com/boas_pucker/status/1503272215575412736">
+<img alt="Repressor function of MYB12 (Tweet #56)" src="https://pbs.twimg.com/media/FNykhr-WUAESi6Y?format=jpg&name=4096x4096" width="40%" height="40%">
+</a>
 
 [Wybouw et al., 2022](https://doi.org/10.1101/2022.03.08.483486) investigated the role of MYB12 as repressor of the TMO5/LHW-mediated gene expression. The bHLH transcription factors TARGET OF MONOPTEROS 5 (TMO5) and LONESOME HIGHWAY (LHW) form a heterodimer that controls vascular cell proliferation that is responsible for radial expansion of the vascular bundle. High TMO5/LHW activity results in shorter roots with increased width. TMO5/LHW activates the expression of LONELY GUY 3(LOG3) and BETA GLUCOSIDASE 44 (BGLU44) which are involved in the cytokinin formation. SUPPRESSOR OF ACAULIS51-LIKE (SACL) is a repressor of this process due to competition with TMO5 for binding LHW. EMS mutagenesis generated a novel _myb12_ allele which revealed the novel repressor function of MYB12. The authors identified MYB12 as an additional repressors that binds TMO5 and prevents the formation/activity of the bHLH heterodimer. As MYB12 is also an indirect target of TMO5/LHW, this system consitutes a negative feedback loop. The molecular mechanism of the repression by MYB12 remains elusive. One hypothesis suggest that MYB12 might redirects the activity of the TMO5/LHW complex to other target genes.
 
