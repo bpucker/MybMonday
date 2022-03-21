@@ -697,6 +697,15 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 
 
+### (57) Automatic identification and annotation of MYBs ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MYBs can be identified and annotated automatically (https://rdcu.be/cJm7Q). The corresponding #Python code and required data sets are freely available @github. A web server is under development. #MybMonday: 
+
+
+[Pucker, 2022](https://doi.org/10.1186/s12864-022-08452-5) describes the automatic identification and functional annotation of MYBs. The Python tool is available for download. A web server for more convenient application is under development. Get in touch if you need help running a MYB analysis.
+
+
+
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]MYB_Monday)
 
