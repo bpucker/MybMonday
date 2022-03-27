@@ -699,13 +699,22 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (57) Automatic identification and annotation of MYBs ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MYBs can be identified and annotated automatically (https://rdcu.be/cJm7Q). The corresponding #Python code and required data sets are freely available @github. A web server is under development. #MybMonday: https://lnk.tu-bs.de/ZwFMei
+> **_<a href="https://twitter.com/boas_pucker/status/1505786564223410179">TWEET</a>:_** MYBs can be identified and annotated automatically (https://rdcu.be/cJm7Q). The corresponding #Python code and required data sets are freely available @github. A web server is under development. #MybMonday: https://lnk.tu-bs.de/ZwFMei
 
 <a href="https://twitter.com/boas_pucker/status/1505786564223410179">
 <img alt="Automatic identification and annotation of MYBs (Tweet #57)" src="https://pbs.twimg.com/media/FOWgj2AX0AIsZUD?format=jpg&name=large" width="40%" height="40%">
 </a>
 
 [Pucker, 2022](https://doi.org/10.1186/s12864-022-08452-5) describes the automatic identification and functional annotation of MYBs. The Python tool is available for download: [MYB_annotator](https://github.com/bpucker/MYB_annotator). A web server for more convenient application is under development. Get in touch if you need help running a MYB analysis.
+
+
+### (58) Updated collection of MYB papers ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Interested in the biological functions of individual MYBs? Here is an updated collection of MYB papers: https://lnk.tu-bs.de/fX3in9 #MybMonday (details: XXXX)
+
+<a href="https://github.com/bpucker/MybMonday">
+<img alt="Updated collection of MYB papers (Tweet #58)" src="xxxx" width="40%" height="40%">
+</a>
 
 
 
