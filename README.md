@@ -720,8 +720,12 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (59) Bamboo MYBs ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Investigation of the MYBs in the fast growing woody Phyllostachys edulis (bamboo) revealed some potential regulators of the secondary cell wall development #MybMonday (details: https://lnk.tu-bs.de/ty37LB)
+> **_<a href="https://twitter.com/boas_pucker/status/1510867262181322752">TWEET</a>:_** Investigation of the MYBs in the fast growing woody Phyllostachys edulis (bamboo) revealed some potential regulators of the secondary cell wall development #MybMonday (details: https://lnk.tu-bs.de/ty37LB)
 
+
+<a href="https://twitter.com/boas_pucker/status/1510867262181322752">
+<img alt="Bamboo MYBs (Tweet #59)" src="https://pbs.twimg.com/media/FPeDEVoX0AkNQbU?format=jpg&name=large" width="40%" height="40%">
+</a>
 
 [Yang et al., 2019](https://doi.org/10.7717/peerj.6242) investigated the MYB gene family in moso bamboo (_Phyllostchys edulis_). A total of 85 MYBs was identified and characterized by phylogenetic analysis, gene structure analysis, and gene expression analysis. This set of MYBs includes 82 R2R3-MYBs. The expression pattern of 12 MYBs suggests that they might be associated with the biosynthesis of the secondary cell wall (SCW).
 Lignified SCWs are of biotechnological interest, because they are responsible for the wood quality. Bamboo is characterized by rapid growth which makes it an economically important species. The identification of MYBs associated with the wood quality provides the basis for modifications through genetic engineering or breeding in the future. While this study revealed some candidates, additional analyses are required to understand how the development of SCW is regulated in bamboo.
