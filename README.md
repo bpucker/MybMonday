@@ -720,7 +720,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (59) Bamboo MYBs ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Investigation of the MYBs in the fast growing woody Phyllostachys edulis (bamboo) revealed some potential regulators of the secondary cell wall development #MybMonday (details: )
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Investigation of the MYBs in the fast growing woody Phyllostachys edulis (bamboo) revealed some potential regulators of the secondary cell wall development #MybMonday (details: https://lnk.tu-bs.de/ty37LB)
 
 
 [Yang et al., 2019](https://doi.org/10.7717/peerj.6242) investigated the MYB gene family in moso bamboo (_Phyllostchys edulis_). A total of 85 MYBs was identified and characterized by phylogenetic analysis, gene structure analysis, and gene expression analysis. This set of MYBs includes 82 R2R3-MYBs. The expression pattern of 12 MYBs suggests that they might be associated with the biosynthesis of the secondary cell wall (SCW).
