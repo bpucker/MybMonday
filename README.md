@@ -732,6 +732,15 @@ Lignified SCWs are of biotechnological interest, because they are responsible fo
 
 
 
+### (60) Evolution of flavonol regulators in Brassicaceae ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Exciting findings: evolution of flavonol biosynthesis regulating MYBs in Brassicaceae involves a deep MYB12 and MYB111 duplication as well as a MYB11 loss #MybMonday: https://doi.org/10.1101/2022.04.06.487363 & XXX
+
+
+[Schilbert & Glover, 2022](https://doi.org/10.1101/2022.04.06.487363) performed comprehensive analyses of the MYB gene familiy in the Brassicaceae. A deep duplication of _MYB12_ and _MYB111_ was discovered. In addition, loss of _MYB11_ was identified. These findings are supported by synteny and phylogenetic analyses.
+
+
+
 
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]MYB_Monday)
