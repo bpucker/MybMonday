@@ -734,8 +734,11 @@ Lignified SCWs are of biotechnological interest, because they are responsible fo
 
 ### (60) Evolution of flavonol regulators in _Brassicaceae_ ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Exciting findings: evolution of flavonol biosynthesis regulating MYBs in Brassicaceae involves a deep MYB12 and MYB111 duplication as well as a MYB11 loss #MybMonday: https://doi.org/10.1101/2022.04.06.487363 & https://lnk.tu-bs.de/B3wTUb
+> **_<a href="https://twitter.com/boas_pucker/status/1513403976334528515">TWEET</a>:_** Exciting findings: evolution of flavonol biosynthesis regulating MYBs in Brassicaceae involves a deep MYB12 and MYB111 duplication as well as a MYB11 loss #MybMonday: https://doi.org/10.1101/2022.04.06.487363 & https://lnk.tu-bs.de/B3wTUb
 
+<a href="https://twitter.com/boas_pucker/status/1513403976334528515">
+<img alt="Evolution of flavonol regulators in _Brassicaceae_ (Tweet #60)" src="https://pbs.twimg.com/media/FQAiZohWUAEsg-5?format=jpg&name=4096x4096" width="40%" height="40%">
+</a>
 
 [Schilbert & Glover, 2022](https://doi.org/10.1101/2022.04.06.487363) performed comprehensive analyses of the MYB gene family in the _Brassicaceae_. The flavonol biosynthesis in _Arabidopsis thaliana_ is regulated by MYB11/MYB12/MYB111 which have partially redundant functions. A deep duplication of _MYB12_ and _MYB111_ was discovered. In addition, loss of _MYB11_ was identified. These findings are supported by synteny and phylogenetic analyses.
 
