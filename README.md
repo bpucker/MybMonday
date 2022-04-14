@@ -746,7 +746,7 @@ Lignified SCWs are of biotechnological interest, because they are responsible fo
 
 ### (61) Anthocyanin regulation in _Paeonia ostii_ ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Flower colors of Paeonia ostii are determined by anthocyanin concentrations and range from white to pink. PoMYB2 and PoSPL1 were proposed as negative regulators of the anthocyanin biosynthesis #MybMonday (details: )
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Flower colors of Paeonia ostii are determined by anthocyanin concentrations and range from white to pink. PoMYB2 and PoSPL1 were proposed as negative regulators of the anthocyanin biosynthesis #MybMonday (details: https://lnk.tu-bs.de/O8gWwC)
 
 
 
