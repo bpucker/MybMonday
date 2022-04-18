@@ -746,9 +746,11 @@ Lignified SCWs are of biotechnological interest, because they are responsible fo
 
 ### (61) Anthocyanin regulation in _Paeonia ostii_ ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Flower colors of Paeonia ostii are determined by anthocyanin concentrations and range from white to pink. PoMYB2 and PoSPL1 were proposed as negative regulators of the anthocyanin biosynthesis #MybMonday (details: https://lnk.tu-bs.de/O8gWwC)
+> **_<a href="https://twitter.com/boas_pucker/status/1515940692685729794">TWEET</a>:_** Flower colors of Paeonia ostii are determined by anthocyanin concentrations and range from white to pink. PoMYB2 and PoSPL1 were proposed as negative regulators of the anthocyanin biosynthesis #MybMonday (details: https://lnk.tu-bs.de/O8gWwC)
 
-
+<a href="https://twitter.com/boas_pucker/status/1515940692685729794">
+<img alt="Anthocyanin regulation in _Paeonia ostii_ (Tweet #61)" src="https://pbs.twimg.com/media/FQRlYF9WUAQ-Lg9?format=jpg&name=large" width="40%" height="40%">
+</a>
 
 [Gao et al., 2016](https://doi.org/10.3389/fpls.2015.01205) investigated the molecular basis of flower color variation in _Paeonia ostii_. Flower colors of this species range from white to pink. The color is determined by the amount of accumulated anthocyanins. The transcription factors PoMYB2 and PoSPL1 were identified as potential negative regulators of the anthocyanin biosynthesis. It is spectulated that these transcription factors reduce the activation capacity of the MYB-bHLH-TTG1 complex that activates the anthocyanin biosynthesis.
 
