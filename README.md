@@ -755,6 +755,14 @@ Lignified SCWs are of biotechnological interest, because they are responsible fo
 [Gao et al., 2016](https://doi.org/10.3389/fpls.2015.01205) investigated the molecular basis of flower color variation in _Paeonia ostii_. Flower colors of this species range from white to pink. The color is determined by the amount of accumulated anthocyanins. The transcription factors PoMYB2 and PoSPL1 were identified as potential negative regulators of the anthocyanin biosynthesis. It is spectulated that these transcription factors reduce the activation capacity of the MYB-bHLH-TTG1 complex that activates the anthocyanin biosynthesis.
 
 
+### (62) MYB_annotator online ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Automatic MYB annotation is now available as an online service:
+http://pbb.bot.nat.tu-bs.de/MYB_annotator/. Just submit a FASTA file of your species of interest to start the analysis. #MybMonday (details: XXX & https://doi.org/10.1186/s12864-022-08452-5)
+
+
+The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s12864-022-08452-5)) is  now available as an online service: [MYB_annotator online](http://pbb.bot.nat.tu-bs.de/MYB_annotator/). Users can submit a FASTA file with peptide sequences of their species of interest without having to install the tool locally.
+
 
 
 
