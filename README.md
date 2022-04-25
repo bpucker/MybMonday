@@ -760,6 +760,9 @@ Lignified SCWs are of biotechnological interest, because they are responsible fo
 > **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Automatic MYB annotation is now available as an online service:
 http://pbb.bot.nat.tu-bs.de/MYB_annotator/. Just submit a FASTA file of your species of interest to start the analysis. #MybMonday (details: XXX & https://doi.org/10.1186/s12864-022-08452-5)
 
+<a href="https://twitter.com/boas_pucker/status/1518477407346302983">
+<img alt="MYB_annotator online (Tweet #62)" src="https://pbs.twimg.com/media/FRJ9-rGX0AAjU2H?format=jpg&name=large" width="40%" height="40%">
+</a>
 
 The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s12864-022-08452-5)) is  now available as an online service: [MYB_annotator online](http://pbb.bot.nat.tu-bs.de/MYB_annotator/). Users can submit a FASTA file with peptide sequences of their species of interest without having to install the tool locally.
 
