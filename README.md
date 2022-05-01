@@ -757,7 +757,7 @@ Lignified SCWs are of biotechnological interest, because they are responsible fo
 
 ### (62) MYB_annotator online ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Automatic MYB annotation is now available as an online service:
+> **_<a href="https://twitter.com/boas_pucker/status/1518477407346302983">TWEET</a>:_** Automatic MYB annotation is now available as an online service:
 http://pbb.bot.nat.tu-bs.de/MYB_annotator/. Just submit a FASTA file of your species of interest to start the analysis. #MybMonday (details: XXX & https://doi.org/10.1186/s12864-022-08452-5)
 
 <a href="https://twitter.com/boas_pucker/status/1518477407346302983">
@@ -767,6 +767,13 @@ http://pbb.bot.nat.tu-bs.de/MYB_annotator/. Just submit a FASTA file of your spe
 The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s12864-022-08452-5)) is  now available as an online service: [MYB_annotator online](http://pbb.bot.nat.tu-bs.de/MYB_annotator/). Users can submit a FASTA file with peptide sequences of their species of interest without having to install the tool locally.
 
 
+### (62) Regulation of anthocyanin biosynthesis in petunia ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Petunia exserta lacks a functional AN2 (anthocyanin regulating MYB). A paralog MYB resurrects anthocyanin pigmentation in a white flowering lineage and shifts flower color to red #MybMonday (details: )
+
+
+
+[Berardi et al., 2021](https://doi.org/10.1093/plcell/koab114) investigated the molecular basis of red floral color in _Petunia exserta_. Red flower color evolved multiple times independently from purple coloration through loss-of-function mutations. One major driver of this evolution is the pollination by hummingbirds. However, _Petunia exserta_ evolved from a white flowering ancestor. The key anthocyanin regulator _AN2_ is non-functional in this species. A paralog of _AN2_ restored the anthocyanin pigmentation. Hydroxylation patterns are modified and acylation of anthocyanins is prevented. Different _F3'5'H_ paralogs are highly expressed in _P. exserta_ (red) and _P. secreta_ (purple) and are likely to act upon different substrates. Low expression of _AAT_ prevents down-stream modifications of anthocyanins. There are four anthocyanin regulating MYBs in long-tube petunia (_AN2_, _AN4_, _DPL_, _PHZ_) which control the pigmentation of defined floral structures. The search for the key anthocyanin regulator in _P. exserta_ revealed _DPL_ and _PH4_ as most suitable candidates based on their expression patterns. Repression of _DPL_caused white flowers exclusively in _P. exserta_, while repression of _PH4_ effects multiple _Petunia_ species. The authors assume that DPL shifted from activation of anthocyanin biosynthesis in the veins of the floral tube to activation of the anthocyanin biosynthesis in the limb. This is a rare example of neofunctionalization instead of subfunctionalization. PH4 might be involved in activating the anthocyanin transport genes. A loss-of-function mutation in the flavonol regulating _MYB-FL_ removes the competition of flavonol and anthocyanin biosynthesis for substrate thus enabeling anthocyanin pigmentation.
 
 
 ## Contact ##
