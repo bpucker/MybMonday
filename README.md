@@ -767,7 +767,7 @@ http://pbb.bot.nat.tu-bs.de/MYB_annotator/. Just submit a FASTA file of your spe
 The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s12864-022-08452-5)) is  now available as an online service: [MYB_annotator online](http://pbb.bot.nat.tu-bs.de/MYB_annotator/). Users can submit a FASTA file with peptide sequences of their species of interest without having to install the tool locally.
 
 
-### (62) Regulation of anthocyanin biosynthesis in petunia ###
+### (63) Regulation of anthocyanin biosynthesis in petunia ###
 
 > **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Petunia exserta lacks a functional AN2 (anthocyanin regulating MYB). A paralog MYB resurrects anthocyanin pigmentation in a white flowering lineage and shifts flower color to red #MybMonday (details: )
 
