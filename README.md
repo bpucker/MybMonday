@@ -769,13 +769,25 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 ### (63) Regulation of anthocyanin biosynthesis in petunia ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Petunia exserta lacks a functional AN2 (anthocyanin regulating MYB). A paralog MYB resurrects anthocyanin pigmentation in a white flowering lineage and shifts flower color to red #MybMonday (details: https://lnk.tu-bs.de/ysaXNg)
+> **_<a href="https://twitter.com/boas_pucker/status/1521014122288189440">TWEET</a>:_** Petunia exserta lacks a functional AN2 (anthocyanin regulating MYB). A paralog MYB resurrects anthocyanin pigmentation in a white flowering lineage and shifts flower color to red #MybMonday (details: https://lnk.tu-bs.de/ysaXNg)
 
 <a href="https://twitter.com/boas_pucker/status/1521014122288189440">
 <img alt="Regulation of anthocyanin biosynthesis in petunia (Tweet #63)" src="https://pbs.twimg.com/media/FRqYl-jX0AEA2iI?format=jpg&name=large" width="40%" height="40%">
 </a>
 
 [Berardi et al., 2021](https://doi.org/10.1093/plcell/koab114) investigated the molecular basis of red floral color in _Petunia exserta_. Red flower color evolved multiple times independently from purple coloration through loss-of-function mutations. One major driver of this evolution is the pollination by hummingbirds. However, _Petunia exserta_ evolved from a white flowering ancestor. The key anthocyanin regulator _AN2_ is non-functional in this species. A paralog of _AN2_ restored the anthocyanin pigmentation. Hydroxylation patterns are modified and acylation of anthocyanins is prevented. Different _F3'5'H_ paralogs are highly expressed in _P. exserta_ (red) and _P. secreta_ (purple) and are likely to act upon different substrates. Low expression of _AAT_ prevents down-stream modifications of anthocyanins. There are four anthocyanin regulating MYBs in long-tube petunia (_AN2_, _AN4_, _DPL_, _PHZ_) which control the pigmentation of defined floral structures. The search for the key anthocyanin regulator in _P. exserta_ revealed _DPL_ and _PH4_ as most suitable candidates based on their expression patterns. Repression of _DPL_caused white flowers exclusively in _P. exserta_, while repression of _PH4_ effects multiple _Petunia_ species. The authors assume that DPL shifted from activation of anthocyanin biosynthesis in the veins of the floral tube to activation of the anthocyanin biosynthesis in the limb. This is a rare example of neofunctionalization instead of subfunctionalization. PH4 might be involved in activating the anthocyanin transport genes. A loss-of-function mutation in the flavonol regulating _MYB-FL_ removes the competition of flavonol and anthocyanin biosynthesis for substrate thus enabeling anthocyanin pigmentation.
+
+
+
+### (64) Regulation of anthocyanin biosynthesis in kiwifruit ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MYB10 and MYB110 activate anthocyanin biosynthesis in Actinidia chinensis. While MYB110 causes pigment accumulation in the entire fruit, MYB10 leads to pigmentation of the inner pericarp #MybMonday (details: )
+
+
+
+[Wang et al., 2022](https://doi.org/10.1111/nph.18122) studied the differential expression of the anthocyanin regulators MYB10 and MYB110 in _Actinidia chinensis_ (kiwifruit). This species is characterized by a variety of differently pigmented cultivars including green, yellow, red, and purple. The gene expression difference of these MYBs is controlled at the transcriptional level by miRNAs that degrade repressors of these MYBs. MYB10 and MYB110 are both able to activate the anthocyanin biosynthesis. MYB210 is phylogenetically related to MYB10 and MYB110, but appears to be non-functional. MYB10 and MYB210 appear to be the result of a whole genome duplication. MYB210 and MYB110 seem to be tandem duplicates. MYB110 appears to be a stronger activator than MYB10. While _MYB10_ overexpression only resulted in anthocyanin formation in the inner pericarp, overexpression of _MYB110_ causes anthcocyanin formation across the fruit.
+
+
 
 
 ## Contact ##
