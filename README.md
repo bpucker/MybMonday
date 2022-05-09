@@ -781,9 +781,11 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 ### (64) Regulation of anthocyanin biosynthesis in kiwifruit ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MYB10 and MYB110 activate anthocyanin biosynthesis in Actinidia chinensis. While MYB110 causes pigment accumulation in the entire fruit, MYB10 leads to pigmentation of the inner pericarp #MybMonday (details: )
+> **_<a href="https://twitter.com/boas_pucker/status/1523550836202229760">TWEET</a>:_** MYB10 and MYB110 activate anthocyanin biosynthesis in Actinidia chinensis. While MYB110 causes pigment accumulation in the entire fruit, MYB10 leads to pigmentation of the inner pericarp #MybMonday (details: )
 
-
+<a href="https://twitter.com/boas_pucker/status/1523550836202229760">
+<img alt="Regulation of anthocyanin biosynthesis in kiwifruit (Tweet #64)" src="https://pbs.twimg.com/media/FSDN9zRaMAE0JYm?format=jpg&name=large" width="40%" height="40%">
+</a>
 
 [Wang et al., 2022](https://doi.org/10.1111/nph.18122) studied the differential expression of the anthocyanin regulators MYB10 and MYB110 in _Actinidia chinensis_ (kiwifruit). This species is characterized by a variety of differently pigmented cultivars including green, yellow, red, and purple. The gene expression difference of these MYBs is controlled at the transcriptional level by miRNAs that degrade repressors of these MYBs. MYB10 and MYB110 are both able to activate the anthocyanin biosynthesis. MYB210 is phylogenetically related to MYB10 and MYB110, but appears to be non-functional. MYB10 and MYB210 appear to be the result of a whole genome duplication. MYB210 and MYB110 seem to be tandem duplicates. MYB110 appears to be a stronger activator than MYB10. While _MYB10_ overexpression only resulted in anthocyanin formation in the inner pericarp, overexpression of _MYB110_ causes anthcocyanin formation across the fruit.
 
