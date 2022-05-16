@@ -796,6 +796,10 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 > **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Proanthocyanidin biosynthesis in banana is activated by MaMYBPA1 and MaMYBPA2. Four other MYBs serve as repressors #MybMonday (details: https://lnk.tu-bs.de/MxnLYC)
 
 
+<a href="https://twitter.com/boas_pucker/status/1526087551152431105">
+<img alt="Regulation of proanthocyanidin biosynthesis in banana (Tweet #65)" src="https://pbs.twimg.com/media/FS1t1heX0AIjqTi?format=jpg&name=large" width="40%" height="40%">
+</a>
+
 [Rajput et al., 2022](https://doi.org/10.1101/2022.04.27.489641) investigated the proanthocyanidin biosynthesis regulating MYB transcription factors in _Musa acuminata_. MaMYBPA1 and MaMYBPA2 activate the proanthocyanidin biosynthesis, while MaMYBR1-MaMYBR4 serve as repressors. Applied methods include the complementation of _Arabidopsis thaliana_ _tt2_ mutants and promoter binding assays. MaMYBs interacted with bHLH and TTG1 to form a functional MBW complex.
 
 
