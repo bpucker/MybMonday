@@ -790,7 +790,6 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 [Wang et al., 2022](https://doi.org/10.1111/nph.18122) studied the differential expression of the anthocyanin regulators MYB10 and MYB110 in _Actinidia chinensis_ (kiwifruit). This species is characterized by a variety of differently pigmented cultivars including green, yellow, red, and purple. The gene expression difference of these MYBs is controlled at the transcriptional level by miRNAs that degrade repressors of these MYBs. MYB10 and MYB110 are both able to activate the anthocyanin biosynthesis. MYB210 is phylogenetically related to MYB10 and MYB110, but appears to be non-functional. MYB10 and MYB210 appear to be the result of a whole genome duplication. MYB210 and MYB110 seem to be tandem duplicates. MYB110 appears to be a stronger activator than MYB10. While _MYB10_ overexpression only resulted in anthocyanin formation in the inner pericarp, overexpression of _MYB110_ causes anthcocyanin formation across the fruit.
 
 
-
 ### (65) Regulation of proanthocyanidin biosynthesis in banana ###
 
 > **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Proanthocyanidin biosynthesis in banana is activated by MaMYBPA1 and MaMYBPA2. Four other MYBs serve as repressors #MybMonday (details: https://lnk.tu-bs.de/MxnLYC)
@@ -801,6 +800,14 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 </a>
 
 [Rajput et al., 2022](https://doi.org/10.1101/2022.04.27.489641) investigated the proanthocyanidin biosynthesis regulating MYB transcription factors in _Musa acuminata_. MaMYBPA1 and MaMYBPA2 activate the proanthocyanidin biosynthesis, while MaMYBR1-MaMYBR4 serve as repressors. Applied methods include the complementation of _Arabidopsis thaliana_ _tt2_ mutants and promoter binding assays. MaMYBs interacted with bHLH and TTG1 to form a functional MBW complex.
+
+
+### (66) MIXTA-MYB in _Marchantia polymorpha_ ###
+
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MIXTA-MYB MpSBG9 regulates the cutin biosynthesis in Marchantia polymorpha. This suggest a role of the MIXTA-MYB lineage in the evolution of the cuticle #MybMonday (details: )
+
+
+[Xu et al., 2020](https://doi.org/10.1111/nph.16997) characterized the subgroup 9 R2R3-MYB transcription factor MpSBG9 in _Marchantia polymorpha_. This MYB is homologous to MIXTA-MYBs of vascular plants and regulates the biosynthesis of cutin, but not the wax biosynthesis. The discovery of the MpSBG9 functions suggests an involvement of the MIXTA-MYB lineage in the evolution of the cuticle.
 
 
 
