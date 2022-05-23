@@ -792,7 +792,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 ### (65) Regulation of proanthocyanidin biosynthesis in banana ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Proanthocyanidin biosynthesis in banana is activated by MaMYBPA1 and MaMYBPA2. Four other MYBs serve as repressors #MybMonday (details: https://lnk.tu-bs.de/MxnLYC)
+> **_<a href="https://twitter.com/boas_pucker/status/1526087551152431105">TWEET</a>:_** Proanthocyanidin biosynthesis in banana is activated by MaMYBPA1 and MaMYBPA2. Four other MYBs serve as repressors #MybMonday (details: https://lnk.tu-bs.de/MxnLYC)
 
 
 <a href="https://twitter.com/boas_pucker/status/1526087551152431105">
@@ -804,8 +804,11 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 ### (66) MIXTA-MYB in _Marchantia polymorpha_ ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MIXTA-MYB MpSBG9 regulates the cutin biosynthesis in Marchantia polymorpha. This suggest a role of the MIXTA-MYB lineage in the evolution of the cuticle #MybMonday (https://lnk.tu-bs.de/7DW1me & https://doi.org/10.1111/nph.16997)
+> **_<a href="https://twitter.com/boas_pucker/status/1528609171393982464">TWEET</a>:_** MIXTA-MYB MpSBG9 regulates the cutin biosynthesis in Marchantia polymorpha. This suggest a role of the MIXTA-MYB lineage in the evolution of the cuticle #MybMonday (https://lnk.tu-bs.de/7DW1me & https://doi.org/10.1111/nph.16997)
 
+<a href="https://twitter.com/boas_pucker/status/1528609171393982464">
+<img alt="MIXTA-MYB in _Marchantia polymorpha_ (Tweet #66)" src="https://pbs.twimg.com/media/FTW6hiKXwAM_VHX?format=jpg&name=large" width="40%" height="40%">
+</a>
 
 [Xu et al., 2020](https://doi.org/10.1111/nph.16997) characterized the subgroup 9 R2R3-MYB transcription factor MpSBG9 in _Marchantia polymorpha_. This MYB is homologous to MIXTA-MYBs of vascular plants and regulates the biosynthesis of cutin, but not the wax biosynthesis. The discovery of the MpSBG9 functions suggests an involvement of the MIXTA-MYB lineage in the evolution of the cuticle.
 
