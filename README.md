@@ -813,6 +813,13 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 [Xu et al., 2020](https://doi.org/10.1111/nph.16997) characterized the subgroup 9 R2R3-MYB transcription factor MpSBG9 in _Marchantia polymorpha_. This MYB is homologous to MIXTA-MYBs of vascular plants and regulates the biosynthesis of cutin, but not the wax biosynthesis. The discovery of the MpSBG9 functions suggests an involvement of the MIXTA-MYB lineage in the evolution of the cuticle.
 
 
+### (67) MYB93 is involved in lateral root development ###
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** MYB93 regulates lateral root development in Arabidopsis in response to very long fatty acid levels. myb93 mutants showed faster lateral root development, while MYB93 overexpression slowed the process #MybMonday (details: )
+
+
+[Uemura et al., 2022](https://doi.org/10.1101/2022.05.24.493307) investigated the role of _Arabidopsis thaliana_ MYB93 in the regulation of lateral roots in response to very long chain fatty acid (VLCFA) levels. MYB93 was found to regulate the expression of cell wall remodling genes including expansins. Expression of expansins is repressed by MYB93. VLCFA treatment caused a reducation of the _MYB93_ expression levels. _MYB93_ was specifically expressed in the endodermis of LROCs with an increase from stage I to stage V. However, _MYB93_ expression was not observed in lateral root primordia (LRPs). Knock-out of _MYB93_ lead to a faster development of LRPs, while overexpression of _MYB93_ resulted in a slower development of lateral roots. 
+
+
 
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]MYB_Monday)
