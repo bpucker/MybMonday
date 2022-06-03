@@ -823,6 +823,14 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 [Uemura et al., 2022](https://doi.org/10.1101/2022.05.24.493307) investigated the role of _Arabidopsis thaliana_ MYB93 in the regulation of lateral roots in response to very long chain fatty acid (VLCFA) levels. MYB93 was found to regulate the expression of cell wall remodling genes including expansins. Expression of expansins is repressed by MYB93. VLCFA treatment caused a reducation of the _MYB93_ expression levels. _MYB93_ was specifically expressed in the endodermis of LROCs with an increase from stage I to stage V. However, _MYB93_ expression was not observed in lateral root primordia (LRPs). Knock-out of _MYB93_ lead to a faster development of LRPs, while overexpression of _MYB93_ resulted in a slower development of lateral roots. 
 
 
+### (68) MtLAP1 controls anthocyanin biosynthesis in Medicago ###
+> **_<a href="https://twitter.com/boas_pucker/MybMonday">TWEET</a>:_** The anthocyanin regulating MYB MtLAP1 controls the expression of MtGSTF7 in Medicago. Expression of MtGSTF7 is crucial for anthocyanin accumulation in the vacuole #MybMonday (details: XXX)
+
+
+
+[Wang et al., 2022](https://doi.org/10.1093/jxb/erac112) investigated the up-regulated genes in LAP1 overexpression _Medicago truncatula_ plants. While some of these genes are known members of the anthocyanin biosynthesis, novel genes were identified. _MtGSTF7_ was among these genes. Expression of _MtGSTF7_ was also identified to correlate with the deposition of anthocyanins. The _gstf7_ mutant lacks anthocyanins thus indicating that this genes is crucial for the pigmentation with anthocyanins. Activation of _MtGSTF7_ by LAP1 was predicted by PlantCARE and validated by dual luciferase assays. These results align with previous research on soybean which discovered differences in the target genes of anthocyanin and proanthocyanidin biosynthesis regulators.
+
+
 
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]MYB_Monday)
