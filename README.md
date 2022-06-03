@@ -824,7 +824,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (68) MtLAP1 controls anthocyanin biosynthesis in Medicago ###
-> **_<a href="https://twitter.com/boas_pucker/MybMonday">TWEET</a>:_** The anthocyanin regulating MYB MtLAP1 controls the expression of MtGSTF7 in Medicago. Expression of MtGSTF7 is crucial for anthocyanin accumulation in the vacuole #MybMonday (details: XXX)
+> **_<a href="https://twitter.com/boas_pucker/MybMonday">TWEET</a>:_** The anthocyanin regulating MYB MtLAP1 controls the expression of MtGSTF7 in Medicago. Expression of MtGSTF7 is crucial for anthocyanin accumulation in the vacuole #MybMonday (details: https://lnk.tu-bs.de/03Q7RX)
 
 
 
