@@ -826,7 +826,9 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 ### (68) MtLAP1 controls anthocyanin biosynthesis in Medicago ###
 > **_<a href="https://twitter.com/boas_pucker/MybMonday">TWEET</a>:_** The anthocyanin regulating MYB MtLAP1 controls the expression of MtGSTF7 in Medicago. Expression of MtGSTF7 is crucial for anthocyanin accumulation in the vacuole #MybMonday (details: https://lnk.tu-bs.de/03Q7RX)
 
-
+<a href="https://twitter.com/boas_pucker/status/1533697698318065666">
+<img alt="MtLAP1 controls anthocyanin biosynthesis in Medicago (Tweet #68)" src="https://pbs.twimg.com/media/FUTj12DXsAAcVzq?format=jpg&name=large" width="40%" height="40%">
+</a>
 
 [Wang et al., 2022](https://doi.org/10.1093/jxb/erac112) investigated the up-regulated genes in LAP1 overexpression _Medicago truncatula_ plants. While some of these genes are known members of the anthocyanin biosynthesis, novel genes were identified. _MtGSTF7_ was among these genes. Expression of _MtGSTF7_ was also identified to correlate with the deposition of anthocyanins. The _gstf7_ mutant lacks anthocyanins thus indicating that this genes is crucial for the pigmentation with anthocyanins. Activation of _MtGSTF7_ by LAP1 was predicted by PlantCARE and validated by dual luciferase assays. These results align with previous research on soybean which discovered differences in the target genes of anthocyanin and proanthocyanidin biosynthesis regulators.
 
