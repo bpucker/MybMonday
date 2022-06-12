@@ -834,6 +834,14 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 
+### (69) _Malus baccata MYB4_ ###
+> **_<a href="https://twitter.com/boas_pucker/MybMonday">TWEET</a>:_** Heterologous expression of Malus baccata MYB4 in A. thaliana seedlings increases the cold and drought stress tolerance #MybMonday (details: XXX)
+
+
+[Yao et al., 2022](https://doi.org/10.3390/ijms23031794) investigated the function of _Malus baccata MYB4_ through heterologous expression in _Arabidopsis thaliana_ seedlings. _MbMYB4_ is the ortholog of _MYB4_ in _Malus domestica_. _MYB4_ shows increased expression in apple under cold stress, salt stress, and drought stress. The authors speculate that the activation of a CBF-dependent pathway might explain the observed phenotype. The drought response genes _CAT1_ and _P5CS_ were also reported as target genes of _MYB4_.
+
+
+
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]MYB_Monday)
 
