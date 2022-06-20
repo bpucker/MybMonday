@@ -841,7 +841,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 [Yao et al., 2022](https://doi.org/10.3390/ijms23031794) investigated the function of _Malus baccata MYB4_ through heterologous expression in _Arabidopsis thaliana_ seedlings. _MbMYB4_ is the ortholog of _MYB4_ in _Malus domestica_. _MYB4_ shows increased expression in apple under cold stress, salt stress, and drought stress. The authors speculate that the activation of a CBF-dependent pathway might explain the observed phenotype. The drought response genes _CAT1_ and _P5CS_ were also reported as target genes of _MYB4_.
 
 
-### (70) _Brassica napus MYB28_ determines GLS content ###
+### (70) _Brassica napus MYB28_ determines seed GSL content ###
 > **_<a href="https://twitter.com/boas_pucker/MybMonday">TWEET</a>:_** Brassica napus MYB28 determines the glucosinolate (GSL) content of seeds through regulation of the biosynthesis. Disruption of the ORF leads to low GSL lines #MybMonday XXXXX & https://doi.org/10.1101/2022.06.01.494149 
 
 
