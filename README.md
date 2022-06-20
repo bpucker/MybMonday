@@ -844,6 +844,9 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 ### (70) _Brassica napus MYB28_ determines seed GSL content ###
 > **_<a href="https://twitter.com/boas_pucker/MybMonday">TWEET</a>:_** Brassica napus MYB28 determines the glucosinolate (GSL) content of seeds through regulation of the biosynthesis. Disruption of the ORF leads to low GSL lines #MybMonday XXXXX & https://doi.org/10.1101/2022.06.01.494149 
 
+<a href="https://twitter.com/boas_pucker/status/1538771126637166594">
+<img alt="_Brassica napus MYB28_ determines seed GSL content (Tweet #70" src="https://pbs.twimg.com/media/FVqylwEX0AEQiWF?format=jpg&name=4096x4096" width="40%" height="40%">
+</a>
 
 [Schilbert et al., 2022](https://doi.org/10.1101/2022.06.01.494149) identified MYB28 as a crucical factor determining the glucosinolate (GSL) content in a segregating _Brassica napus_ (rapeseed) population. Mapping-by-sequencing revealed a genomic locus harbouring a MYB28 homeolog. This gene is highly expressed in seeds. Low GSL lines are characterized by a 4bp insertion in the open reading frame of this gene wich results in a disruptive frameshift mutation. The resulting truncated MYB28 is no longer able to activate the GSL biosynthesis.
 
