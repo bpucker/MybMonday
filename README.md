@@ -845,7 +845,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (70) _Brassica napus MYB28_ determines seed GSL content ###
-> **_<a href="https://twitter.com/boas_pucker/MybMonday">TWEET</a>:_** Brassica napus MYB28 determines the glucosinolate (GSL) content of seeds through regulation of the biosynthesis. Disruption of the ORF leads to low GSL lines #MybMonday XXXXX & https://doi.org/10.1101/2022.06.01.494149 
+> **_<a href="https://twitter.com/boas_pucker/status/1538771126637166594">TWEET</a>:_** Brassica napus MYB28 determines the glucosinolate (GSL) content of seeds through regulation of the biosynthesis. Disruption of the ORF leads to low GSL lines #MybMonday XXXXX & https://doi.org/10.1101/2022.06.01.494149 
 
 <a href="https://twitter.com/boas_pucker/status/1538771126637166594">
 <img alt="_Brassica napus MYB28_ determines seed GSL content (Tweet #70)" src="https://pbs.twimg.com/media/FVqylwEX0AEQiWF?format=jpg&name=4096x4096" width="40%" height="40%">
@@ -854,6 +854,11 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 [Schilbert et al., 2022](https://doi.org/10.1101/2022.06.01.494149) identified MYB28 as a crucical factor determining the glucosinolate (GSL) content in a segregating _Brassica napus_ (rapeseed) population. Mapping-by-sequencing revealed a genomic locus harbouring a MYB28 homeolog. This gene is highly expressed in seeds. Low GSL lines are characterized by a 4bp insertion in the open reading frame of this gene wich results in a disruptive frameshift mutation. The resulting truncated MYB28 is no longer able to activate the GSL biosynthesis.
 
 
+### (71) _Ipomoea nil_ R2R3-MYBs ###
+> **_<a href="https://twitter.com/boas_pucker/MybMonday">TWEET</a>:_** Several R2R3-MYBs of the C16 lineage are proposed as regulators of the anthocyanin biosynthesis in Japanese morning glory. An intraspecific variation affects one of these anthocyanin regulators (Ipomoea nil) #MybMonday (details: XXXX)
+
+
+[Komatsuzaki et al., 2022](https://doi.org/10.1101/2022.06.23.497360) performed a genome-wide investigation of R2R3-MYBs in Japanese morning glory (_Ipomoea nil_). InMYB1 (INIL00g10723, INIL00g10723, INIL11g4087) was previously identified as an anthocyanin regulator, because its knock-out caused a flower mutant phenotype. InMYB2 (INIL05g09650) and InMYB3 (INIL05g09651) have also been considered as potential anthocyanin regulators. Clade 15 of the InMYBs corresponds to _Arabidopsis thaliana_ subgroup 7 thus most likely being involvedin flavonol regulation. Clade 16 of the IbMYBs matches the _A. thaliana_ subgroup 6 which is responsible for the anthocyanin regulation. Therefore, five genes in C16 are potential anthocyanin regulators. InMYB3 (INIL05g09651) seems to have an interspecific polymorphism as it lacks a complete R2R3 domain in this study, but was reported as a complete MYB before. 
 
 
 
