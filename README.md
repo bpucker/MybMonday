@@ -855,8 +855,11 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (71) _Ipomoea nil_ R2R3-MYBs ###
-> **_<a href="https://twitter.com/boas_pucker/MybMonday">TWEET</a>:_** Several R2R3-MYBs of the C16 lineage are proposed as regulators of the anthocyanin biosynthesis in Japanese morning glory (Ipomoea nil). An intraspecific variation affects one of these putative anthocyanin regulators #MybMonday (details: https://lnk.tu-bs.de/1hn3cd)
+> **_<a href="https://twitter.com/boas_pucker/status/1541307844623867905">TWEET</a>:_** Several R2R3-MYBs of the C16 lineage are proposed as regulators of the anthocyanin biosynthesis in Japanese morning glory (Ipomoea nil). An intraspecific variation affects one of these putative anthocyanin regulators #MybMonday (details: https://lnk.tu-bs.de/1hn3cd)
 
+<a href="https://twitter.com/boas_pucker/status/1541307844623867905">
+<img alt="_Ipomoea nil_ R2R3-MYBs (Tweet #71)" src="https://pbs.twimg.com/media/FWMLLbNXgAA7VSY?format=jpg&name=large" width="40%" height="40%">
+</a>
 
 [Komatsuzaki et al., 2022](https://doi.org/10.1101/2022.06.23.497360) performed a genome-wide investigation of R2R3-MYBs in Japanese morning glory (_Ipomoea nil_). InMYB1 (INIL00g10723, INIL00g10723, INIL11g4087) was previously identified as an anthocyanin regulator, because its knock-out caused a flower mutant phenotype. InMYB2 (INIL05g09650) and InMYB3 (INIL05g09651) have also been considered as potential anthocyanin regulators. Clade 15 of the InMYBs corresponds to _Arabidopsis thaliana_ subgroup 7 thus most likely being involvedin flavonol regulation. Clade 16 of the IbMYBs matches the _A. thaliana_ subgroup 6 which is responsible for the anthocyanin regulation. Therefore, five genes in C16 are potential anthocyanin regulators. InMYB3 (INIL05g09651) seems to have an interspecific polymorphism as it lacks a complete R2R3 domain in this study, but was reported as a complete MYB before. 
 
