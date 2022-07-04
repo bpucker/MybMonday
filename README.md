@@ -865,8 +865,11 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (72) _Brassica rapa_ _MYB18.1_ ###
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** A LTR/Copia insertion in Brassica rapa MYB18 shows a strong allele frequency difference between heading and nonheading populations indicating strong selection during domestication #MybMonday (details: https://lnk.tu-bs.de/9kHfzb)
+> **_<a href="https://twitter.com/boas_pucker/status/1543844557179297794">TWEET</a>:_** A LTR/Copia insertion in Brassica rapa MYB18 shows a strong allele frequency difference between heading and nonheading populations indicating strong selection during domestication #MybMonday (details: https://lnk.tu-bs.de/9kHfzb)
 
+<a href="https://twitter.com/boas_pucker/status/1543844557179297794">
+<img alt="_Brassica rapa_ _MYB18.1_ (Tweet #72)" src="https://pbs.twimg.com/media/FWytuavX0AMFU4z?format=jpg&name=medium" width="40%" height="40%">
+</a>
 
 [Cai et al., 2022](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pbi.13807) identified a TE insertion in _Brassica rapa_ _MYB18.1_. MYB18 is a positive regulator of the phyA photoresponse. A 4.8kb LTR/Copia disrupts the MYB gene. The comparison of a heading and a nonheading population of plants reveals almost complete dominance of this insertion allele in the heading population, while it was almost not present in the nonheading population. This suggest that _MYB18.1_ was under strong selection during domestication. The data also suggest that the insertion allele was later re-introduced into other cultivars through breeding.
 
