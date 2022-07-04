@@ -864,6 +864,14 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 [Komatsuzaki et al., 2022](https://doi.org/10.1101/2022.06.23.497360) performed a genome-wide investigation of R2R3-MYBs in Japanese morning glory (_Ipomoea nil_). InMYB1 (INIL00g10723, INIL00g10723, INIL11g4087) was previously identified as an anthocyanin regulator, because its knock-out caused a flower mutant phenotype. InMYB2 (INIL05g09650) and InMYB3 (INIL05g09651) have also been considered as potential anthocyanin regulators. Clade 15 of the InMYBs corresponds to _Arabidopsis thaliana_ subgroup 7 thus most likely being involvedin flavonol regulation. Clade 16 of the IbMYBs matches the _A. thaliana_ subgroup 6 which is responsible for the anthocyanin regulation. Therefore, five genes in C16 are potential anthocyanin regulators. InMYB3 (INIL05g09651) seems to have an interspecific polymorphism as it lacks a complete R2R3 domain in this study, but was reported as a complete MYB before. 
 
 
+### (72) _Brassica rapa_ _MYB18.1_ ###
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** A LTR/Copia insertion in Brassica rapa MYB18 shows strong allele frequency differences between phenotypig plant pools suggesting strong selection during domestication #MybMonday (details: XXX)
+
+
+[Cai et al., 2022](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pbi.13807) identified a TE insertion in _Brassica rapa_ _MYB18.1_. MYB18 is a positive regulator of the phyA photoresponse. A 4.8kb LTR/Copia disrupts the MYB gene. The comparison of two phenotypic pools of plants reveals almost complete dominance of this insertion allele in one pool, while it was almost not present in the other pool. This suggest that _MYB18.1_ was under strong selection during domestication. The data also suggest that the insertion allele was later re-introduced into other cultivars through breeding.
+
+
+
 
 ## Contact ##
 Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]MYB_Monday)
