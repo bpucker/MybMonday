@@ -874,6 +874,13 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 [Cai et al., 2022](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pbi.13807) identified a TE insertion in _Brassica rapa_ _MYB18.1_. MYB18 is a positive regulator of the phyA photoresponse. A 4.8kb LTR/Copia disrupts the MYB gene. The comparison of a heading and a nonheading population of plants reveals almost complete dominance of this insertion allele in the heading population, while it was almost not present in the nonheading population. This suggest that _MYB18.1_ was under strong selection during domestication. The data also suggest that the insertion allele was later re-introduced into other cultivars through breeding.
 
 
+### (73) _Oryza sativa OsFLP_ contributes to drought and salt tolerance ###
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** OsFLP (MYB124) contributes to drought and salt stress response in rice through activation of OsNAC1 and OsNAC6 #MybMonday (details: XXXX)
+
+
+[Qu et al., 2022](https://doi.org/10.3390/ijms23115873) investigated _OsFLP_ which contributed to the drought and salt stress response of rice through activation of _OsNAC1_ and _OsNAC6_. FOUR LIPS (FLP) is classified as MYB124 in _Arabidopsis thaliana_. AtMYB124 and AtMYB88 have similar functions in regulating symmetric division of guard mother cells and abiotic stress response. 
+
+
 
 
 ## Contact ##
