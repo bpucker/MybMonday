@@ -875,7 +875,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (73) _Oryza sativa OsFLP_ contributes to drought and salt tolerance ###
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** OsFLP (MYB124) contributes to drought and salt stress response in rice through activation of OsNAC1 and OsNAC6 #MybMonday (details: XXXX)
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** OsFLP (MYB124) contributes to drought and salt stress response in rice through activation of OsNAC1 and OsNAC6 #MybMonday (details: https://lnk.tu-bs.de/oCdBQv)
 
 
 [Qu et al., 2022](https://doi.org/10.3390/ijms23115873) investigated _OsFLP_ which contributed to the drought and salt stress response of rice through activation of _OsNAC1_ and _OsNAC6_. FOUR LIPS (FLP) is classified as MYB124 in _Arabidopsis thaliana_. AtMYB124 and AtMYB88 have similar functions in regulating symmetric division of guard mother cells and abiotic stress response. 
