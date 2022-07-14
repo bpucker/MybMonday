@@ -884,6 +884,9 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 [Qu et al., 2022](https://doi.org/10.3390/ijms23115873) investigated _OsFLP_ which contributed to the drought and salt stress response of rice through activation of _OsNAC1_ and _OsNAC6_. FOUR LIPS (FLP) is classified as MYB124 in _Arabidopsis thaliana_. AtMYB124 and AtMYB88 have similar functions in regulating symmetric division of guard mother cells and abiotic stress response. 
 
 
+### MybMonday posts will become less frequent ###
+Due to a lack of recent open access publications about the MYB transcription factors, the frequency of posts will be decreased. However, we are happy to share high quality findings once they get published.
+
 
 
 ## Contact ##
