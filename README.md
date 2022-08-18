@@ -888,7 +888,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 > **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Three Musa MYBs were identified as MBW components and activators of the anthocyanin biosynthesis. A complex with monocot bHLH ZmR resulted in higher target gene activation than a complex with dicot bHLH AtEGL3 #MybMonday (details: https://lnk.tu-bs.de/xrsVyn) 
 
 <a href="https://github.com/bpucker/MybMonday">
-<img alt="_Musa_ R2R3-MYBs activate the anthocyanin biosynthesis (Tweet #74)" src="https://pbs.twimg.com/media/E_GvdNFWUAclIQ_?format=jpg&name=medium" width="50%" height="50%">
+<img alt="_Musa_ R2R3-MYBs activate the anthocyanin biosynthesis (Tweet #74)" src="https://pbs.twimg.com/media/FSDN9zRaMAE0JYm?format=jpg&name=large" width="50%" height="50%">
 </a>
 
 [Busche et al., 2022](https://doi.org/10.1101/2022.08.15.503939) identified three R2R3-MYBs that are involved in the formation of MBW complexes and the activation of the anthocyanin biosynthesis in _Musa_. The MBW complex is named after the three components: MYB-bHLH-WD40. The MYBs MusaMYB-α, MusaMYB-β, and MusaMYB-γ showed a stronger activation of their target genes when forming a complex with the monocot bHLH ZmR compared to complexes with the dicot bHLH AtEGL3. This supports a systematic difference in the MYB-bHLH interaction between monocots and dicots.
