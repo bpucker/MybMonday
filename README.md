@@ -895,7 +895,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (75) Evolution of flavonol regulators in Brassicaceae II ###
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Duplication of MYB21 and loss of the close paralog MYB24 seem to coincide in the evolution of Brassicacea just prior to emergence of the Brassiceae #MybMonday (details: XXXX & XXX)
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Duplication of MYB21 and loss of the close paralog MYB24 seem to coincide in the evolution of Brassicacea just prior to emergence of the Brassiceae #MybMonday (details: https://lnk.tu-bs.de/oS4r2V & https://doi.org/10.1101/2022.04.06.487363).
 
 
 [Schilbert & Glover, 2022](https://doi.org/10.1101/2022.04.06.487363) performed a comprehensive analysis of the MYB gene family in the Brassicaceae. The authors report that _MYB21_ was duplicated prior to the emergence of Brassiceae. The event seems to coincide with the loss of _MYB24_ which is a close paralog of _MYB21_. It is expected that the remaining paralogs will compensate for the _MYB24_ loss.
