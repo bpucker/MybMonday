@@ -894,6 +894,17 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 [Busche et al., 2022](https://doi.org/10.1101/2022.08.15.503939) identified three R2R3-MYBs that are involved in the formation of MBW complexes and the activation of the anthocyanin biosynthesis in _Musa_. The MBW complex is named after the three components: MYB-bHLH-WD40. The MYBs MusaMYB-α, MusaMYB-β, and MusaMYB-γ showed a stronger activation of their target genes when forming a complex with the monocot bHLH ZmR compared to complexes with the dicot bHLH AtEGL3. This supports a systematic difference in the MYB-bHLH interaction between monocots and dicots.
 
 
+### (75) Evolution of flavonol regulators in Brassicaceae II ###
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Duplication of MYB21 and loss of the close paralog MYB24 seem to coincide in the evolution of Brassicacea just prior to emergence of the Brassiceae #MybMonday (details: XXXX & XXX)
+
+
+[Schilbert & Glover, 2022](https://doi.org/10.1101/2022.04.06.487363) performed a comprehensive analysis of the MYB gene family in the Brassicaceae. The authors report that _MYB21_ was duplicated prior to the emergence of Brassiceae. The event seems to coincide with the loss of _MYB24_ which is a close paralog of _MYB21_. It is expected that the remaining paralogs will compensate for the _MYB24_ loss.
+
+
+
+
+
+
 ### MybMonday posts will become less frequent ###
 Due to a lack of recent open access publications about the MYB transcription factors, the frequency of posts will be decreased. However, we are happy to share high quality findings once they get published.
 
