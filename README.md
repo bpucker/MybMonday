@@ -884,6 +884,13 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 [Qu et al., 2022](https://doi.org/10.3390/ijms23115873) investigated _OsFLP_ which contributed to the drought and salt stress response of rice through activation of _OsNAC1_ and _OsNAC6_. FOUR LIPS (FLP) is classified as MYB124 in _Arabidopsis thaliana_. AtMYB124 and AtMYB88 have similar functions in regulating symmetric division of guard mother cells and abiotic stress response. 
 
 
+### (74) _Oryza sativa OsFLP_ contributes to drought and salt tolerance ###
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Three Musa MYBs were identified as MBW components and activators of the anthocyanin biosynthesis. A complex with monocot bHLH ZmR resulted in higher target gene activation than a complex with dicot bHLH AtEGL3 #MybMonday (details: ) 
+
+
+[Busche et al., 2022](https://doi.org/10.1101/2022.08.15.503939) identified three R2R3-MYBs that are involved in the formation of MBW complexes and the activation of the anthocyanin biosynthesis in _Musa_. The MBW complex is named after the three components: MYB-bHLH-WD40. The MYBs MusaMYB-α, MusaMYB-β, and MusaMYB-γ showed a stronger activation of their target genes when forming a complex with the monocot bHLH ZmR compared to complexes with the dicot bHLH AtEGL3. This supports a systematic difference in the MYB-bHLH interaction between monocots and dicots.
+
+
 ### MybMonday posts will become less frequent ###
 Due to a lack of recent open access publications about the MYB transcription factors, the frequency of posts will be decreased. However, we are happy to share high quality findings once they get published.
 
