@@ -885,9 +885,9 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (74) _Musa_ R2R3-MYBs activate the anthocyanin biosynthesis ###
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Musa MYBs were identified as MBW components and activators of the anthocyanin biosynthesis. A complex with monocot bHLH ZmR resulted in higher target gene activation than a complex with dicot bHLH AtEGL3 #MybMonday (details: https://lnk.tu-bs.de/xrsVyn & https://doi.org/10.1101/2022.08.15.503939).
+> **_<a href="https://twitter.com/boas_pucker/status/1561601562836963329">TWEET</a>:_** Musa MYBs were identified as MBW components and activators of the anthocyanin biosynthesis. A complex with monocot bHLH ZmR resulted in higher target gene activation than a complex with dicot bHLH AtEGL3 #MybMonday (details: https://lnk.tu-bs.de/xrsVyn & https://doi.org/10.1101/2022.08.15.503939).
 
-<a href="https://github.com/bpucker/MybMonday">
+<a href="https://twitter.com/boas_pucker/status/1561601562836963329">
 <img alt="_Musa_ R2R3-MYBs activate the anthocyanin biosynthesis (Tweet #74)" src="https://pbs.twimg.com/media/FS1t1heX0AIjqTi?format=jpg&name=large" width="50%" height="50%">
 </a>
 
