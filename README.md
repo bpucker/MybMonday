@@ -904,6 +904,11 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 [Schilbert & Glover, 2022](https://doi.org/10.1186/s12864-022-08819-8) performed a comprehensive analysis of the MYB gene family in the Brassicaceae. The authors report that _MYB21_ was duplicated prior to the emergence of Brassiceae. The event seems to coincide with the loss of _MYB24_ which is a close paralog of _MYB21_. It is expected that the remaining paralogs will compensate for the _MYB24_ loss.
 
 
+### (76) Proanthocyanidin biosynthesis regulators in chickpea ###
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Genome-wide identification of MYBs in chickpea revealed two regulators of the proanthocyanidin biosynthesis which are promising target for crop improvement #MybMonday details: XXXXX.
+
+
+[Rajput et al., 2022](https://doi.org/10.1007/s00425-022-03979-z) identified 119 typical MYBs in _Cicer arietinum_ (chickpea). CaPAR1 and CaPAR2 were identified as regulators of the proanthocyanidin biosynthesis. They interact with the bHLH transcription factor CaTT8. Cotransfection studies with CaPAR, CaTT8, and CaTTG1 show activation of the proanthocyanidin biosynthesis genes CaLAR and CaANR. The role of LAR and ANR in the context of the flavonoid biosynthesis is displayed in a [simplified illustration of the metabolic network](https://doi.org/10.3390/plants9091103). As CaPAR1 and CaPAR2 activate the proanthocyanidin biosynthesis, they are promising targets for future crop improvements. Engineering of the flavonoid biosynthesis is of economical relevance.
 
 
 
