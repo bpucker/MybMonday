@@ -914,6 +914,12 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 [Rajput et al., 2022](https://doi.org/10.1007/s00425-022-03979-z) identified 119 typical MYBs in _Cicer arietinum_ (chickpea). CaPAR1 and CaPAR2 were identified as regulators of the proanthocyanidin biosynthesis. They interact with the bHLH transcription factor CaTT8. Cotransfection studies with CaPAR, CaTT8, and CaTTG1 show activation of the proanthocyanidin biosynthesis genes CaLAR and CaANR. The role of LAR and ANR in the context of the flavonoid biosynthesis is displayed in a [simplified illustration of the metabolic network](https://www.mdpi.com/plants/plants-09-01103/article_deploy/html/images/plants-09-01103-g001.png). As CaPAR1 and CaPAR2 activate the proanthocyanidin biosynthesis, they are promising targets for future crop improvements. Engineering of the flavonoid biosynthesis is of economical relevance.
 
 
+### (77) MYBs are frequently implicated in anthocyanin loss events ###
+> **_<a href="">TWEET</a>:_** xxx
+
+
+It has been assumed in the community that MYB transcription factors are the decisive factor in anthocyanin pigmentation loss events. A recent study ([Recinos & Pucker, 2023](https://doi.org/10.1101/2023.06.05.543820)) quantified the number of anthocyanin pigmentation loss cases that can be explained by each gene associated with the pathway. It turned out that the MYB transcription factors are the most frequent explanation followed by bHLH transcription factors. Loss anthocyanin biosynthesis activation was a frequent explanation. However, the hyperactivation of flavonol biosynthesis by changes in the flavonol MYBs was also frequently observed.
+
 
 ### MybMonday posts will become less frequent ###
 Due to a lack of recent open access publications about the MYB transcription factors, the frequency of posts will decrease. However, we are happy to share high quality findings once they get published.
