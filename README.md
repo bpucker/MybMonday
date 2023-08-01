@@ -915,8 +915,11 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (77) MYBs are frequently implicated in anthocyanin loss events ###
-> **_<a href="">TWEET</a>:_** Loss of anthocyanin pigmentation in flowers and fruits is often associated with mutations affecting transcription factors like MYBs #MybMonday (details: https://lnk.tu-bs.de/kPKUn5)
+> **_<a href="https://twitter.com/boas_pucker/status/1685998749041176576">TWEET</a>:_** Loss of anthocyanin pigmentation in flowers and fruits is often associated with mutations affecting transcription factors like MYBs #MybMonday (details: https://lnk.tu-bs.de/kPKUn5)
 
+<a href="https://twitter.com/boas_pucker/status/1685998749041176576">
+<img alt="MYBs are frequently implicated in anthocyanin loss events (Tweet #77)" src="https://pbs.twimg.com/media/F2XIKtlWMAAiCls?format=jpg&name=large" width="50%" height="50%">
+</a>
 
 It has been assumed in the community that MYB transcription factors are the decisive factor in anthocyanin pigmentation loss events. A recent study ([Recinos & Pucker, 2023](https://doi.org/10.1101/2023.06.05.543820)) quantified the number of anthocyanin pigmentation loss cases that can be explained by each gene associated with the pathway. It turned out that the MYB transcription factors are the most frequent explanation followed by bHLH transcription factors. Loss anthocyanin biosynthesis activation was a frequent explanation. However, the hyperactivation of flavonol biosynthesis by changes in the flavonol MYBs was also frequently observed.
 
