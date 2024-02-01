@@ -357,7 +357,7 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 
 ### (28) MYB quiz ###
 
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** How much do you know about MYBs? This quiz allows you to check and learn more about the functions of A. thaliana MYBs: https://lnk.tu-bs.de/tLugzE. Please post results below #MybMonday (details: https://bit.ly/3B2uvve)
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** How much do you know about MYBs? This quiz allows you to check and learn more about the functions of A. thaliana MYBs: [quiz link](https://colab.research.google.com/drive/1gBvRBkO-aGf3VJWkKc3aG-oVuBo80D2z?usp=drive_link). Please post results below #MybMonday (details: https://github.com/bpucker/MybMonday#28-myb-quiz)
 
 
 <a href="https://lnk.tu-bs.de/tLugzE">
@@ -365,7 +365,7 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 </a>
 
 
-You can find the [MYB quiz](https://lnk.tu-bs.de/tLugzE) on Google colab (a Python script). Unfortunately, you need to log in with a google account in order to run the script. The script is started by pressing the play button at the top left. Next, you should get text output that is asking about the function of randomly selected _Arabidopsis thaliana_ MYBs. Everything is also explained in the documentation of the script in colab.
+You can find the [MYB quiz](https://colab.research.google.com/drive/1gBvRBkO-aGf3VJWkKc3aG-oVuBo80D2z?usp=drive_link) on Google colab (a Python script). Unfortunately, you need to log in with a google account in order to run the script. The script is started by pressing the play button at the top left. Next, you should get text output that is asking about the function of randomly selected _Arabidopsis thaliana_ MYBs. Everything is also explained in the documentation of the script in colab.
 
 
 
