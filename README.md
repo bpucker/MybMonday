@@ -20,7 +20,7 @@ In addition to the R2R3 MYBs, there are also [MYB3R (cell cycle control)](https:
 
 More information about MYBs involved in the regulation of the flavonoid biosynthesis is available through the **[FlavonoidFriday](https://github.com/bpucker/FlavonoidFriday)**.
 
-Check out the collection of [genome-wide MYB investigations](https://github.com/bpucker/MybMonday/wiki/Collection-of-genome-wide-MYB-papers). Please get in touch to add entries to this collection.
+Check out the collection of [genome-wide MYB investigations](https://github.com/bpucker/MybMonday/wiki/Collection-of-papers-about-genome-wide-MYB-investigations). Please get in touch to add entries to this collection.
 
 
 
