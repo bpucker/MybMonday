@@ -757,19 +757,18 @@ Lignified SCWs are of biotechnological interest, because they are responsible fo
 
 ### (62) MYB_annotator online ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1518477407346302983">TWEET</a>:_** Automatic MYB annotation is now available as an online service:
-http://pbb.bot.nat.tu-bs.de/MYB_annotator/. Just submit a FASTA file of your species of interest to start the analysis. #MybMonday (details:  https://bit.ly/3xMTMLl & https://doi.org/10.1186/s12864-022-08452-5)
+> **_<a href="https://twitter.com/boas_pucker/status/1518477407346302983">TWEET</a>:_** Automatic MYB annotation is now available as an online service: https://pbb-tools.de/MYB_annotator/. Just submit a FASTA file of your species of interest to start the analysis. #MybMonday (details:  https://bit.ly/3xMTMLl & https://doi.org/10.1186/s12864-022-08452-5)
 
 <a href="https://twitter.com/boas_pucker/status/1518477407346302983">
 <img alt="MYB_annotator online (Tweet #62)" src="https://pbs.twimg.com/media/FRJ9-rGX0AAjU2H?format=jpg&name=large" width="40%" height="40%">
 </a>
 
-The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s12864-022-08452-5)) is  now available as an online service: [MYB_annotator online](http://pbb.bot.nat.tu-bs.de/MYB_annotator/). Users can submit a FASTA file with peptide sequences of their species of interest without having to install the tool locally.
+The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s12864-022-08452-5)) is  now available as an online service: [MYB_annotator online](https://pbb-tools.de/MYB_annotator/). Users can submit a FASTA file with peptide sequences of their species of interest without having to install the tool locally.
 
 
 ### (63) Regulation of anthocyanin biosynthesis in petunia ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1521014122288189440">TWEET</a>:_** Petunia exserta lacks a functional AN2 (anthocyanin regulating MYB). A paralog MYB resurrects anthocyanin pigmentation in a white flowering lineage and shifts flower color to red #MybMonday (details: https://lnk.tu-bs.de/ysaXNg)
+> **_<a href="https://twitter.com/boas_pucker/status/1521014122288189440">TWEET</a>:_** Petunia exserta lacks a functional AN2 (anthocyanin regulating MYB). A paralog MYB resurrects anthocyanin pigmentation in a white flowering lineage and shifts flower color to red #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1521014122288189440">
 <img alt="Regulation of anthocyanin biosynthesis in petunia (Tweet #63)" src="https://pbs.twimg.com/media/FRqYl-jX0AEA2iI?format=jpg&name=large" width="40%" height="40%">
@@ -781,7 +780,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 ### (64) Regulation of anthocyanin biosynthesis in kiwifruit ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1523550836202229760">TWEET</a>:_** MYB10 and MYB110 activate anthocyanin biosynthesis in Actinidia chinensis. While MYB110 causes pigment accumulation in the entire fruit, MYB10 leads to pigmentation of the inner pericarp #MybMonday (details: )
+> **_<a href="https://twitter.com/boas_pucker/status/1523550836202229760">TWEET</a>:_** MYB10 and MYB110 activate anthocyanin biosynthesis in Actinidia chinensis. While MYB110 causes pigment accumulation in the entire fruit, MYB10 leads to pigmentation of the inner pericarp #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1523550836202229760">
 <img alt="Regulation of anthocyanin biosynthesis in kiwifruit (Tweet #64)" src="https://pbs.twimg.com/media/FSDN9zRaMAE0JYm?format=jpg&name=large" width="40%" height="40%">
@@ -792,7 +791,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 ### (65) Regulation of proanthocyanidin biosynthesis in banana ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1526087551152431105">TWEET</a>:_** Proanthocyanidin biosynthesis in banana is activated by MaMYBPA1 and MaMYBPA2. Four other MYBs serve as repressors #MybMonday (details: https://lnk.tu-bs.de/MxnLYC)
+> **_<a href="https://twitter.com/boas_pucker/status/1526087551152431105">TWEET</a>:_** Proanthocyanidin biosynthesis in banana is activated by MaMYBPA1 and MaMYBPA2. Four other MYBs serve as repressors #MybMonday
 
 
 <a href="https://twitter.com/boas_pucker/status/1526087551152431105">
@@ -804,7 +803,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 ### (66) MIXTA-MYB in _Marchantia polymorpha_ ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1528609171393982464">TWEET</a>:_** MIXTA-MYB MpSBG9 regulates the cutin biosynthesis in Marchantia polymorpha. This suggest a role of the MIXTA-MYB lineage in the evolution of the cuticle #MybMonday (https://lnk.tu-bs.de/7DW1me & https://doi.org/10.1111/nph.16997)
+> **_<a href="https://twitter.com/boas_pucker/status/1528609171393982464">TWEET</a>:_** MIXTA-MYB MpSBG9 regulates the cutin biosynthesis in Marchantia polymorpha. This suggest a role of the MIXTA-MYB lineage in the evolution of the cuticle #MybMonday (https://doi.org/10.1111/nph.16997)
 
 <a href="https://twitter.com/boas_pucker/status/1528609171393982464">
 <img alt="MIXTA-MYB in _Marchantia polymorpha_ (Tweet #66)" src="https://pbs.twimg.com/media/FTW6hiKXwAM_VHX?format=jpg&name=large" width="40%" height="40%">
@@ -814,7 +813,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (67) MYB93 is involved in lateral root development ###
-> **_<a href="https://twitter.com/boas_pucker/status/1531160982244020224">TWEET</a>:_** MYB93 regulates lateral root development in Arabidopsis in response to very long fatty acid levels. myb93 mutants showed faster lateral root development, while MYB93 overexpression slowed down the process #MybMonday (details: https://lnk.tu-bs.de/0UGNXW)
+> **_<a href="https://twitter.com/boas_pucker/status/1531160982244020224">TWEET</a>:_** MYB93 regulates lateral root development in Arabidopsis in response to very long fatty acid levels. myb93 mutants showed faster lateral root development, while MYB93 overexpression slowed down the process #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1531160982244020224">
 <img alt="MYB93 is involved in lateral root development (Tweet #67)" src="https://pbs.twimg.com/media/FT8kb_MX0AEJLWs?format=jpg&name=large" width="40%" height="40%">
@@ -824,7 +823,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (68) MtLAP1 controls anthocyanin biosynthesis in Medicago ###
-> **_<a href="https://twitter.com/boas_pucker/MybMonday">TWEET</a>:_** The anthocyanin regulating MYB MtLAP1 controls the expression of MtGSTF7 in Medicago. Expression of MtGSTF7 is crucial for anthocyanin accumulation in the vacuole #MybMonday (details: https://lnk.tu-bs.de/03Q7RX)
+> **_<a href="https://twitter.com/boas_pucker/MybMonday">TWEET</a>:_** The anthocyanin regulating MYB MtLAP1 controls the expression of MtGSTF7 in Medicago. Expression of MtGSTF7 is crucial for anthocyanin accumulation in the vacuole #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1533697698318065666">
 <img alt="MtLAP1 controls anthocyanin biosynthesis in Medicago (Tweet #68)" src="https://pbs.twimg.com/media/FUTj12DXsAAcVzq?format=jpg&name=large" width="40%" height="40%">
@@ -835,7 +834,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (69) _Malus baccata MYB4_ ###
-> **_<a href="https://twitter.com/boas_pucker/MybMonday">TWEET</a>:_** Heterologous expression of _Malus baccata MYB4_ in _A. thaliana_ seedlings increases the cold and drought stress tolerance #MybMonday (details: https://lnk.tu-bs.de/2xLYjQ)
+> **_<a href="https://twitter.com/boas_pucker/MybMonday">TWEET</a>:_** Heterologous expression of _Malus baccata MYB4_ in _A. thaliana_ seedlings increases the cold and drought stress tolerance #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1536234412236341248">
 <img alt="_Malus baccata MYB4_ (Tweet #69)" src="https://pbs.twimg.com/media/FVEsV00WYAEmmI6?format=jpg&name=large" width="40%" height="40%">
@@ -845,7 +844,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (70) _Brassica napus MYB28_ determines seed GSL content ###
-> **_<a href="https://twitter.com/boas_pucker/status/1538771126637166594">TWEET</a>:_** Brassica napus MYB28 determines the glucosinolate (GSL) content of seeds through regulation of the biosynthesis. Disruption of the ORF leads to low GSL lines #MybMonday XXXXX & https://doi.org/10.1101/2022.06.01.494149 
+> **_<a href="https://twitter.com/boas_pucker/status/1538771126637166594">TWEET</a>:_** Brassica napus MYB28 determines the glucosinolate (GSL) content of seeds through regulation of the biosynthesis. Disruption of the ORF leads to low GSL lines #MybMonday https://doi.org/10.1101/2022.06.01.494149 
 
 <a href="https://twitter.com/boas_pucker/status/1538771126637166594">
 <img alt="_Brassica napus MYB28_ determines seed GSL content (Tweet #70)" src="https://pbs.twimg.com/media/FVqylwEX0AEQiWF?format=jpg&name=4096x4096" width="40%" height="40%">
@@ -855,7 +854,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (71) _Ipomoea nil_ R2R3-MYBs ###
-> **_<a href="https://twitter.com/boas_pucker/status/1541307844623867905">TWEET</a>:_** Several R2R3-MYBs of the C16 lineage are proposed as regulators of the anthocyanin biosynthesis in Japanese morning glory (Ipomoea nil). An intraspecific variation affects one of these putative anthocyanin regulators #MybMonday (details: https://lnk.tu-bs.de/1hn3cd)
+> **_<a href="https://twitter.com/boas_pucker/status/1541307844623867905">TWEET</a>:_** Several R2R3-MYBs of the C16 lineage are proposed as regulators of the anthocyanin biosynthesis in Japanese morning glory (Ipomoea nil). An intraspecific variation affects one of these putative anthocyanin regulators #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1541307844623867905">
 <img alt="_Ipomoea nil_ R2R3-MYBs (Tweet #71)" src="https://pbs.twimg.com/media/FWMLLbNXgAA7VSY?format=jpg&name=large" width="40%" height="40%">
@@ -865,7 +864,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (72) _Brassica rapa_ _MYB18.1_ ###
-> **_<a href="https://twitter.com/boas_pucker/status/1543844557179297794">TWEET</a>:_** A LTR/Copia insertion in Brassica rapa MYB18 shows a strong allele frequency difference between heading and nonheading populations indicating strong selection during domestication #MybMonday (details: https://lnk.tu-bs.de/9kHfzb)
+> **_<a href="https://twitter.com/boas_pucker/status/1543844557179297794">TWEET</a>:_** A LTR/Copia insertion in Brassica rapa MYB18 shows a strong allele frequency difference between heading and nonheading populations indicating strong selection during domestication #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1543844557179297794">
 <img alt="_Brassica rapa_ _MYB18.1_ (Tweet #72)" src="https://pbs.twimg.com/media/FWytuavX0AMFU4z?format=jpg&name=medium" width="40%" height="40%">
@@ -875,7 +874,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (73) _Oryza sativa OsFLP_ contributes to drought and salt tolerance ###
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** OsFLP (MYB124) contributes to drought and salt stress response in rice through activation of OsNAC1 and OsNAC6 #MybMonday (details: https://lnk.tu-bs.de/oCdBQv)
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** OsFLP (MYB124) contributes to drought and salt stress response in rice through activation of OsNAC1 and OsNAC6 #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1546381272099979264">
 <img alt="_Oryza sativa_ _OsFLP_ contributes to drought and salt tolerance (Tweet #73)" src="https://pbs.twimg.com/media/FXVPgDYXoAEQFnQ?format=jpg&name=900x900" width="40%" height="40%">
@@ -885,7 +884,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (74) _Musa_ R2R3-MYBs activate the anthocyanin biosynthesis ###
-> **_<a href="https://twitter.com/boas_pucker/status/1561601562836963329">TWEET</a>:_** Musa MYBs were identified as MBW components and activators of the anthocyanin biosynthesis. A complex with monocot bHLH ZmR resulted in higher target gene activation than a complex with dicot bHLH AtEGL3 #MybMonday (details: https://lnk.tu-bs.de/xrsVyn & https://doi.org/10.1101/2022.08.15.503939).
+> **_<a href="https://twitter.com/boas_pucker/status/1561601562836963329">TWEET</a>:_** Musa MYBs were identified as MBW components and activators of the anthocyanin biosynthesis. A complex with monocot bHLH ZmR resulted in higher target gene activation than a complex with dicot bHLH AtEGL3 #MybMonday https://doi.org/10.1101/2022.08.15.503939
 
 <a href="https://twitter.com/boas_pucker/status/1561601562836963329">
 <img alt="_Musa_ R2R3-MYBs activate the anthocyanin biosynthesis (Tweet #74)" src="https://pbs.twimg.com/media/FS1t1heX0AIjqTi?format=jpg&name=large" width="50%" height="50%">
@@ -895,7 +894,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (75) Evolution of flavonol regulators in Brassicaceae II ###
-> **_<a href="https://twitter.com/boas_pucker/status/1564138278919471105">TWEET</a>:_** Duplication of MYB21 and loss of the close paralog MYB24 seem to coincide in the evolution of Brassicacea just prior to emergence of the Brassiceae #MybMonday (details: https://lnk.tu-bs.de/oS4r2V & https://doi.org/10.1186/s12864-022-08819-8)
+> **_<a href="https://twitter.com/boas_pucker/status/1564138278919471105">TWEET</a>:_** Duplication of MYB21 and loss of the close paralog MYB24 seem to coincide in the evolution of Brassicacea just prior to emergence of the Brassiceae #MybMonday (https://doi.org/10.1186/s12864-022-08819-8)
 
 <a href="https://twitter.com/boas_pucker/status/1564138278919471105">
 <img alt="Evolution of flavonol regulators in Brassicaceae II (Tweet #75)" src="https://pbs.twimg.com/media/Fav7r0_XgAE05no?format=jpg&name=large" width="50%" height="50%">
@@ -905,7 +904,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (76) Proanthocyanidin biosynthesis regulators in chickpea ###
-> **_<a href="https://twitter.com/boas_pucker/status/1635181398708420608">TWEET</a>:_** Genome-wide identification of MYBs in chickpea revealed two regulators of the proanthocyanidin biosynthesis which are promising targets for crop improvement #MybMonday details: https://lnk.tu-bs.de/JYRVLZ.
+> **_<a href="https://twitter.com/boas_pucker/status/1635181398708420608">TWEET</a>:_** Genome-wide identification of MYBs in chickpea revealed two regulators of the proanthocyanidin biosynthesis which are promising targets for crop improvement #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1635181398708420608">
 <img alt="Proanthocyanidin biosynthesis regulators in chickpea (Tweet #76)" src="https://pbs.twimg.com/media/Fq6Q0-QXwAYkgqE?format=jpg&name=medium" width="50%" height="50%">
@@ -915,7 +914,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 
 ### (77) MYBs are frequently implicated in anthocyanin loss events ###
-> **_<a href="https://twitter.com/boas_pucker/status/1685998749041176576">TWEET</a>:_** Loss of anthocyanin pigmentation in flowers and fruits is often associated with mutations affecting transcription factors like MYBs #MybMonday (details: https://lnk.tu-bs.de/kPKUn5)
+> **_<a href="https://twitter.com/boas_pucker/status/1685998749041176576">TWEET</a>:_** Loss of anthocyanin pigmentation in flowers and fruits is often associated with mutations affecting transcription factors like MYBs #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1685998749041176576">
 <img alt="MYBs are frequently implicated in anthocyanin loss events (Tweet #77)" src="https://pbs.twimg.com/media/F2XIKtlWMAAiCls?format=jpg&name=large" width="50%" height="50%">
