@@ -710,7 +710,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (58) Updated collection of MYB papers ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1508330546589487104">TWEET</a>:_** Interested in the biological functions of individual MYBs? Here is an updated collection of MYB papers: https://lnk.tu-bs.de/fX3in9 #MybMonday
+> **_<a href="https://twitter.com/boas_pucker/status/1508330546589487104">TWEET</a>:_** Interested in the biological functions of individual MYBs? Here is an updated collection of MYB papers: [MYB papers](https://github.com/bpucker/MybMonday/wiki/Collection-of-studies-characterizing-individual-MYBs) #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1508330546589487104">
 <img alt="Updated collection of MYB papers (Tweet #58)" src="https://pbs.twimg.com/media/E-BCE_RXEAElM5Y?format=jpg&name=small" width="40%" height="40%">
