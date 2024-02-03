@@ -757,7 +757,7 @@ Lignified SCWs are of biotechnological interest, because they are responsible fo
 
 ### (62) MYB_annotator online ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1518477407346302983">TWEET</a>:_** Automatic MYB annotation is now available as an online service: https://pbb-tools.de/MYB_annotator/. Just submit a FASTA file of your species of interest to start the analysis. #MybMonday (details:  https://bit.ly/3xMTMLl & https://doi.org/10.1186/s12864-022-08452-5)
+> **_<a href="https://twitter.com/boas_pucker/status/1518477407346302983">TWEET</a>:_** Automatic MYB annotation is now available as an online service: https://pbb-tools.de/MYB_annotator/. Just submit a FASTA file of your species of interest to start the analysis. #MybMonday (https://doi.org/10.1186/s12864-022-08452-5)
 
 <a href="https://twitter.com/boas_pucker/status/1518477407346302983">
 <img alt="MYB_annotator online (Tweet #62)" src="https://pbs.twimg.com/media/FRJ9-rGX0AAjU2H?format=jpg&name=large" width="40%" height="40%">
