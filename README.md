@@ -533,7 +533,7 @@ This [collection of papers](https://lnk.tu-bs.de/RQcHMD) about genome-wide inves
 
 ### (43) LoMYB33 ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1470294919327715333">TWEET</a>:_** The R2R3-MYB LoMYB33 is a homolog of GAMYBs. Gene expression patterns and heterologous expression indicate that it is associated with the pollen development in lily #MybMonday (details: )
+> **_<a href="https://twitter.com/boas_pucker/status/1470294919327715333">TWEET</a>:_** The R2R3-MYB LoMYB33 is a homolog of GAMYBs. Gene expression patterns and heterologous expression indicate that it is associated with the pollen development in lily #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1470294919327715333">
 <img alt="LoMYB33 (Tweet #43)" src="https://pbs.twimg.com/media/FGcIH9pXwAQJdST?format=png&name=900x900" width="30%" height="30%">
@@ -555,7 +555,7 @@ This [collection of papers](https://lnk.tu-bs.de/RQcHMD) about genome-wide inves
 
 ### (45) MYB function paper collection ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1475368350494740480">TWEET</a>:_** Interested in the functions of individual MYBs? This collection of papers can help you to find functionally characterized orthologs: https://lnk.tu-bs.de/fX3in9 #MybMonday (details: )
+> **_<a href="https://twitter.com/boas_pucker/status/1475368350494740480">TWEET</a>:_** Interested in the functions of individual MYBs? This collection of papers can help you to find functionally characterized orthologs: [MYB functions](https://github.com/bpucker/MybMonday/wiki/Collection-of-studies-characterizing-individual-MYBs) #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1475368350494740480">
 <img alt="MYB function paper collection (Tweet #45)" src="https://pbs.twimg.com/media/E-BCE_RXEAElM5Y?format=jpg&name=4096x4096" width="40%" height="40%">
