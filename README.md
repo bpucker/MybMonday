@@ -566,7 +566,7 @@ This [collection of papers](https://github.com/bpucker/MybMonday/wiki/Collection
 
 ### (46) Automatic annotation of MYBs ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1477905064601681929">TWEET</a>:_** Starting 2022 with a new transcriptome/genome assembly? The automatic annotation of MYBs can help you to study a large transcription factor family: https://lnk.tu-bs.de/Jkg950 #MybMonday (details: https://bit.ly/31T8Au4)
+> **_<a href="https://twitter.com/boas_pucker/status/1477905064601681929">TWEET</a>:_** Starting 2022 with a new transcriptome/genome assembly? The automatic annotation of MYBs can help you to study a large transcription factor family: [MYB_annotator](https://doi.org/10.1186/s12864-022-08452-5) #MybMonday (details: https://bit.ly/31T8Au4)
 
 <a href="https://twitter.com/boas_pucker/status/1477905064601681929">
 <img alt="Automatic annotation of MYBs (Tweet #46)" src="https://pbs.twimg.com/media/E3Q59hoWEAA0RIj?format=jpg&name=4096x4096" width="40%" height="40%">
@@ -577,7 +577,7 @@ The [MYB_annotator](https://github.com/bpucker/MYB_annotator) is freely availabl
 
 ### (47) VviMYB13 activates stilbene biosynthesis ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1480441780143222785">TWEET</a>:_** Grapevine VviMYB13 appears as a pivotal regulator of the stilbene biosynthesis in vegetative tissues and in response to downy mildew infection #MybMonday (details: https://lnk.tu-bs.de/H7oZiy)
+> **_<a href="https://twitter.com/boas_pucker/status/1480441780143222785">TWEET</a>:_** Grapevine VviMYB13 appears as a pivotal regulator of the stilbene biosynthesis in vegetative tissues and in response to downy mildew infection #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1480441780143222785">
 <img alt="VviMYB13 activates stilbene biosynthesis (Tweet #47)" src="https://pbs.twimg.com/media/FIsadPcWQAY9p_1?format=jpg&name=medium" width="40%" height="40%">
@@ -591,7 +591,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (48) Apple skin color mutant ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1482978494808162305">TWEET</a>:_** MdMYB90-like activates anthocyanin biosynthesis in apple. Methylation changes in the promoter region of a mutant are presented as explanation for an enhanced MdMYB90-like expression #MybMonday (details: https://lnk.tu-bs.de/RXK1aW)
+> **_<a href="https://twitter.com/boas_pucker/status/1482978494808162305">TWEET</a>:_** MdMYB90-like activates anthocyanin biosynthesis in apple. Methylation changes in the promoter region of a mutant are presented as explanation for an enhanced MdMYB90-like expression #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1482978494808162305">
 <img alt="Apple skin color mutant (Tweet #48)" src="https://pbs.twimg.com/media/FJRHiLCWYAUnDOT?format=jpg&name=medium" width="40%" height="40%">
@@ -603,7 +603,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (49) Soybean seed coat pigmentation ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1485522760356941824">TWEET</a>:_** GmMYBA2 activates and GmMYBR represses the anthocyanin biosynthesis in soybean. Both appear to form a feedback loop to fine-tune seed coat pigmentation #MybMonday (details: https://lnk.tu-bs.de/CnuV1T)
+> **_<a href="https://twitter.com/boas_pucker/status/1485522760356941824">TWEET</a>:_** GmMYBA2 activates and GmMYBR represses the anthocyanin biosynthesis in soybean. Both appear to form a feedback loop to fine-tune seed coat pigmentation #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1485522760356941824">
 <img alt="Soybean seed coat pigmentation (Tweet #49)" src="https://pbs.twimg.com/media/FJ2h01gXwAEts0r?format=jpg&name=4096x4096" width="40%" height="40%">
@@ -616,7 +616,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (50) Celery MYB12 activates apigenin biosynthesis ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1488044375049338885">TWEET</a>:_** Celery MYB12 is a positive regulator of the apignenin and luteolin biosynthesis through activation of PAL, C4H, 4CL, CHS, CHI, and FNS. #MybMonday (details: https://lnk.tu-bs.de/S30czt)
+> **_<a href="https://twitter.com/boas_pucker/status/1488044375049338885">TWEET</a>:_** Celery MYB12 is a positive regulator of the apignenin and luteolin biosynthesis through activation of PAL, C4H, 4CL, CHS, CHI, and FNS. #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1488044375049338885">
 <img alt="Celery MYB12 activates apigenin biosynthesis (Tweet #50)" src="https://pbs.twimg.com/media/FKIs_WZWQAsCMIR?format=jpg&name=large" width="40%" height="40%">
@@ -629,7 +629,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (51) VcMYB1 activates anthocyanin biosynthesis in blueberry ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1490581090276298754">TWEET</a>:_** The subgroup6 member VcMYB1 activates the anthocyanin biosynthesis in blueberry #MybMonday (details: https://lnk.tu-bs.de/qRVcPY)
+> **_<a href="https://twitter.com/boas_pucker/status/1490581090276298754">TWEET</a>:_** The subgroup6 member VcMYB1 activates the anthocyanin biosynthesis in blueberry #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1490581090276298754">
 <img alt="VcMYB1 activates anthocyanin biosynthesis in blueberry (Tweet #51)" src="https://pbs.twimg.com/media/FK8qjpDXEAAGUAz?format=png&name=900x900" width="40%" height="40%">
@@ -641,7 +641,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (52) MdMYB10 as betalain activator? ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1493117807986241536">TWEET</a>:_** Is the anthocyanin activator MdMYB10 able to activate the betalain biosynthesis when expressed in sugar beet? #MybMonday (details: https://lnk.tu-bs.de/JOrE9B)
+> **_<a href="https://twitter.com/boas_pucker/status/1493117807986241536">TWEET</a>:_** Is the anthocyanin activator MdMYB10 able to activate the betalain biosynthesis when expressed in sugar beet? #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1493117807986241536">
 <img alt="MdMYB10 as betalain activator? (Tweet #52)" src="https://pbs.twimg.com/media/FLghP66XEAQsEcr?format=jpg&name=4096x4096" width="40%" height="40%">
@@ -653,7 +653,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (53) Radiation protection 'plan B' ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1495662069965803531">TWEET</a>:_** VvMYB24 activates terpene & flavonol biosynthesis in berry skin parts that lack anthocyanin pigementation #MybMonday (details: https://lnk.tu-bs.de/pnXkRE)
+> **_<a href="https://twitter.com/boas_pucker/status/1495662069965803531">TWEET</a>:_** VvMYB24 activates terpene & flavonol biosynthesis in berry skin parts that lack anthocyanin pigementation #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1495662069965803531">
 <img alt="Radiation protection 'plan B' (Tweet #53)" src="https://pbs.twimg.com/media/FIsadPcWQAY9p_1?format=jpg&name=medium" width="40%" height="40%">
@@ -664,7 +664,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (54) PgMYB308-like of pomegranate ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1498198786325106688">TWEET</a>:_** PgMYB308-like of pomegranate activates shikimate pathway and lignin biosynthesis, but represses the biosynthesis of flavonoids #MybMonday (details: https://lnk.tu-bs.de/DcKsAw)
+> **_<a href="https://twitter.com/boas_pucker/status/1498198786325106688">TWEET</a>:_** PgMYB308-like of pomegranate activates shikimate pathway and lignin biosynthesis, but represses the biosynthesis of flavonoids #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1498198786325106688">
 <img alt="PgMYB308-like of pomegranate (Tweet #54)" src="https://pbs.twimg.com/media/FMjfBLnXMAAbRIr?format=jpg&name=4096x4096" width="40%" height="40%">
@@ -675,7 +675,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (55) Poplar MYB117 promotes anthocyanin biosynthesis ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1500735500033970177">TWEET</a>:_** Poplar MYB117 activates the anthocyanin biosynthesis and increases the hydroxylation of flavonoids through enhanced expression of F3'5'H #MybMonday (details: https://lnk.tu-bs.de/9pMGmz)
+> **_<a href="https://twitter.com/boas_pucker/status/1500735500033970177">TWEET</a>:_** Poplar MYB117 activates the anthocyanin biosynthesis and increases the hydroxylation of flavonoids through enhanced expression of F3'5'H #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1500735500033970177">
 <img alt="Poplar MYB117 promotes anthocyanin biosynthesis (Tweet #55)" src="https://pbs.twimg.com/media/FNMBN5EXoAco-2q?format=jpg&name=medium" width="40%" height="40%">
@@ -687,7 +687,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (56) Repressor function of MYB12 ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1503272215575412736">TWEET</a>:_** MYB12 binds TMO5 resulting in reduced activity of the TMO5/LHW complex. Expression of the target genes is reduced. MYB12 is an indirect TMO5/LHW target. This system constitutes a negative feedback loop #MybMonday (details: https://lnk.tu-bs.de/r72Qy6)
+> **_<a href="https://twitter.com/boas_pucker/status/1503272215575412736">TWEET</a>:_** MYB12 binds TMO5 resulting in reduced activity of the TMO5/LHW complex. Expression of the target genes is reduced. MYB12 is an indirect TMO5/LHW target. This system constitutes a negative feedback loop #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1503272215575412736">
 <img alt="Repressor function of MYB12 (Tweet #56)" src="https://pbs.twimg.com/media/FNykhr-WUAESi6Y?format=jpg&name=4096x4096" width="40%" height="40%">
@@ -699,7 +699,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (57) Automatic identification and annotation of MYBs ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1505786564223410179">TWEET</a>:_** MYBs can be identified and annotated automatically (https://rdcu.be/cJm7Q). The corresponding #Python code and required data sets are freely available @github. A web server is under development. #MybMonday: https://lnk.tu-bs.de/ZwFMei
+> **_<a href="https://twitter.com/boas_pucker/status/1505786564223410179">TWEET</a>:_** MYBs can be identified and annotated automatically (https://rdcu.be/cJm7Q). The corresponding #Python code and required data sets are freely available @github. A web server is under development. #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1505786564223410179">
 <img alt="Automatic identification and annotation of MYBs (Tweet #57)" src="https://pbs.twimg.com/media/FOWgj2AX0AIsZUD?format=jpg&name=large" width="40%" height="40%">
@@ -710,7 +710,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (58) Updated collection of MYB papers ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1508330546589487104">TWEET</a>:_** Interested in the biological functions of individual MYBs? Here is an updated collection of MYB papers: https://lnk.tu-bs.de/fX3in9 #MybMonday (details: https://lnk.tu-bs.de/7cpPBe)
+> **_<a href="https://twitter.com/boas_pucker/status/1508330546589487104">TWEET</a>:_** Interested in the biological functions of individual MYBs? Here is an updated collection of MYB papers: https://lnk.tu-bs.de/fX3in9 #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1508330546589487104">
 <img alt="Updated collection of MYB papers (Tweet #58)" src="https://pbs.twimg.com/media/E-BCE_RXEAElM5Y?format=jpg&name=small" width="40%" height="40%">
@@ -720,7 +720,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 ### (59) Bamboo MYBs ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1510867262181322752">TWEET</a>:_** Investigation of the MYBs in the fast growing woody Phyllostachys edulis (bamboo) revealed some potential regulators of the secondary cell wall development #MybMonday (details: https://lnk.tu-bs.de/ty37LB)
+> **_<a href="https://twitter.com/boas_pucker/status/1510867262181322752">TWEET</a>:_** Investigation of the MYBs in the fast growing woody Phyllostachys edulis (bamboo) revealed some potential regulators of the secondary cell wall development #MybMonday
 
 
 <a href="https://twitter.com/boas_pucker/status/1510867262181322752">
@@ -734,7 +734,7 @@ Lignified SCWs are of biotechnological interest, because they are responsible fo
 
 ### (60) Evolution of flavonol regulators in _Brassicaceae_ ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1513403976334528515">TWEET</a>:_** Exciting findings: evolution of flavonol biosynthesis regulating MYBs in Brassicaceae involves a deep MYB12 and MYB111 duplication as well as a MYB11 loss #MybMonday: https://doi.org/10.1101/2022.04.06.487363 & https://lnk.tu-bs.de/B3wTUb
+> **_<a href="https://twitter.com/boas_pucker/status/1513403976334528515">TWEET</a>:_** Exciting findings: evolution of flavonol biosynthesis regulating MYBs in Brassicaceae involves a deep MYB12 and MYB111 duplication as well as a MYB11 loss #MybMonday: https://doi.org/10.1101/2022.04.06.487363
 
 <a href="https://twitter.com/boas_pucker/status/1513403976334528515">
 <img alt="Evolution of flavonol regulators in _Brassicaceae_ (Tweet #60)" src="https://pbs.twimg.com/media/FQAiZohWUAEsg-5?format=jpg&name=4096x4096" width="40%" height="40%">
@@ -746,7 +746,7 @@ Lignified SCWs are of biotechnological interest, because they are responsible fo
 
 ### (61) Anthocyanin regulation in _Paeonia ostii_ ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1515940692685729794">TWEET</a>:_** Flower colors of Paeonia ostii are determined by anthocyanin concentrations and range from white to pink. PoMYB2 and PoSPL1 were proposed as negative regulators of the anthocyanin biosynthesis #MybMonday (details: https://lnk.tu-bs.de/O8gWwC)
+> **_<a href="https://twitter.com/boas_pucker/status/1515940692685729794">TWEET</a>:_** Flower colors of Paeonia ostii are determined by anthocyanin concentrations and range from white to pink. PoMYB2 and PoSPL1 were proposed as negative regulators of the anthocyanin biosynthesis #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1515940692685729794">
 <img alt="Anthocyanin regulation in _Paeonia ostii_ (Tweet #61)" src="https://pbs.twimg.com/media/FQRlYF9WUAQ-Lg9?format=jpg&name=large" width="40%" height="40%">
