@@ -923,7 +923,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 It has been assumed in the community that MYB transcription factors are the decisive factor in anthocyanin pigmentation loss events. A recent study ([Recinos & Pucker, 2023](https://doi.org/10.1101/2023.06.05.543820)) quantified the number of anthocyanin pigmentation loss cases that can be explained by each gene associated with the pathway. It turned out that the MYB transcription factors are the most frequent explanation followed by bHLH transcription factors. Loss anthocyanin biosynthesis activation was a frequent explanation. However, the hyperactivation of flavonol biosynthesis by changes in the flavonol MYBs was also frequently observed.
 
 ### (78) Vitis MYB24 is a flavonol regulator ###
-> **_<a href="">TWEET</a>:_** Grapevine MYB24 seems to module UV and highlight stress response by activating terpene and flavonol synthesis #MybMonday https://doi.org/10.1093/plcell/koad228 & XXXX
+> **_<a href="">TWEET</a>:_** Grapevine MYB24 seems to module UV and highlight stress response by activating terpene and flavonol biosynthesis #MybMonday https://doi.org/10.1093/plcell/koad228 & http://bit.ly/3OMwXiB
 
 
 [Zhang et al., 2023](https://doi.org/10.1093/plcell/koad228) investigated the transcriptional regulation of flavonoid biosynthesis and terpene biosynthesis genes in the berries of different grape cultivars. Transposon-mediated inactivation of well known anthocyanin activators was previously descried as explanation for the lack of pigmentation in berries. As some parts of the berries are not protected by anthocyanins, they are exposed to dangerous UV light. MYB24 was found to be particularly active in the absence of anthocyanin biosynthesis.
