@@ -926,6 +926,10 @@ It has been assumed in the community that MYB transcription factors are the deci
 > **_<a href="">TWEET</a>:_** Grapevine MYB24 seems to module UV and highlight stress response by activating terpene and flavonol biosynthesis #MybMonday https://doi.org/10.1093/plcell/koad228 & http://bit.ly/3OMwXiB
 
 
+<a href="">
+<img alt="Vitis MYB24 is a flavonol regulator (Tweet #78)" src="https://pbs.twimg.com/media/FIsadPcWQAY9p_1?format=jpg&name=medium" width="40%" height="40%">
+</a>
+
 [Zhang et al., 2023](https://doi.org/10.1093/plcell/koad228) investigated the transcriptional regulation of flavonoid biosynthesis and terpene biosynthesis genes in the berries of different grape cultivars. Transposon-mediated inactivation of well known anthocyanin activators was previously descried as explanation for the lack of pigmentation in berries. As some parts of the berries are not protected by anthocyanins, they are exposed to dangerous UV light. MYB24 was found to be particularly active in the absence of anthocyanin biosynthesis.
 
 
