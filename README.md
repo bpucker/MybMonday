@@ -925,7 +925,6 @@ It has been assumed in the community that MYB transcription factors are the deci
 ### (78) Vitis MYB24 is a flavonol regulator ###
 > **_<a href="">TWEET</a>:_** Grapevine MYB24 seems to module UV and highlight stress response by activating terpene and flavonol biosynthesis #MybMonday https://doi.org/10.1093/plcell/koad228 & http://bit.ly/3OMwXiB
 
-
 <a href="">
 <img alt="Vitis MYB24 is a flavonol regulator (Tweet #78)" src="https://pbs.twimg.com/media/FIsadPcWQAY9p_1?format=jpg&name=medium" width="40%" height="40%">
 </a>
@@ -935,6 +934,11 @@ It has been assumed in the community that MYB transcription factors are the deci
 
 ### (78) Point mutation boost MYB expression ###
 > **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** A point mutation in an anthocyanin MYB gene promoter generates a cis-regulatory element and leads to increased anthocyanin production in _Phlox drummondii_ contributing to speciation #MybMonday (details: https://lnk.tu-bs.de/kUOx7a)
+
+<a href="">
+<img alt="Point mutation boost MYB expression (Tweet #79)" src="https://pbs.twimg.com/media/GIPZv2cWkAAX6R5?format=jpg&name=large" width="40%" height="40%">
+</a>
+
 
 [Garner et al.](https://doi.org/10.1101/2023.04.19.537550) investigated the genetics underlying the flower coloration intensity of _Phlox drummondii_ and its contribution to reinforcement in the context of speciation. Flower colors differ in intensity (weak or strong), resulting in light or dark flowers. The R2R3-MYB protein PdMYB1 is the transcription factor controlling the intensity of anthocyanin accumulation, responsible for pigmentation intensity. Association mapping identified a single nucleotide variant (SNV) in the promoter region of _PdMYB1_ as the probable reason for the expression difference. Not all intensely pigmented individuals share this SNV; thus, there might be multiple (independent) mutations resulting in the same phenotype. However, this SNV generates a cis-regulatory element (CAAT-box-like binding motif or E2F TF binding motif) that could explain the difference in gene expression.
 
