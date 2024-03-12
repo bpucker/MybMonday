@@ -934,7 +934,7 @@ It has been assumed in the community that MYB transcription factors are the deci
 
 ### (78) Point mutation boost MYB expression ###
 ### (79) Point mutation boost MYB expression ###
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** A point mutation in an anthocyanin MYB gene promoter generates a cis-regulatory element and leads to increased anthocyanin production in _Phlox drummondii_ contributing to speciation #MybMonday (details: xxx)
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** A point mutation in an anthocyanin MYB gene promoter generates a cis-regulatory element and leads to increased anthocyanin production in _Phlox drummondii_ contributing to speciation #MybMonday (details: https://lnk.tu-bs.de/VvOiWL)
 
 <a href="">
 <img alt="Point mutation boost MYB expression (Tweet #79)" src="https://pbs.twimg.com/media/GIPZv2cWkAAX6R5?format=jpg&name=large" width="40%" height="40%">
@@ -945,7 +945,7 @@ It has been assumed in the community that MYB transcription factors are the deci
 
 
 ### (80) PpBBX16 activates anthocyanin MYB10 in red pear ###
-> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Light-induced anthocyanin pigmentation of red pears involves PpBBX16/PpHY5 as activator of the R2R3 MYB10 that activates the anthocyanin biosynthesis genes #MybMonday (details: xxx)
+> **_<a href="https://github.com/bpucker/MybMonday">TWEET</a>:_** Light-induced anthocyanin pigmentation of red pears involves PpBBX16/PpHY5 as activator of the R2R3 MYB10 that activates the anthocyanin biosynthesis genes #MybMonday (details: https://lnk.tu-bs.de/MQ2cG8)
 
 
 [Bai et al., 2019]( https://doi.org/10.1111/pbi.13114) explored the role of PpBBX16 in the light-induced accumulation of anthocyanins in the fruit peel of red pear (_Pyrus pyrifolia_). PpBBX16 requires PpHY5 as partner to bind the MYB10 promoter and trigger the expression of this R2R3-MYB gene. The role of PpBBX16 was studied with Y1H and transformation of tobacco plants.
