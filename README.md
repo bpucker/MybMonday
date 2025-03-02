@@ -1,6 +1,6 @@
 # #MybMonday
 
-MYB transcription factors are one of the largest gene family in plants and control many processes. This repository provides additional background to the #MYB_Monday tweets. #MybMonday is maintained by the [PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) at TU Braunschweig.
+MYB transcription factors are one of the largest gene family in plants and control many processes. This repository provides additional background to the #MYB_Monday posts. #MybMonday is maintained by the [PuckerLab](https://www.mps.uni-bonn.de).
 
 ## Introduction ##
 
@@ -24,11 +24,11 @@ Check out the collection of [genome-wide MYB investigations](https://github.com/
 
 
 
-## Tweets with additional background ##
+## Social media posts with additional background ##
 
 ### (1) MYBs control diverse functions in plants ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1363737787782995970">TWEET</a>:_** MYBs are among the largest transcription factor families in plants. Members of the R2R3-MYB clade control various processes including ontogenesis, cell wall biosynthesis, stress response, and specialized metabolism. #MybMonday
+> **Post:** MYBs are among the largest transcription factor families in plants. Members of the R2R3-MYB clade control various processes including ontogenesis, cell wall biosynthesis, stress response, and specialized metabolism. #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1363737787782995970">
 <img alt="Phylogenetic tree of banana MYBs (Tweet #1)" src="https://pbs.twimg.com/media/EuzsUIJXcAEPIpy?format=jpg&name=4096x4096" width="30%" height="30%">
@@ -41,7 +41,7 @@ This tweet serves as an introduction. Please read the introduction section on to
 
 ### (2) MYB repeat structure ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1363858585768263686">TWEET</a>:_** Characteristic feature of MYBs are conserved tryptophan residues at defined positions in MYB repeat units. Names of MYBs are based on these MYB repeats e.g. 'R2R3-MYBs' harbour one R2 and one R3 repeat. #MybMonday
+> **Post:** Characteristic feature of MYBs are conserved tryptophan residues at defined positions in MYB repeat units. Names of MYBs are based on these MYB repeats e.g. 'R2R3-MYBs' harbour one R2 and one R3 repeat. #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1363858585768263686">
 <img alt="MYB repeat structure (Tweet #2)" src="https://pbs.twimg.com/media/EuzuOVBWQAAfvEM?format=png&name=medium" width="50%" height="50%">
@@ -53,7 +53,7 @@ These characteristic repeat features can be harnessed for the identification of 
 
 ### (3) MYBs interact with bHLH and WD40 (MBW complex) ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1366274503207227392">TWEET</a>:_** Some MYBs form complexes with bHLH and WD40 proteins. These complexes are named MBW after the 3 involved TFs. MBW controls the seed coat colour in Arabidopsis thaliana and other developmental processes. #MybMonday
+> **Post:** Some MYBs form complexes with bHLH and WD40 proteins. These complexes are named MBW after the 3 involved TFs. MBW controls the seed coat colour in Arabidopsis thaliana and other developmental processes. #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1366274503207227392">
 <img alt="MYBs interact with bHLH and WD40 (Tweet #3)" src="https://pbs.twimg.com/media/EvNNzvcXIAEq1tv?format=jpg&name=medium" width="30%" height="30%">
@@ -64,7 +64,7 @@ Different MYBs and bHLHs can be involved in the MBW complex formation. The integ
 
 ### (4) MYBs are breeding targets ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1368811218014629888">TWEET</a>:_** MYBs are the target of breeding projects to improve fruits, vegetables, and ornamental plants. MYB1/10/110a are responsible for the red coloration of apple skin, foliage & fruit-flesh, respectively, by activating a pigment biosynthesis  #MybMonday
+> **Post:** MYBs are the target of breeding projects to improve fruits, vegetables, and ornamental plants. MYB1/10/110a are responsible for the red coloration of apple skin, foliage & fruit-flesh, respectively, by activating a pigment biosynthesis  #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1368811218014629888">
 <img alt="MYBs are breeding targets (Tweet #4)" src="https://pbs.twimg.com/media/EvNPR_CXMAEvIFp?format=jpg&name=medium" width="30%" height="30%">
@@ -76,7 +76,7 @@ As transcriptional regulators of entire biosnythesis pathways, MYBs are promisin
 
 ### (5) MYB associated with sweet cherry colour ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1371347932851634177">TWEET</a>:_** PavMYB10.1 is associated with the fruit skin colour of sweet cherry. Three different alleles lead to yellow to red colouration in the varieties 'Big Dragon', 'Rainier', and 'Lapins'. #MybMonday
+> **Post:** PavMYB10.1 is associated with the fruit skin colour of sweet cherry. Three different alleles lead to yellow to red colouration in the varieties 'Big Dragon', 'Rainier', and 'Lapins'. #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1371347932851634177">
 <img alt="MYB associated with sweet cherry colour (Tweet #5)" src="https://pbs.twimg.com/media/EvNSbz7XMAAZqcG?format=jpg&name=medium" width="30%" height="30%">
@@ -85,7 +85,7 @@ As transcriptional regulators of entire biosnythesis pathways, MYBs are promisin
 
 ### (6) Red and white strawberries ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1373884648485445633">TWEET</a>:_** The red colour of octoploid strawberry (Fragaria × ananassa) is controlled by a MYB. A 8bp insertion in the CDS of FaMYB10 can change the colour from red to white through a single loss-of-function allele. #MybMonday
+> **Post:** The red colour of octoploid strawberry (Fragaria × ananassa) is controlled by a MYB. A 8bp insertion in the CDS of FaMYB10 can change the colour from red to white through a single loss-of-function allele. #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1373884648485445633">
 <img alt="Red and white strawberries (Tweet #6)" src="https://pbs.twimg.com/media/EvNUujRWgAIgh6r?format=jpg&name=medium" width="30%" height="30%">
@@ -97,7 +97,7 @@ This loss-of-function allele of MYB10-2 needs to be present in a homozygous stat
 
 ### (7) Colouration of kiwi fruit tissues ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1376406263693783042">TWEET</a>:_** The red colour of kiwifruit petals is determined by MYB110a, but there might be more MYBs involved in the anthocyanin biosynthesis regulation in other tissues. A microsatellite marker linked to MYB110a revealed the location on chr10. #MybMonday
+> **Post:** The red colour of kiwifruit petals is determined by MYB110a, but there might be more MYBs involved in the anthocyanin biosynthesis regulation in other tissues. A microsatellite marker linked to MYB110a revealed the location on chr10. #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1376406263693783042">
 <img alt="Colouration of kiwi fruit tissues (Tweet #7)" src="https://pbs.twimg.com/media/EvNXel3XcAAW_75?format=jpg&name=large" width="50%" height="50%">
@@ -106,7 +106,7 @@ This loss-of-function allele of MYB10-2 needs to be present in a homozygous stat
 
 ### (8) Red blushed skin of apricots ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1378942978253807616">TWEET</a>:_** Consumers prefer apricots with red blushed skin. Expression of PaMYB10 correlates with expression of anthocyanin biosynthesis genes which are responsible for production of red pigments. PaMYB10 seems to be an important activator. #MybMonday
+> **Post:** Consumers prefer apricots with red blushed skin. Expression of PaMYB10 correlates with expression of anthocyanin biosynthesis genes which are responsible for production of red pigments. PaMYB10 seems to be an important activator. #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1378942978253807616">
 <img alt="Red blushed skin of apricots (Tweet #8)" src="https://pbs.twimg.com/media/EvNbhhvXYAE5-2R?format=png&name=900x900" width="30%" height="30%">
@@ -115,7 +115,7 @@ This loss-of-function allele of MYB10-2 needs to be present in a homozygous stat
 
 ### (9) Betalain biosynthesis in sugar beet is controlled by BvMYB1 ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1381479694483156992">TWEET</a>:_** BvMYB1 is responsible for the red colouration of sugar beets and beetroots. This MYB activates the betalain biosynthesis which produces red pigments. #MybMonday
+> **Post:** BvMYB1 is responsible for the red colouration of sugar beets and beetroots. This MYB activates the betalain biosynthesis which produces red pigments. #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1381479694483156992">
 <img alt="Betalain biosynthesis in sugar beet is controlled by BvMYB1 (Tweet #9)" src="https://pbs.twimg.com/media/EvNeVhRXAAUsYb0?format=png&name=900x900" width="30%" height="30%">
@@ -126,7 +126,7 @@ Anthocyanin and betalains are (to some extent) functionally redundant. Not a sin
 
 ### (10) Flavonol regulator BvMYB12 ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1384016409202679808">TWEET</a>:_** MYB functions are not restricted to fruit colours. BvMYB12 activates flavonol biosynthesis genes in sugar beet independent of bHLH/WD40. Flavonols protect plants against UV light and ROS, but also regulate developmental processes. #MybMonday
+> **Post:** MYB functions are not restricted to fruit colours. BvMYB12 activates flavonol biosynthesis genes in sugar beet independent of bHLH/WD40. Flavonols protect plants against UV light and ROS, but also regulate developmental processes. #MybMonday
 
 
 <a href="https://twitter.com/boas_pucker/status/1384016409202679808">
@@ -140,7 +140,7 @@ While betalains replace anthocyanins in many Caryophyllales families ([Timoneda 
 
 ### (11) Structure of WEREWOLF ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1386553123402043392">TWEET</a>:_** Third alpha-helices of R2 and R3 repeats of WEREWOLF fit in the major groove of the DNA and recognize AACNGC. L59 of WER is probably sensing the methylation status of the binding site. #MybMonday
+> **Post:** Third alpha-helices of R2 and R3 repeats of WEREWOLF fit in the major groove of the DNA and recognize AACNGC. L59 of WER is probably sensing the methylation status of the binding site. #MybMonday
 
 
 <a href="https://twitter.com/boas_pucker/status/1386553123402043392">
@@ -152,7 +152,7 @@ WEREWOLF (WER) is an important regulator in the plant ontogenesis [Lee & Schiefe
 
 ### (12) MYB2 of Boehmeria nivea ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1389089839534968835">TWEET</a>:_** The R1-MYB family member MYB2 of Boehmeria nivea (Ramie) appears to be a positive regulator of Cd tolerance and accumulation. #MybMonday
+> **Post:** The R1-MYB family member MYB2 of Boehmeria nivea (Ramie) appears to be a positive regulator of Cd tolerance and accumulation. #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1389089839534968835">
 <img alt="MYB2 of <i>Boehmeria nivea</i> (Tweet #12)" src="https://pbs.twimg.com/media/Ez2HyD-XEAApfcv?format=png&name=900x900" width="40%" height="40%">
@@ -164,7 +164,7 @@ A recent publication by [Zhu et al., 2020](https://doi.org/10.1371/journal.pone.
 
 ### (13) Subgroup 6 R2R3-MYBs control floral color in Aristolochiaceae ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1391634107545829376">TWEET</a>:_** Subgroup 6 of the R2R3-MYBs controls the flavonoid biosynthesis which is responsible for the colouration of flowers. These MYBs contribute to the diversity of floral colour in Aristolochiaceae. #MybMonday
+> **Post:** Subgroup 6 of the R2R3-MYBs controls the flavonoid biosynthesis which is responsible for the colouration of flowers. These MYBs contribute to the diversity of floral colour in Aristolochiaceae. #MybMonday
 
 
 <a href="https://twitter.com/boas_pucker/status/1391634107545829376">
@@ -178,7 +178,7 @@ Subgroup 6 R2R3-MYBs control floral color in Aristolochiaceae
 
 ### (14) Conserved motifs in the C-terminal part of anthocyanin activators ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1394178368149458946">TWEET</a>:_** Activators of the anthocyanin biosynthesis belong to subgroup 6 of the R2R3-MYB family. In addition to the R2R3 domain, there are three short motifs conserved among anthocyanin regulators #MybMonday
+> **Post:** Activators of the anthocyanin biosynthesis belong to subgroup 6 of the R2R3-MYB family. In addition to the R2R3 domain, there are three short motifs conserved among anthocyanin regulators #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1394178368149458946">
 <img alt="Conserved motifs in the C-terminal part of anthocyanin activators (Tweet #14)" src="https://pbs.twimg.com/media/E1karEGWEAE1Cu-?format=jpg&name=large" width="40%" height="40%">
@@ -190,7 +190,7 @@ Subgroup 6 R2R3-MYBs control floral color in Aristolochiaceae
 
 ### (15) MYB involved in sex determination ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1396707538373156864">TWEET</a>:_** The R2R3-MYB gene DEFECTIVE IN TAPETAL DEVELOPMENT AND FUNCTION (TDF1) is one of two sex determination genes in Asparagus officinalis. #MybMonday
+> **Post:** The R2R3-MYB gene DEFECTIVE IN TAPETAL DEVELOPMENT AND FUNCTION (TDF1) is one of two sex determination genes in Asparagus officinalis. #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1396707538373156864">
 <img alt="MYB involved in sex determination (Tweet #15)" src="https://pbs.twimg.com/media/E2H9ewXWYAAH912?format=jpg&name=medium" width="30%" height="30%">
@@ -202,7 +202,7 @@ Dioecy has evolved hundreds of times independently from hermaphrody in plants. [
 
 ### (16) MYBC1 in kiwifruit ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1399261076877885443">TWEET</a>:_** Kiwifruit MYBC1 is an activator of the flavonoid biosynthesis genes F3'H and F3'5'H. Up-regulation F3'H/F3'5'H is discussed in context of increased proanthocyanidin content #MybMonday
+> **Post:** Kiwifruit MYBC1 is an activator of the flavonoid biosynthesis genes F3'H and F3'5'H. Up-regulation F3'H/F3'5'H is discussed in context of increased proanthocyanidin content #MybMonday
 
 
 <a href="https://twitter.com/boas_pucker/status/1399261076877885443">
@@ -218,7 +218,7 @@ Overexpression in calli revealed differences between MYB110 (anthocyanin actiato
 
 ### (17) Evolution of the R2R3-MYBs in plants ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1401811164737150977">TWEET</a>:_** Ancestral land plants already had 10 subfamilies of R2R3-MYBs. Orthologs of 7 subfamilies were detected in chlorophytes and charophycean algae. Subfamily VIII expanded in land plants. #MybMonday
+> **Post:** Ancestral land plants already had 10 subfamilies of R2R3-MYBs. Orthologs of 7 subfamilies were detected in chlorophytes and charophycean algae. Subfamily VIII expanded in land plants. #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1401811164737150977">
 <img alt="Evolution of the R2R3-MYBs in plants (Tweet #17)" src="https://pbs.twimg.com/media/E3Q59hoWEAA0RIj?format=jpg&name=4096x4096" width="30%" height="30%">
@@ -232,7 +232,7 @@ The authors point out some issues when investigating the evolution of MYBs:
 
 ### (18) R2R3-MYBs regulate gucosinolate biosynthesis ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1404310128912785412">TWEET</a>:_** MYB28, MYB29, MYB34, MYB51, MYB76, and MYB122 control the glucosinolate biosynthesis. Sulfur deficiency reduces the gene expression of MYB29 and MYB76 through negative regulation by SLIM1. #MybMonday
+> **Post:** MYB28, MYB29, MYB34, MYB51, MYB76, and MYB122 control the glucosinolate biosynthesis. Sulfur deficiency reduces the gene expression of MYB29 and MYB76 through negative regulation by SLIM1. #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1404310128912785412">
 <img alt="R2R3-MYBs regulate gucosinolate biosynthesis (Tweet #18)" src="https://pbs.twimg.com/media/E30ZdesWEAMCm7a?format=jpg&name=4096x4096" width="30%" height="30%">
@@ -245,7 +245,7 @@ Sulfur Limitation 1 (SLIM1) was identified as a negative transcriptional regulat
 
 ### (19) VvMYB86 - activator of PA and repressor of anthocyanin biosynthesis ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1406846844878168064">TWEET</a>:_** Vitis vinifera MYB86 seems to be a positive regulator of the proanthocyanidin biosynthesis (LAR), but a negative regulator of the anthocyanin biosynthesis (ANS & UFGT) #MybMonday
+> **Post:** Vitis vinifera MYB86 seems to be a positive regulator of the proanthocyanidin biosynthesis (LAR), but a negative regulator of the anthocyanin biosynthesis (ANS & UFGT) #MybMonday
 
 
 <a href="https://twitter.com/boas_pucker/status/1406846844878168064">
@@ -258,7 +258,7 @@ Sequence analysis of VvMYB86 revealed the presence of a bHLH interaction motif s
 
 ### (20) Anthocyanin activating AtMYBs ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1409383560037892101">TWEET</a>:_** The three anthocyanin biosynthesis regulators PAP1 (MYB75), PAP2 (MYB90), and MYB113 are expressed in different developmental stages of Arabidopsis thaliana leaves #MybMonday
+> **Post:** The three anthocyanin biosynthesis regulators PAP1 (MYB75), PAP2 (MYB90), and MYB113 are expressed in different developmental stages of Arabidopsis thaliana leaves #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1409383560037892101">
 <img alt="Anthocyanin activating AtMYBs (Tweet #20)" src="https://pbs.twimg.com/media/E47LvU_WEAcx8W8?format=jpg&name=large" width="30%" height="30%">
@@ -271,7 +271,7 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 
 ### (21) MYB111 controls flavonol diversity in sunflowers ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1411935374494998533">TWEET</a>:_** Cis-regulatory variation in the MYB111 gene contributes to floral pigment diversity of sunflowers. Patterns of UV-absorbing flavonol glycosides are crucial to pollinator attraction and might contribute to temperature regulation #MybMonday
+> **Post:** Cis-regulatory variation in the MYB111 gene contributes to floral pigment diversity of sunflowers. Patterns of UV-absorbing flavonol glycosides are crucial to pollinator attraction and might contribute to temperature regulation #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1411935374494998533">
 <img alt="MYB111 controls flavonol diversity in sunflowers (Tweet #21)" src="https://pbs.twimg.com/media/E5fbXVbXMAAtzj9?format=png&name=900x900" width="30%" height="30%">
@@ -282,7 +282,7 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 
 ### (22) Pepper MYBs ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1414472089126510593">TWEET</a>:_** A genome-wide analysis of R2R3-MYBs in Capsicum annuum revealed six candidates that might regulate the capsaicin and dihydrocapsaicin biosynthesis #MybMonday
+> **Post:** A genome-wide analysis of R2R3-MYBs in Capsicum annuum revealed six candidates that might regulate the capsaicin and dihydrocapsaicin biosynthesis #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1414472089126510593">
 <img alt="Pepper MYBs (Tweet #22)" src="https://pbs.twimg.com/media/E506B0LWYAM3wfV?format=jpg&name=large" width="30%" height="30%">
@@ -293,7 +293,7 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 
 ### (23) _Morella rubra_ MYBs ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1417008803967426561">TWEET</a>:_** _Morella rubra_ has 174 MYBs. Overexpression of MrMYB12 causes an increase in flavonol biosynthesis gene expression (_CHS_, _F3H_, _FLS_) and results in lower flux into anthocyanin biosynthesis #MybMonday
+> **Post:** _Morella rubra_ has 174 MYBs. Overexpression of MrMYB12 causes an increase in flavonol biosynthesis gene expression (_CHS_, _F3H_, _FLS_) and results in lower flux into anthocyanin biosynthesis #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1417008803967426561">
 <img alt="_Morella rubra_ MYBs (Tweet #23)" src="https://pbs.twimg.com/media/E6Z3piNXIAMiulT?format=jpg&name=4096x4096" width="30%" height="30%">
@@ -306,7 +306,7 @@ There are three anthocyanin activating MYBs in _Arabidopsis thaliana_: MYB75, MY
 
 ### (24) _Mimulus_ MYB5a ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1419530420115365888">TWEET</a>:_** MYB5a is a key regulator of the anthocyanin biosynthesis in the genus Mimulus and contributes to the flower coloration diversity through a reaction-diffusion network #MybMonday
+> **Post:** MYB5a is a key regulator of the anthocyanin biosynthesis in the genus Mimulus and contributes to the flower coloration diversity through a reaction-diffusion network #MybMonday
 
 <a href="https://twitter.com/boas_pucker/status/1419530420115365888">
 <img alt=" _Mimulus_ MYB5a (Tweet #24)" src="https://pbs.twimg.com/media/E7LPz2HXIAIXBs3?format=jpg&name=4096x4096" width="30%" height="30%">
