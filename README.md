@@ -732,7 +732,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 It has been assumed in the community that MYB transcription factors are the decisive factor in anthocyanin pigmentation loss events. A recent study ([Recinos & Pucker, 2023](https://doi.org/10.1101/2023.06.05.543820)) quantified the number of anthocyanin pigmentation loss cases that can be explained by each gene associated with the pathway. It turned out that the MYB transcription factors are the most frequent explanation followed by bHLH transcription factors. Loss anthocyanin biosynthesis activation was a frequent explanation. However, the hyperactivation of flavonol biosynthesis by changes in the flavonol MYBs was also frequently observed.
 
 ### (78) Vitis MYB24 is a flavonol regulator ###
-> **Post:** Grapevine MYB24 seems to module UV and highlight stress response by activating terpene and flavonol biosynthesis #MybMonday https://doi.org/10.1093/plcell/koad228 & http://bit.ly/3OMwXiB
+> **Post:** Grapevine MYB24 seems to module UV and highlight stress response by activating terpene and flavonol biosynthesis #MybMonday https://doi.org/10.1093/plcell/koad228
 
 <img alt="Vitis MYB24 is a flavonol regulator (Tweet #78)" src="https://pbs.twimg.com/media/FIsadPcWQAY9p_1?format=jpg&name=medium" width="40%" height="40%">
 
@@ -741,7 +741,7 @@ It has been assumed in the community that MYB transcription factors are the deci
 
 ### (78) Point mutation boost MYB expression ###
 ### (79) Point mutation boost MYB expression ###
-> **Post:** A point mutation in an anthocyanin MYB gene promoter generates a cis-regulatory element and leads to increased anthocyanin production in _Phlox drummondii_ contributing to speciation #MybMonday (details: https://lnk.tu-bs.de/VvOiWL)
+> **Post:** A point mutation in an anthocyanin MYB gene promoter generates a cis-regulatory element and leads to increased anthocyanin production in _Phlox drummondii_ contributing to speciation #MybMonday
 
 <img alt="Point mutation boost MYB expression (Tweet #79)" src="https://pbs.twimg.com/media/GIPZv2cWkAAX6R5?format=jpg&name=large" width="40%" height="40%">
 
@@ -749,7 +749,7 @@ It has been assumed in the community that MYB transcription factors are the deci
 
 
 ### (80) PpBBX16 activates anthocyanin MYB10 in red pear ###
-> **Post:** Light-induced anthocyanin pigmentation of red pears involves PpBBX16/PpHY5 as activator of the R2R3 MYB10 that activates the anthocyanin biosynthesis genes #MybMonday (details: https://lnk.tu-bs.de/WpOMur)
+> **Post:** Light-induced anthocyanin pigmentation of red pears involves PpBBX16/PpHY5 as activator of the R2R3 MYB10 that activates the anthocyanin biosynthesis genes #MybMonday
 
 <img alt="PpBBX16 activates anthocyanin MYB10 in red pear (Tweet #80)" src="https://pbs.twimg.com/media/GIPhByqW4AAG50R?format=jpg&name=large" width="40%" height="40%">
 
