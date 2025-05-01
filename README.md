@@ -761,7 +761,7 @@ Due to a lack of recent open access publications about the MYB transcription fac
 
 
 ## Contact ##
-Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]MYB_Monday)
+Do you have a recent publication about MYBs in plants that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:pucker@uni-bonn.de?subject=[GitHub]MYB_Monday)
 
 
 ## References ##
