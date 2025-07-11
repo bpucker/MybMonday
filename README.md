@@ -10,7 +10,7 @@ Here is a list of the expected functions of [MYBs in banana (_Musa acuminata_)](
 
 
 <a href="https://doi.org/10.1371/journal.pone.0239275">
-<img alt="Phylogenetic tree of banana MYBs" src="https://www.biorxiv.org/content/biorxiv/early/2020/02/03/2020.02.03.932046/F2.large.jpg" width="75%" height="75%">
+<img alt="Phylogenetic tree of banana MYBs" src="https://www.biorxiv.org/content/biorxiv/early/2020/02/03/2020.02.03.932046/F2.large.jpg" width="600">
 </a>
 
 Fig. 1: Phylotenetic tree of the banana (_Musa acuminata_) MYBs ([Pucker et al., 2020](https://doi.org/10.1371/journal.pone.0239275)).
@@ -30,7 +30,7 @@ Check out the collection of [genome-wide MYB investigations](https://github.com/
 
 > **Post:** MYBs are among the largest transcription factor families in plants. Members of the R2R3-MYB clade control various processes including ontogenesis, cell wall biosynthesis, stress response, and specialized metabolism. #MybMonday
 
-<img alt="Phylogenetic tree of banana MYBs (Tweet #1)" src="https://pbs.twimg.com/media/EuzsUIJXcAEPIpy?format=jpg&name=4096x4096" width="30%" height="30%">
+<img alt="Phylogenetic tree of banana MYBs (Tweet #1)" src="https://pbs.twimg.com/media/EuzsUIJXcAEPIpy?format=jpg&name=4096x4096" width="400">
 
 (Figure source: [Pucker et al., 2020](https://doi.org/10.1371/journal.pone.0239275))
 
@@ -41,7 +41,7 @@ This tweet serves as an introduction. Please read the introduction section on to
 
 > **Post:** Characteristic feature of MYBs are conserved tryptophan residues at defined positions in MYB repeat units. Names of MYBs are based on these MYB repeats e.g. 'R2R3-MYBs' harbour one R2 and one R3 repeat. #MybMonday
 
-<img alt="MYB repeat structure (Tweet #2)" src="https://pbs.twimg.com/media/EuzuOVBWQAAfvEM?format=png&name=medium" width="50%" height="50%">
+<img alt="MYB repeat structure (Tweet #2)" src="https://pbs.twimg.com/media/EuzuOVBWQAAfvEM?format=png&name=medium" width="400">
 
 These characteristic repeat features can be harnessed for the identification of MYBs in transcriptome or genome assemblies. Regular expressions can be used to search for this amino acid pattern in a given set of peptide sequences. Many genome-wide studies of R2R3-MYBs use the presence of this conserved domain to select their candidates.
 
@@ -50,7 +50,7 @@ These characteristic repeat features can be harnessed for the identification of 
 
 > **Post:** Some MYBs form complexes with bHLH and WD40 proteins. These complexes are named MBW after the 3 involved TFs. MBW controls the seed coat colour in Arabidopsis thaliana and other developmental processes. #MybMonday
 
-<img alt="MYBs interact with bHLH and WD40 (Tweet #3)" src="https://pbs.twimg.com/media/EvNNzvcXIAEq1tv?format=jpg&name=medium" width="30%" height="30%">
+<img alt="MYBs interact with bHLH and WD40 (Tweet #3)" src="https://pbs.twimg.com/media/EvNNzvcXIAEq1tv?format=jpg&name=medium" width="400">
 
 Different MYBs and bHLHs can be involved in the MBW complex formation. The integration of different TFs allows specificity for different target genes. This complex is not only required for the regulation of the proanthocyanidin biosynthesis, but also plays a role in the development of trichomes and root hairs.
 
@@ -58,7 +58,7 @@ Different MYBs and bHLHs can be involved in the MBW complex formation. The integ
 
 > **Post:** MYBs are the target of breeding projects to improve fruits, vegetables, and ornamental plants. MYB1/10/110a are responsible for the red coloration of apple skin, foliage & fruit-flesh, respectively, by activating a pigment biosynthesis  #MybMonday
 
-<img alt="MYBs are breeding targets (Tweet #4)" src="https://pbs.twimg.com/media/EvNPR_CXMAEvIFp?format=jpg&name=medium" width="30%" height="30%">
+<img alt="MYBs are breeding targets (Tweet #4)" src="https://pbs.twimg.com/media/EvNPR_CXMAEvIFp?format=jpg&name=medium" width="400">
 
 As transcriptional regulators of entire biosnythesis pathways, MYBs are promising targets of breeding projects. The deactivation of a specific MYB and be used to shut down a pathway leading to undesired products. Additionally, the contruction of genetically modified plants, e.g. overexpressing certain MYBs, is an option to improve the crop quality by up-regulating desired pathways.
 
