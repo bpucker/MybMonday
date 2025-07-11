@@ -126,8 +126,6 @@ WEREWOLF (WER) is an important regulator in the plant ontogenesis [Lee & Schiefe
 
 > **Post:** The R1-MYB family member MYB2 of Boehmeria nivea (Ramie) appears to be a positive regulator of Cd tolerance and accumulation. #MybMonday
 
-<img alt="MYB2 of <i>Boehmeria nivea</i> (Tweet #12)" src="https://pbs.twimg.com/media/Ez2HyD-XEAApfcv?format=png&name=900x900" width="400">
-
 A recent publication by [Zhu et al., 2020](https://doi.org/10.1371/journal.pone.0233375) describes MYB2 of Boehmeria nivea (Ramie) as regulator of Cadmium (Cd) tolerance and accumulation. BnMYB2 is an ortholog of GmMYB176, StMYB1R-1, AtMYBS3, OsMYBS1, and OsMYBS2. This clade is characterized by a conserved SHAQKYF motif. Heterologous expression of BnMYB2 in A. thaliana seem to increase the Cd tolerance and accumulation significantly. Would the expression of other MYBs e.g. AtMYBS3 result in a similar effect?
 
 
@@ -520,7 +518,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 > **Post:** VvMYB24 activates terpene & flavonol biosynthesis in berry skin parts that lack anthocyanin pigementation #MybMonday
 
-<img alt="Radiation protection 'plan B' (Tweet #53)" src="https://pbs.twimg.com/media/FIsadPcWQAY9p_1?format=jpg&name=medium" width="40%" height="40%">
+<img alt="Radiation protection 'plan B' (Tweet #53)" src="https://pbs.twimg.com/media/FIsadPcWQAY9p_1?format=jpg&name=medium" width="400">
 
 [Chen et al., 2021](https://doi.org/10.1101/2021.12.16.472692 ) compared white/pale and anthocyanin-pigmented skins sections of _Vitis vinifera_ berries. Sections without anthocyanins are characterized by non-functional alleles of the anthocyanin regulators _VvMYBA1_ and _VvMYBA2_. Since anthocyanins are crucial for the pigmentation, these alleles explain the lack of color. _VvMYBA1_ is repressed by a transposon insertion in the promoter that can be lost through somatic mutations hence leading to local pigmentation of white berries. VvMYB24 (VIT_14s0066g01090), a subgroup 19 member, was studied through DAP-seq. This investigation resulted in the identification of _HY5_ and _MYC2_ as important targets. These results suggest that VvMYB24 activates the flavonol biosynthesis and the terpene (carotenoid) biosynthesis. This study is additional evidence for the sunscreen function of anthocyanins.
 
@@ -529,7 +527,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 > **Post:** PgMYB308-like of pomegranate activates shikimate pathway and lignin biosynthesis, but represses the biosynthesis of flavonoids #MybMonday
 
-<img alt="PgMYB308-like of pomegranate (Tweet #54)" src="https://pbs.twimg.com/media/FMjfBLnXMAAbRIr?format=jpg&name=4096x4096" width="40%" height="40%">
+<img alt="PgMYB308-like of pomegranate (Tweet #54)" src="https://pbs.twimg.com/media/FMjfBLnXMAAbRIr?format=jpg&name=4096x4096" width="400">
 
 [Dhakarey et al., 2022](https://doi.org/10.1093/hr/uhac008) investigated the function of PgMYB308-like in _Punica granatum_ (pomegranate). Pomegranate juice is associated with many health benefits which were attributed to phenolic compounds with antioxidant activity. Various flavonoids and other specialized metabolites are expected to play important roles. The biosynthesis of these compounds depends on the shikimate pathway for formation of the substrate phenylalanine. R2R3-MYB transcription factors are known to play important roles in the regulation of these biosynthesis pathways. PgMYB308-like was identified as a subgroup4 R2R3-MYB through a phylogenetic anlysis. Members of this subgroup have been reported as flavonoid repressors in previous studies. A motifs for the interaction with bHLH partners was discovered in PgMYB308-like. Overexpression of this _PgMYB308-like_ in pomegranate hairy root cells resulted in an increased production of aromatic amino acids and lignins, but reduced formation of flavonoids. The production of tyrosine and tryptophan was substantially stronger increased than the formation of phenylalanine. Among the up-regulated target genes of PgMYB308-like are caffeic acid 3-O-methyltransferase (COMT), laccase 7-like, and laccase 13. It appears that PgMYB308-like is not just activating the lignin biosynthesis, but also regulates the cell wall formation. Down-regulated genes include MYB123-like, MYB308, and EGL1-like that are involved in the flavonoid biosynthesis.
 
@@ -538,7 +536,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 > **Post:** Poplar MYB117 activates the anthocyanin biosynthesis and increases the hydroxylation of flavonoids through enhanced expression of F3'5'H #MybMonday
 
-<img alt="Poplar MYB117 promotes anthocyanin biosynthesis (Tweet #55)" src="https://pbs.twimg.com/media/FNMBN5EXoAco-2q?format=jpg&name=medium" width="40%" height="40%">
+<img alt="Poplar MYB117 promotes anthocyanin biosynthesis (Tweet #55)" src="https://pbs.twimg.com/media/FNMBN5EXoAco-2q?format=jpg&name=medium" width="400">
 
 [Ma et al., 2021](https://doi.org/10.1093/jxb/erab116) investigated the role of poplar MYB117 in _Populus tremula x tremuloides_. There are six PAP1-type MYBs in poplar: MYB113, MYB116, MYB117, MYB118, MYB119, and MYB120. MYB117 does not act on its own, but requires the formation of a complex with bHLH131 for this activation. This bHLH partner is also forming complexes with the proanthocyanidin regulators MYB115 and MYB134. It seems that this bHLH does not have a preference for any of these three MYBs. Overexpression of MYB117 in poplar caused an increase of the anthocyanin content by >50-fold while the proanthocyanidin content was only slightly increased. Expression of the core flavonoid biosynthesis genes was activated by MYB117, but also some TFs showed up-regulation. The MYB117 paralog MYB113 showed a striking up-regulation which indicated that this might be a direct target of MYB117. Both _F3'5'H_ genes and _b5_ showed a substantial up-regulation. High F3'5'H activity resulted in a higher ratio of delphinidin derivatives to cyanidin derivatives (about 1:1) compared to the wild type (about 1:10). The increase in the prodelphinidin to procyanidin ratio was similar, but at a lower level. The same was observed for flavonols.
 
@@ -548,7 +546,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 > **Post:** MYB12 binds TMO5 resulting in reduced activity of the TMO5/LHW complex. Expression of the target genes is reduced. MYB12 is an indirect TMO5/LHW target. This system constitutes a negative feedback loop #MybMonday
 
-<img alt="Repressor function of MYB12 (Tweet #56)" src="https://pbs.twimg.com/media/FNykhr-WUAESi6Y?format=jpg&name=4096x4096" width="40%" height="40%">
+<img alt="Repressor function of MYB12 (Tweet #56)" src="https://pbs.twimg.com/media/FNykhr-WUAESi6Y?format=jpg&name=4096x4096" width="400">
 
 [Wybouw et al., 2022](https://doi.org/10.1101/2022.03.08.483486) investigated the role of MYB12 as repressor of the TMO5/LHW-mediated gene expression. The bHLH transcription factors TARGET OF MONOPTEROS 5 (TMO5) and LONESOME HIGHWAY (LHW) form a heterodimer that controls vascular cell proliferation that is responsible for radial expansion of the vascular bundle. High TMO5/LHW activity results in shorter roots with increased width. TMO5/LHW activates the expression of LONELY GUY 3(LOG3) and BETA GLUCOSIDASE 44 (BGLU44) which are involved in the cytokinin formation. SUPPRESSOR OF ACAULIS51-LIKE (SACL) is a repressor of this process due to competition with TMO5 for binding LHW. EMS mutagenesis generated a novel _myb12_ allele which revealed the novel repressor function of MYB12. The authors identified MYB12 as an additional repressors that binds TMO5 and prevents the formation/activity of the bHLH heterodimer. As MYB12 is also an indirect target of TMO5/LHW, this system consitutes a negative feedback loop. The molecular mechanism of the repression by MYB12 remains elusive. One hypothesis suggest that MYB12 might redirects the activity of the TMO5/LHW complex to other target genes.
 
@@ -558,7 +556,7 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 > **Post:** MYBs can be identified and annotated automatically (https://rdcu.be/cJm7Q). The corresponding #Python code and required data sets are freely available @github. A web server is under development. #MybMonday
 
-<img alt="Automatic identification and annotation of MYBs (Tweet #57)" src="https://pbs.twimg.com/media/FOWgj2AX0AIsZUD?format=jpg&name=large" width="40%" height="40%">
+<img alt="Automatic identification and annotation of MYBs (Tweet #57)" src="https://pbs.twimg.com/media/FOWgj2AX0AIsZUD?format=jpg&name=large" width="400">
 
 [Pucker, 2022](https://doi.org/10.1186/s12864-022-08452-5) describes the automatic identification and functional annotation of MYBs. The Python tool is available for download: [MYB_annotator](https://github.com/bpucker/MYB_annotator). A web server for more convenient application is under development. Get in touch if you need help running a MYB analysis.
 
@@ -567,14 +565,14 @@ Check out the website of [TOMSBio lab](https://tomsbiolab.com/) to learn more ab
 
 > **Post:** Interested in the biological functions of individual MYBs? Here is an updated collection of MYB papers: [MYB papers](https://github.com/bpucker/MybMonday/wiki/Collection-of-studies-characterizing-individual-MYBs) #MybMonday
 
-<img alt="Updated collection of MYB papers (Tweet #58)" src="https://pbs.twimg.com/media/E-BCE_RXEAElM5Y?format=jpg&name=small" width="40%" height="40%">
+<img alt="Updated collection of MYB papers (Tweet #58)" src="https://pbs.twimg.com/media/E-BCE_RXEAElM5Y?format=jpg&name=small" width="400">
 
 
 ### (59) Bamboo MYBs ###
 
 > **Post:** Investigation of the MYBs in the fast growing woody Phyllostachys edulis (bamboo) revealed some potential regulators of the secondary cell wall development #MybMonday
 
-<img alt="Bamboo MYBs (Tweet #59)" src="https://pbs.twimg.com/media/FPeDEVoX0AkNQbU?format=jpg&name=large" width="40%" height="40%">
+<img alt="Bamboo MYBs (Tweet #59)" src="https://pbs.twimg.com/media/FPeDEVoX0AkNQbU?format=jpg&name=large" width="400">
 
 [Yang et al., 2019](https://doi.org/10.7717/peerj.6242) investigated the MYB gene family in moso bamboo (_Phyllostchys edulis_). A total of 85 MYBs was identified and characterized by phylogenetic analysis, gene structure analysis, and gene expression analysis. This set of MYBs includes 82 R2R3-MYBs. The expression pattern of 12 MYBs suggests that they might be associated with the biosynthesis of the secondary cell wall (SCW).
 Lignified SCWs are of biotechnological interest, because they are responsible for the wood quality. Bamboo is characterized by rapid growth which makes it an economically important species. The identification of MYBs associated with the wood quality provides the basis for modifications through genetic engineering or breeding in the future. While this study revealed some candidates, additional analyses are required to understand how the development of SCW is regulated in bamboo.
@@ -584,7 +582,7 @@ Lignified SCWs are of biotechnological interest, because they are responsible fo
 
 > **Post:** Exciting findings: evolution of flavonol biosynthesis regulating MYBs in Brassicaceae involves a deep MYB12 and MYB111 duplication as well as a MYB11 loss #MybMonday: https://doi.org/10.1101/2022.04.06.487363
 
-<img alt="Evolution of flavonol regulators in _Brassicaceae_ (Tweet #60)" src="https://pbs.twimg.com/media/FQAiZohWUAEsg-5?format=jpg&name=4096x4096" width="40%" height="40%">
+<img alt="Evolution of flavonol regulators in _Brassicaceae_ (Tweet #60)" src="https://pbs.twimg.com/media/FQAiZohWUAEsg-5?format=jpg&name=4096x4096" width="400">
 
 [Schilbert & Glover, 2022](https://doi.org/10.1101/2022.04.06.487363) performed comprehensive analyses of the MYB gene family in the _Brassicaceae_. The flavonol biosynthesis in _Arabidopsis thaliana_ is regulated by MYB11/MYB12/MYB111 which have partially redundant functions. A deep duplication of _MYB12_ and _MYB111_ was discovered. In addition, loss of _MYB11_ was identified. These findings are supported by synteny and phylogenetic analyses.
 
@@ -593,7 +591,7 @@ Lignified SCWs are of biotechnological interest, because they are responsible fo
 
 > **Post:** Flower colors of Paeonia ostii are determined by anthocyanin concentrations and range from white to pink. PoMYB2 and PoSPL1 were proposed as negative regulators of the anthocyanin biosynthesis #MybMonday
 
-<img alt="Anthocyanin regulation in _Paeonia ostii_ (Tweet #61)" src="https://pbs.twimg.com/media/FQRlYF9WUAQ-Lg9?format=jpg&name=large" width="40%" height="40%">
+<img alt="Anthocyanin regulation in _Paeonia ostii_ (Tweet #61)" src="https://pbs.twimg.com/media/FQRlYF9WUAQ-Lg9?format=jpg&name=large" width="400">
 
 [Gao et al., 2016](https://doi.org/10.3389/fpls.2015.01205) investigated the molecular basis of flower color variation in _Paeonia ostii_. Flower colors of this species range from white to pink. The color is determined by the amount of accumulated anthocyanins. The transcription factors PoMYB2 and PoSPL1 were identified as potential negative regulators of the anthocyanin biosynthesis. It is spectulated that these transcription factors reduce the activation capacity of the MYB-bHLH-TTG1 complex that activates the anthocyanin biosynthesis.
 
@@ -602,7 +600,7 @@ Lignified SCWs are of biotechnological interest, because they are responsible fo
 
 > **Post:** Automatic MYB annotation is now available as an online service: https://pbb-tools.de/MYB_annotator/. Just submit a FASTA file of your species of interest to start the analysis. #MybMonday (https://doi.org/10.1186/s12864-022-08452-5)
 
-<img alt="MYB_annotator online (Tweet #62)" src="https://pbs.twimg.com/media/FRJ9-rGX0AAjU2H?format=jpg&name=large" width="40%" height="40%">
+<img alt="MYB_annotator online (Tweet #62)" src="https://pbs.twimg.com/media/FRJ9-rGX0AAjU2H?format=jpg&name=large" width="400">
 
 The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s12864-022-08452-5)) is  now available as an online service: [MYB_annotator online](https://pbb-tools.de/MYB_annotator/). Users can submit a FASTA file with peptide sequences of their species of interest without having to install the tool locally.
 
@@ -611,7 +609,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 > **Post:** Petunia exserta lacks a functional AN2 (anthocyanin regulating MYB). A paralog MYB resurrects anthocyanin pigmentation in a white flowering lineage and shifts flower color to red #MybMonday
 
-<img alt="Regulation of anthocyanin biosynthesis in petunia (Tweet #63)" src="https://pbs.twimg.com/media/FRqYl-jX0AEA2iI?format=jpg&name=large" width="40%" height="40%">
+<img alt="Regulation of anthocyanin biosynthesis in petunia (Tweet #63)" src="https://pbs.twimg.com/media/FRqYl-jX0AEA2iI?format=jpg&name=large" width="400">
 
 [Berardi et al., 2021](https://doi.org/10.1093/plcell/koab114) investigated the molecular basis of red floral color in _Petunia exserta_. Red flower color evolved multiple times independently from purple coloration through loss-of-function mutations. One major driver of this evolution is the pollination by hummingbirds. However, _Petunia exserta_ evolved from a white flowering ancestor. The key anthocyanin regulator _AN2_ is non-functional in this species. A paralog of _AN2_ restored the anthocyanin pigmentation. Hydroxylation patterns are modified and acylation of anthocyanins is prevented. Different _F3'5'H_ paralogs are highly expressed in _P. exserta_ (red) and _P. secreta_ (purple) and are likely to act upon different substrates. Low expression of _AAT_ prevents down-stream modifications of anthocyanins. There are four anthocyanin regulating MYBs in long-tube petunia (_AN2_, _AN4_, _DPL_, _PHZ_) which control the pigmentation of defined floral structures. The search for the key anthocyanin regulator in _P. exserta_ revealed _DPL_ and _PH4_ as most suitable candidates based on their expression patterns. Repression of _DPL_caused white flowers exclusively in _P. exserta_, while repression of _PH4_ effects multiple _Petunia_ species. The authors assume that DPL shifted from activation of anthocyanin biosynthesis in the veins of the floral tube to activation of the anthocyanin biosynthesis in the limb. This is a rare example of neofunctionalization instead of subfunctionalization. PH4 might be involved in activating the anthocyanin transport genes. A loss-of-function mutation in the flavonol regulating _MYB-FL_ removes the competition of flavonol and anthocyanin biosynthesis for substrate thus enabeling anthocyanin pigmentation.
 
@@ -620,7 +618,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 > **Post:** MYB10 and MYB110 activate anthocyanin biosynthesis in Actinidia chinensis. While MYB110 causes pigment accumulation in the entire fruit, MYB10 leads to pigmentation of the inner pericarp #MybMonday
 
-<img alt="Regulation of anthocyanin biosynthesis in kiwifruit (Tweet #64)" src="https://pbs.twimg.com/media/FSDN9zRaMAE0JYm?format=jpg&name=large" width="40%" height="40%">
+<img alt="Regulation of anthocyanin biosynthesis in kiwifruit (Tweet #64)" src="https://pbs.twimg.com/media/FSDN9zRaMAE0JYm?format=jpg&name=large" width="400">
 
 [Wang et al., 2022](https://doi.org/10.1111/nph.18122) studied the differential expression of the anthocyanin regulators MYB10 and MYB110 in _Actinidia chinensis_ (kiwifruit). This species is characterized by a variety of differently pigmented cultivars including green, yellow, red, and purple. The gene expression difference of these MYBs is controlled at the transcriptional level by miRNAs that degrade repressors of these MYBs. MYB10 and MYB110 are both able to activate the anthocyanin biosynthesis. MYB210 is phylogenetically related to MYB10 and MYB110, but appears to be non-functional. MYB10 and MYB210 appear to be the result of a whole genome duplication. MYB210 and MYB110 seem to be tandem duplicates. MYB110 appears to be a stronger activator than MYB10. While _MYB10_ overexpression only resulted in anthocyanin formation in the inner pericarp, overexpression of _MYB110_ causes anthcocyanin formation across the fruit.
 
@@ -629,7 +627,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 > **Post:** Proanthocyanidin biosynthesis in banana is activated by MaMYBPA1 and MaMYBPA2. Four other MYBs serve as repressors #MybMonday
 
-<img alt="Regulation of proanthocyanidin biosynthesis in banana (Tweet #65)" src="https://pbs.twimg.com/media/FS1t1heX0AIjqTi?format=jpg&name=large" width="40%" height="40%">
+<img alt="Regulation of proanthocyanidin biosynthesis in banana (Tweet #65)" src="https://pbs.twimg.com/media/FS1t1heX0AIjqTi?format=jpg&name=large" width="400">
 
 [Rajput et al., 2022](https://doi.org/10.1101/2022.04.27.489641) investigated the proanthocyanidin biosynthesis regulating MYB transcription factors in _Musa acuminata_. MaMYBPA1 and MaMYBPA2 activate the proanthocyanidin biosynthesis, while MaMYBR1-MaMYBR4 serve as repressors. Applied methods include the complementation of _Arabidopsis thaliana_ _tt2_ mutants and promoter binding assays. MaMYBs interacted with bHLH and TTG1 to form a functional MBW complex.
 
@@ -638,7 +636,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 
 > **Post:** MIXTA-MYB MpSBG9 regulates the cutin biosynthesis in Marchantia polymorpha. This suggest a role of the MIXTA-MYB lineage in the evolution of the cuticle #MybMonday (https://doi.org/10.1111/nph.16997)
 
-<img alt="MIXTA-MYB in _Marchantia polymorpha_ (Tweet #66)" src="https://pbs.twimg.com/media/FTW6hiKXwAM_VHX?format=jpg&name=large" width="40%" height="40%">
+<img alt="MIXTA-MYB in _Marchantia polymorpha_ (Tweet #66)" src="https://pbs.twimg.com/media/FTW6hiKXwAM_VHX?format=jpg&name=large" width="400">
 
 [Xu et al., 2020](https://doi.org/10.1111/nph.16997) characterized the subgroup 9 R2R3-MYB transcription factor MpSBG9 in _Marchantia polymorpha_. This MYB is homologous to MIXTA-MYBs of vascular plants and regulates the biosynthesis of cutin, but not the wax biosynthesis. The discovery of the MpSBG9 functions suggests an involvement of the MIXTA-MYB lineage in the evolution of the cuticle.
 
@@ -646,7 +644,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 ### (67) MYB93 is involved in lateral root development ###
 > **Post:** MYB93 regulates lateral root development in Arabidopsis in response to very long fatty acid levels. myb93 mutants showed faster lateral root development, while MYB93 overexpression slowed down the process #MybMonday
 
-<img alt="MYB93 is involved in lateral root development (Tweet #67)" src="https://pbs.twimg.com/media/FT8kb_MX0AEJLWs?format=jpg&name=large" width="40%" height="40%">
+<img alt="MYB93 is involved in lateral root development (Tweet #67)" src="https://pbs.twimg.com/media/FT8kb_MX0AEJLWs?format=jpg&name=large" width="400">
 
 [Uemura et al., 2022](https://doi.org/10.1101/2022.05.24.493307) investigated the role of _Arabidopsis thaliana_ MYB93 in the regulation of lateral roots in response to very long chain fatty acid (VLCFA) levels. MYB93 was found to regulate the expression of cell wall remodling genes including expansins. Expression of expansins is repressed by MYB93. VLCFA treatment caused a reducation of the _MYB93_ expression levels. _MYB93_ was specifically expressed in the endodermis of LROCs with an increase from stage I to stage V. However, _MYB93_ expression was not observed in lateral root primordia (LRPs). Knock-out of _MYB93_ lead to a faster development of LRPs, while overexpression of _MYB93_ resulted in a slower development of lateral roots. 
 
@@ -654,7 +652,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 ### (68) MtLAP1 controls anthocyanin biosynthesis in Medicago ###
 > **Post:** The anthocyanin regulating MYB MtLAP1 controls the expression of MtGSTF7 in Medicago. Expression of MtGSTF7 is crucial for anthocyanin accumulation in the vacuole #MybMonday
 
-<img alt="MtLAP1 controls anthocyanin biosynthesis in Medicago (Tweet #68)" src="https://pbs.twimg.com/media/FUTj12DXsAAcVzq?format=jpg&name=large" width="40%" height="40%">
+<img alt="MtLAP1 controls anthocyanin biosynthesis in Medicago (Tweet #68)" src="https://pbs.twimg.com/media/FUTj12DXsAAcVzq?format=jpg&name=large" width="400">
 
 [Wang et al., 2022](https://doi.org/10.1093/jxb/erac112) investigated the up-regulated genes in LAP1 overexpression _Medicago truncatula_ plants. While some of these genes are known members of the anthocyanin biosynthesis, novel genes were identified. _MtGSTF7_ was among these genes. Expression of _MtGSTF7_ was also identified to correlate with the deposition of anthocyanins. The _gstf7_ mutant lacks anthocyanins thus indicating that this genes is crucial for the pigmentation with anthocyanins. Activation of _MtGSTF7_ by LAP1 was predicted by PlantCARE and validated by dual luciferase assays. These results align with previous research on soybean which discovered differences in the target genes of anthocyanin and proanthocyanidin biosynthesis regulators.
 
@@ -663,7 +661,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 ### (69) _Malus baccata MYB4_ ###
 > **Post:** Heterologous expression of _Malus baccata MYB4_ in _A. thaliana_ seedlings increases the cold and drought stress tolerance #MybMonday
 
-<img alt="_Malus baccata MYB4_ (Tweet #69)" src="https://pbs.twimg.com/media/FVEsV00WYAEmmI6?format=jpg&name=large" width="40%" height="40%">
+<img alt="_Malus baccata MYB4_ (Tweet #69)" src="https://pbs.twimg.com/media/FVEsV00WYAEmmI6?format=jpg&name=large" width="400">
 
 [Yao et al., 2022](https://doi.org/10.3390/ijms23031794) investigated the function of _Malus baccata MYB4_ through heterologous expression in _Arabidopsis thaliana_ seedlings. _MbMYB4_ is the ortholog of _MYB4_ in _Malus domestica_. _MYB4_ shows increased expression in apple under cold stress, salt stress, and drought stress. The authors speculate that the activation of a CBF-dependent pathway might explain the observed phenotype. The drought response genes _CAT1_ and _P5CS_ were also reported as target genes of _MYB4_.
 
@@ -671,7 +669,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 ### (70) _Brassica napus MYB28_ determines seed GSL content ###
 > **Post:** Brassica napus MYB28 determines the glucosinolate (GSL) content of seeds through regulation of the biosynthesis. Disruption of the ORF leads to low GSL lines #MybMonday https://doi.org/10.1101/2022.06.01.494149 
 
-<img alt="_Brassica napus MYB28_ determines seed GSL content (Tweet #70)" src="https://pbs.twimg.com/media/FVqylwEX0AEQiWF?format=jpg&name=4096x4096" width="40%" height="40%">
+<img alt="_Brassica napus MYB28_ determines seed GSL content (Tweet #70)" src="https://pbs.twimg.com/media/FVqylwEX0AEQiWF?format=jpg&name=4096x4096" width="400">
 
 [Schilbert et al., 2022](https://doi.org/10.1101/2022.06.01.494149) identified MYB28 as a crucical factor determining the glucosinolate (GSL) content in a segregating _Brassica napus_ (rapeseed) population. Mapping-by-sequencing revealed a genomic locus harbouring a MYB28 homeolog. This gene is highly expressed in seeds. Low GSL lines are characterized by a 4bp insertion in the open reading frame of this gene wich results in a disruptive frameshift mutation. The resulting truncated MYB28 is no longer able to activate the GSL biosynthesis.
 
@@ -679,7 +677,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 ### (71) _Ipomoea nil_ R2R3-MYBs ###
 > **Post:** Several R2R3-MYBs of the C16 lineage are proposed as regulators of the anthocyanin biosynthesis in Japanese morning glory (Ipomoea nil). An intraspecific variation affects one of these putative anthocyanin regulators #MybMonday
 
-<img alt="_Ipomoea nil_ R2R3-MYBs (Tweet #71)" src="https://pbs.twimg.com/media/FWMLLbNXgAA7VSY?format=jpg&name=large" width="40%" height="40%">
+<img alt="_Ipomoea nil_ R2R3-MYBs (Tweet #71)" src="https://pbs.twimg.com/media/FWMLLbNXgAA7VSY?format=jpg&name=large" width="400">
 
 [Komatsuzaki et al., 2022](https://doi.org/10.1101/2022.06.23.497360) performed a genome-wide investigation of R2R3-MYBs in Japanese morning glory (_Ipomoea nil_). InMYB1 (INIL00g10723, INIL00g10723, INIL11g4087) was previously identified as an anthocyanin regulator, because its knock-out caused a flower mutant phenotype. InMYB2 (INIL05g09650) and InMYB3 (INIL05g09651) have also been considered as potential anthocyanin regulators. Clade 15 of the InMYBs corresponds to _Arabidopsis thaliana_ subgroup 7 thus most likely being involvedin flavonol regulation. Clade 16 of the IbMYBs matches the _A. thaliana_ subgroup 6 which is responsible for the anthocyanin regulation. Therefore, five genes in C16 are potential anthocyanin regulators. InMYB3 (INIL05g09651) seems to have an interspecific polymorphism as it lacks a complete R2R3 domain in this study, but was reported as a complete MYB before. 
 
@@ -687,7 +685,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 ### (72) _Brassica rapa_ _MYB18.1_ ###
 > **Post:** A LTR/Copia insertion in Brassica rapa MYB18 shows a strong allele frequency difference between heading and nonheading populations indicating strong selection during domestication #MybMonday
 
-<img alt="_Brassica rapa_ _MYB18.1_ (Tweet #72)" src="https://pbs.twimg.com/media/FWytuavX0AMFU4z?format=jpg&name=medium" width="40%" height="40%">
+<img alt="_Brassica rapa_ _MYB18.1_ (Tweet #72)" src="https://pbs.twimg.com/media/FWytuavX0AMFU4z?format=jpg&name=medium" width="400">
 
 [Cai et al., 2022](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pbi.13807) identified a TE insertion in _Brassica rapa_ _MYB18.1_. MYB18 is a positive regulator of the phyA photoresponse. A 4.8kb LTR/Copia disrupts the MYB gene. The comparison of a heading and a nonheading population of plants reveals almost complete dominance of this insertion allele in the heading population, while it was almost not present in the nonheading population. This suggest that _MYB18.1_ was under strong selection during domestication. The data also suggest that the insertion allele was later re-introduced into other cultivars through breeding.
 
@@ -695,7 +693,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 ### (73) _Oryza sativa OsFLP_ contributes to drought and salt tolerance ###
 > **Post:** OsFLP (MYB124) contributes to drought and salt stress response in rice through activation of OsNAC1 and OsNAC6 #MybMonday
 
-<img alt="_Oryza sativa_ _OsFLP_ contributes to drought and salt tolerance (Tweet #73)" src="https://pbs.twimg.com/media/FXVPgDYXoAEQFnQ?format=jpg&name=900x900" width="40%" height="40%">
+<img alt="_Oryza sativa_ _OsFLP_ contributes to drought and salt tolerance (Tweet #73)" src="https://pbs.twimg.com/media/FXVPgDYXoAEQFnQ?format=jpg&name=900x900" width="400">
 
 [Qu et al., 2022](https://doi.org/10.3390/ijms23115873) investigated _OsFLP_ which contributed to the drought and salt stress response of rice through activation of _OsNAC1_ and _OsNAC6_. FOUR LIPS (FLP) is classified as MYB124 in _Arabidopsis thaliana_. AtMYB124 and AtMYB88 have similar functions in regulating symmetric division of guard mother cells and abiotic stress response. 
 
@@ -703,7 +701,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 ### (74) _Musa_ R2R3-MYBs activate the anthocyanin biosynthesis ###
 > **Post:** Musa MYBs were identified as MBW components and activators of the anthocyanin biosynthesis. A complex with monocot bHLH ZmR resulted in higher target gene activation than a complex with dicot bHLH AtEGL3 #MybMonday https://doi.org/10.1101/2022.08.15.503939
 
-<img alt="_Musa_ R2R3-MYBs activate the anthocyanin biosynthesis (Tweet #74)" src="https://pbs.twimg.com/media/FS1t1heX0AIjqTi?format=jpg&name=large" width="50%" height="50%">
+<img alt="_Musa_ R2R3-MYBs activate the anthocyanin biosynthesis (Tweet #74)" src="https://pbs.twimg.com/media/FS1t1heX0AIjqTi?format=jpg&name=large" width="400">
 
 [Busche et al., 2022](https://doi.org/10.1101/2022.08.15.503939) identified three R2R3-MYBs that are involved in the formation of MBW complexes and the activation of the anthocyanin biosynthesis in _Musa_. The MBW complex is named after the three components: MYB-bHLH-WD40. The MYBs MusaMYB-α, MusaMYB-β, and MusaMYB-γ showed a stronger activation of their target genes when forming a complex with the monocot bHLH ZmR compared to complexes with the dicot bHLH AtEGL3. This supports a systematic difference in the MYB-bHLH interaction between monocots and dicots.
 
@@ -711,7 +709,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 ### (75) Evolution of flavonol regulators in Brassicaceae II ###
 > **Post:** Duplication of MYB21 and loss of the close paralog MYB24 seem to coincide in the evolution of Brassicacea just prior to emergence of the Brassiceae #MybMonday (https://doi.org/10.1186/s12864-022-08819-8)
 
-<img alt="Evolution of flavonol regulators in Brassicaceae II (Tweet #75)" src="https://pbs.twimg.com/media/Fav7r0_XgAE05no?format=jpg&name=large" width="50%" height="50%">
+<img alt="Evolution of flavonol regulators in Brassicaceae II (Tweet #75)" src="https://pbs.twimg.com/media/Fav7r0_XgAE05no?format=jpg&name=large" width="400">
 
 [Schilbert & Glover, 2022](https://doi.org/10.1186/s12864-022-08819-8) performed a comprehensive analysis of the MYB gene family in the Brassicaceae. The authors report that _MYB21_ was duplicated prior to the emergence of Brassiceae. The event seems to coincide with the loss of _MYB24_ which is a close paralog of _MYB21_. It is expected that the remaining paralogs will compensate for the _MYB24_ loss.
 
@@ -719,7 +717,7 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 ### (76) Proanthocyanidin biosynthesis regulators in chickpea ###
 > **Post:** Genome-wide identification of MYBs in chickpea revealed two regulators of the proanthocyanidin biosynthesis which are promising targets for crop improvement #MybMonday
 
-<img alt="Proanthocyanidin biosynthesis regulators in chickpea (Tweet #76)" src="https://pbs.twimg.com/media/Fq6Q0-QXwAYkgqE?format=jpg&name=medium" width="50%" height="50%">
+<img alt="Proanthocyanidin biosynthesis regulators in chickpea (Tweet #76)" src="https://pbs.twimg.com/media/Fq6Q0-QXwAYkgqE?format=jpg&name=medium" width="400">
 
 [Rajput et al., 2022](https://doi.org/10.1007/s00425-022-03979-z) identified 119 typical MYBs in _Cicer arietinum_ (chickpea). CaPAR1 and CaPAR2 were identified as regulators of the proanthocyanidin biosynthesis. They interact with the bHLH transcription factor CaTT8. Cotransfection studies with CaPAR, CaTT8, and CaTTG1 show activation of the proanthocyanidin biosynthesis genes CaLAR and CaANR. The role of LAR and ANR in the context of the flavonoid biosynthesis is displayed in a [simplified illustration of the metabolic network](https://www.mdpi.com/plants/plants-09-01103/article_deploy/html/images/plants-09-01103-g001.png). As CaPAR1 and CaPAR2 activate the proanthocyanidin biosynthesis, they are promising targets for future crop improvements. Engineering of the flavonoid biosynthesis is of economical relevance.
 
@@ -727,14 +725,14 @@ The automatic MYB annotation workflow ([Pucker, 2022](https://doi.org/10.1186/s1
 ### (77) MYBs are frequently implicated in anthocyanin loss events ###
 > **Post:** Loss of anthocyanin pigmentation in flowers and fruits is often associated with mutations affecting transcription factors like MYBs #MybMonday
 
-<img alt="MYBs are frequently implicated in anthocyanin loss events (Tweet #77)" src="https://pbs.twimg.com/media/F2XIKtlWMAAiCls?format=jpg&name=large" width="50%" height="50%">
+<img alt="MYBs are frequently implicated in anthocyanin loss events (Tweet #77)" src="https://pbs.twimg.com/media/F2XIKtlWMAAiCls?format=jpg&name=large" width="400">
 
 It has been assumed in the community that MYB transcription factors are the decisive factor in anthocyanin pigmentation loss events. A recent study ([Recinos & Pucker, 2023](https://doi.org/10.1101/2023.06.05.543820)) quantified the number of anthocyanin pigmentation loss cases that can be explained by each gene associated with the pathway. It turned out that the MYB transcription factors are the most frequent explanation followed by bHLH transcription factors. Loss anthocyanin biosynthesis activation was a frequent explanation. However, the hyperactivation of flavonol biosynthesis by changes in the flavonol MYBs was also frequently observed.
 
 ### (78) Vitis MYB24 is a flavonol regulator ###
 > **Post:** Grapevine MYB24 seems to module UV and highlight stress response by activating terpene and flavonol biosynthesis #MybMonday https://doi.org/10.1093/plcell/koad228
 
-<img alt="Vitis MYB24 is a flavonol regulator (Tweet #78)" src="https://pbs.twimg.com/media/FIsadPcWQAY9p_1?format=jpg&name=medium" width="40%" height="40%">
+<img alt="Vitis MYB24 is a flavonol regulator (Tweet #78)" src="https://pbs.twimg.com/media/FIsadPcWQAY9p_1?format=jpg&name=medium" width="400">
 
 [Zhang et al., 2023](https://doi.org/10.1093/plcell/koad228) investigated the transcriptional regulation of flavonoid biosynthesis and terpene biosynthesis genes in the berries of different grape cultivars. Transposon-mediated inactivation of well known anthocyanin activators was previously descried as explanation for the lack of pigmentation in berries. As some parts of the berries are not protected by anthocyanins, they are exposed to dangerous UV light. MYB24 was found to be particularly active in the absence of anthocyanin biosynthesis.
 
@@ -743,7 +741,7 @@ It has been assumed in the community that MYB transcription factors are the deci
 ### (79) Point mutation boost MYB expression ###
 > **Post:** A point mutation in an anthocyanin MYB gene promoter generates a cis-regulatory element and leads to increased anthocyanin production in _Phlox drummondii_ contributing to speciation #MybMonday
 
-<img alt="Point mutation boost MYB expression (Tweet #79)" src="https://pbs.twimg.com/media/GIPZv2cWkAAX6R5?format=jpg&name=large" width="40%" height="40%">
+<img alt="Point mutation boost MYB expression (Tweet #79)" src="https://pbs.twimg.com/media/GIPZv2cWkAAX6R5?format=jpg&name=large" width="400">
 
 [Garner et al.](https://doi.org/10.1101/2023.04.19.537550) investigated the genetics underlying the flower coloration intensity of _Phlox drummondii_ and its contribution to reinforcement in the context of speciation. Flower colors differ in intensity (weak or strong), resulting in light or dark flowers. The R2R3-MYB protein PdMYB1 is the transcription factor controlling the intensity of anthocyanin accumulation, responsible for pigmentation intensity. Association mapping identified a single nucleotide variant (SNV) in the promoter region of _PdMYB1_ as the probable reason for the expression difference. Not all intensely pigmented individuals share this SNV; thus, there might be multiple (independent) mutations resulting in the same phenotype. However, this SNV generates a cis-regulatory element (CAAT-box-like binding motif or E2F TF binding motif) that could explain the difference in gene expression.
 
@@ -751,7 +749,7 @@ It has been assumed in the community that MYB transcription factors are the deci
 ### (80) PpBBX16 activates anthocyanin MYB10 in red pear ###
 > **Post:** Light-induced anthocyanin pigmentation of red pears involves PpBBX16/PpHY5 as activator of the R2R3 MYB10 that activates the anthocyanin biosynthesis genes #MybMonday
 
-<img alt="PpBBX16 activates anthocyanin MYB10 in red pear (Tweet #80)" src="https://pbs.twimg.com/media/GIPhByqW4AAG50R?format=jpg&name=large" width="40%" height="40%">
+<img alt="PpBBX16 activates anthocyanin MYB10 in red pear (Tweet #80)" src="https://pbs.twimg.com/media/GIPhByqW4AAG50R?format=jpg&name=large" width="400">
 
 [Bai et al., 2019]( https://doi.org/10.1111/pbi.13114) explored the role of PpBBX16 in the light-induced accumulation of anthocyanins in the fruit peel of red pear (_Pyrus pyrifolia_). PpBBX16 requires PpHY5 as partner to bind the MYB10 promoter and trigger the expression of this R2R3-MYB gene. The role of PpBBX16 was studied with Y1H and transformation of tobacco plants.
 
